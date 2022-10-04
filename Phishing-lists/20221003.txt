@@ -1,0 +1,53 @@
+Return-Path: <accounto-update[at]80f1k8[.]cn>
+Received: from mail[.]80f1k8[.]cn ([36.99.192.65])
+Received: from pTc[.]baidu[.]com (unknown [111.224.79.218])
+Sender: accounto-update[at]80f1k8[.]cn
+From: "auto" <auto[at]connect[.]auone[.]jp>
+Date: Sun, 2 Oct 2022 23:32:05 +0800
+X-mailer: Umghwsmg 5
+Subject: auPAYカード本人確認を完了してください。
+URL: hxxps://connect-login[.]chiropracticmarketingscripts[.]com/
+---
+Return-Path: <amazon[at]jcdz3[.]cn>
+Received: from jcdz3[.]cn ([106.75.31.93])
+Sender: amazon[at]jcdz3[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Mon, 3 Oct 2022 01:37:55 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]bdmhtb[.]cn/
+---
+Return-Path: <eki[at]lsyzmudc[.]com>
+Received: from mail4[.]lsyzmudc[.]com ([23.94.201.58])
+Date: Mon, 3 Oct 2022 09:47:45 +0900
+From: えきねっと <eki[at]lsyzmudc[.]com>
+Subject: 【ご注意】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]nfuesx[.]shop/{snip}
+---
+Return-Path: <mail[at]xiaoxinshuo[.]com>
+Received: from bccchurchofgod[.]com ([106.75.173.167])
+Received: from xiaoxinshuo[.]com (unknown [125.69.15.160])
+From: =?utf-8?B?6YeN6KaB55+l44KJ44Gb?= <mail[at]xiaoxinshuo[.]com>
+Date: Mon, 3 Oct 2022 16:26:29 +0800
+Subject: 【My Jcb 】事務局からのお知らせ！ 確認番号：9025xxxxxxxx
+URL: hxxps://xxcmc[.]com/jp[.]php
+---
+Return-Path: <info[at]dwben[.]top>
+Received: from dwben[.]top ([106.75.8.175])
+Received: from dfe[.]zqzsum (unknown [113.249.208.139])
+Sender: info[at]dwben[.]top
+From: えきねっと <information[at]eki-net[.]com>
+Date: Mon, 3 Oct 2022 17:03:58 +0800
+X-mailer: Qsxwea 0
+Subject: 自動退会完了後にお知らせするメール
+URL: hxxps://www[.]jp[.]eki-01[.]com/
+---
+Return-Path: <amazon[at]yxfaoh[.]cn>
+Received: from yxfaoh[.]cn ([106.75.182.153])
+Sender: amazon[at]yxfaoh[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Mon, 3 Oct 2022 22:43:16 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]y8xpy[.]cn/
+---

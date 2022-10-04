@@ -1,0 +1,104 @@
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([222.133.148.5])
+Date: Mon, 26 Sep 2022 23:56:31 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://t[.]ly/F5B7
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([220.178.185.72])
+Date: Tue, 27 Sep 2022 02:59:39 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/l19fwsp
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([27.184.151.35])
+Date: Tue, 27 Sep 2022 03:55:56 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]pl3jsy[.]com/jp
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from rdgrdgrd0[.]amazon[.]co[.]jp ([133.242.173.173])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Tue, 27 Sep 2022 04:55:17 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]amazon[.]saiforihgi11dighskrt9skhsjng[.]orugmauhgru[.]com/
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([218.2.95.99])
+Date: Tue, 27 Sep 2022 05:53:38 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://t[.]ly/QXJs
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from fgrgrdg0[.]amazon[.]co[.]jp ([133.242.202.133])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Tue, 27 Sep 2022 05:57:58 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]amazon[.]sigforg12digihk0dkhslhj[.]haortiakteih[.]com/
+---
+Return-Path: <amazong-cc-jppp[at]zhaofw03[.]top>
+Received: from mail[.]zhaofw03[.]top ([106.225.145.84])
+Received: from zsdr (unknown [125.94.192.246])
+Sender: amazong-cc-jppp[at]zhaofw03[.]top
+From: みずほ銀行 <info[at]mizuhobank[.]co[.]jp>
+Date: Tue, 27 Sep 2022 06:40:34 +0800
+Subject: みずほダイレクトからのご連絡[お取引目的等のご確認のお願い]
+URL: hxxps://aovsih3j4lbq[.]shop/jp
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([49.85.2.60])
+Date: Tue, 27 Sep 2022 11:52:35 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/81oxu5a
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([114.231.15.170])
+Date: Tue, 27 Sep 2022 14:43:13 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/rjh2d6b
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([220.178.185.72])
+Date: Tue, 27 Sep 2022 16:23:49 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/yhj7gsx
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([27.184.156.10])
+Date: Tue, 27 Sep 2022 18:20:08 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]pl3jsy[.]com/jp
+---
+Return-Path: <ogw[at]olp[.]net>
+Received: from olp[.]net ([42.6.176.112])
+From: "Amazon" <ogw[at]olp[.]net>
+Date: Tue, 27 Sep 2022 19:11:08 +0800
+X-mailer: Dtwupinde 6
+Subject: 【情報】 Amazon[.]co[.]jp：お客様のお支払い方法が承認されません #878-9442229-8829554
+URL: hxxps://www[.]aquaboil[.]com/jp
+---
+Return-Path: <jpetc-support[at]etcpa[.]top>
+Received: from C20220926212769[.]local ([155.94.133.119])
+Received: from yahoo2[.]com[.]cn (unknown [52.140.218.222])
+From: "ETC" <Jpetc-support[at]etcpa[.]top>
+Date: Tue, 27 Sep 2022 15:49:50 +000
+X-mailer: Pxoedq 5
+Subject: ETCサービスご利用者様へ大切なお知らせ
+URL: hxxps://japancard-etc[.]top/jp 
+---

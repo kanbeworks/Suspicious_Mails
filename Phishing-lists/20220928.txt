@@ -1,0 +1,100 @@
+Return-Path: <lutjkz30[at]sete[.]cn>
+Received: from sete[.]cn ([173.82.97.194])
+Received: from localhost ([127.0.0.1]) by localhost via TCP with ESMTPA ;Tue, 27 Sep 2022 16:22:03 +0800 (CST)
+From: "JR" <lutjkz30[at]sete[.]cn>
+Sender: "JR" <lutjkz30[at]sete[.]cn>
+Date: Tue, 27 Sep 2022 16:22:03 -0700
+Subject: 2022-09-27【重要】えきねっとアカウントの緊急更新 4070xxxxxxxxx
+URL: hxxps://www[.]rseecui-isu[.]xyz/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([49.85.49.124])
+Date: Wed, 28 Sep 2022 01:31:43 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/9lwt1zs
+---
+Return-Path: <amazoni[at]zhaofw15[.]top>
+Received: from mail[.]zhaofw15[.]top ([150.223.67.2])
+Received: from vorsamag (unknown [113.68.80.33])
+Sender: amazoni[at]zhaofw15[.]top
+From: ＥＴＣ利用照会サービス <admin[at]ml[.]etc-eisai[.]jp>
+Date: Wed, 28 Sep 2022 03:00:33 +0800
+Subject: 解約予告のお知らせ（ＥＴＣ利用照会サービス)
+URL: hxxps://ewi234lkhc[.]store/jp
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([114.231.15.152])
+Date: Wed, 28 Sep 2022 03:59:59 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/8kmd32b
+---
+Return-Path: <service[at]sacjcz[.]top>
+Received: from twmqsm[.]top ([23.248.175.216])
+Received: from eki-net[.]com (unknown [118.26.105.20])
+Sender: service[at]sacjcz[.]top
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Tue, 27 Sep 2022 22:43:51 -0300
+X-mailer: Vdxaoz 1
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]etki-ryuscrtd[.]top/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([49.85.51.20])
+Date: Wed, 28 Sep 2022 10:11:38 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/m9e2lvi
+---
+Return-Path: <userida[at]aeon[.]com>
+Received: from AEON[.]com ([36.57.88.64])
+Date: Wed, 28 Sep 2022 10:19:08 +0800
+From: "AEON" <userida[at]AEON[.]com>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]pl3jsy[.]com/jp
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([218.2.71.126])
+Date: Wed, 28 Sep 2022 11:04:22 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/ttvtapc
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([114.231.240.212])
+Date: Wed, 28 Sep 2022 13:47:40 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/ybyb2p6
+---
+Return-Path: <rakuten-account[at]xoposf[.]shop>
+Received: from xoposf[.]shop ([106.75.108.192])
+Received: from iEO[.]wd (unknown [113.13.158.230])
+Date: Wed, 28 Sep 2022 15:06:57 +0800
+From: "Rakuten" <rakuten-account[at]xoposf[.]shop>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: [楽天] 会員情報変更のお知らせ
+URL: hxxp://www[.]wwqtmoc[.]cf/
+---
+Return-Path: <ibxsimia[at]tp[.]net>
+Received: from tp[.]net ([42.231.99.242])
+From: 最終警告 <ibxsimia[at]tp[.]net>
+Date: Wed, 28 Sep 2022 18:20:33 +0800
+Subject: Amazon[.]co[.]jp 様からのギフト券がアカウントに登録されていません
+URL: hxxps://amazom[.]shanzkd[.]top/
+---
+Return-Path: <arnazon-update-account[at]yssekk[.]shop>
+Received: from yssekk[.]shop ([106.75.117.251])
+Received: from qbgerdrd (unknown [1.63.121.176])
+From: 最終警告 <arnazon-update-account[at]yssekk[.]shop>
+Date: Wed, 28 Sep 2022 19:34:04 +0800
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます。{MyMailAddress}
+URL: hxxps://amazon[.]l2ey98[.]shop/
+---
