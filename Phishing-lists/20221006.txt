@@ -1,0 +1,57 @@
+Return-Path: <bbki[at]service[.]7gb05a[.]cn>
+Received: from service[.]7gb05a[.]cn ([210[.]150[.]28[.]6])
+Date: Thu, 6 Oct 2022 03:49:19 +0800
+From: エポスカード <bbki[at]service[.]7gb05a[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】エポスカードご利用確認
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://noisy-rain-a006[.]yo1849bd[.]workers[.]dev/
+---
+Return-Path: <member[at]eki-net[.]com>
+Received: from 7914226[.]fitserver[.]ru ([194[.]156[.]99[.]125])
+Received: by 7914226[.]fitserver[.]ru (Postfix, from userid 1000)
+Date: Thu, 6 Oct 2022 06:06:06 +0800
+From: えきねっと <member[at]eki-net[.]com>
+Subject: 【お知らせ「えきねっと」自動退会処理について)】
+URL: hxxps://cnqkcbp[.]cn/
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([60[.]184[.]106[.]57])
+Date: Thu, 6 Oct 2022 09:38:51 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/8fa888
+---
+Return-Path: <userida[at]aeon[.]com>
+Received: from AEON[.]com ([27[.]184[.]143[.]202])
+Date: Thu, 6 Oct 2022 10:55:13 +0800
+From: "AEON" <userida[at]AEON[.]com>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]weibo-com[.]com/jp
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([117[.]69[.]189[.]195])
+Date: Thu, 6 Oct 2022 20:40:07 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]airhandring[.]com/jp
+---
+Return-Path: <amazon[at]yxfaoh[.]cn>
+Received: from yxfaoh[.]cn ([106[.]75[.]147[.]209])
+Sender: amazon[at]yxfaoh[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Thu, 6 Oct 2022 22:54:38 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]szhseo[.]cn/
+---
+Return-Path: <mail[at]myfineshoes[.]com>
+Received: from slingsly[.]com ([106[.]75[.]233[.]141])
+Received: from XTZJ-20220613UI (unknown [202[.]98[.]124[.]238])
+From: 重要なお知らせ <mail[at]myfineshoes[.]com>
+Date: Thu, 6 Oct 2022 22:41:34 +0800
+Subject: Amazon[.]co[.]jp アカウント所有権の証明（名前、その他個人情報）の確認番号：7674xxxxxxxx
+URL: hxxps://sujianzhenhua[.]com/jp
+---
