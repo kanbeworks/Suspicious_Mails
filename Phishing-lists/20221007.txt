@@ -1,0 +1,65 @@
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([119[.]183[.]100[.]53])
+Date: Fri, 7 Oct 2022 01:21:47 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/190281
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([106[.]111[.]9[.]203])
+Date: Fri, 7 Oct 2022 05:58:10 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/e2688f
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([180[.]121[.]74[.]131])
+Date: Fri, 7 Oct 2022 08:16:58 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/3dd0yuv
+---
+Return-Path: <web[at]metamask[.]io>
+Received: from dx[.]net ([110[.]81[.]203[.]75])
+From: "MetaMask" <Web[at]metamask[.]io>
+Date: Fri, 7 Oct 2022 04:52:45 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: MetaMask(メタマスク) クイック本人確認
+URL: hxxp://metamaske[.]cc/
+---
+Return-Path: <userida[at]aeon[.]org>
+Received: from AEON[.]org ([27[.]184[.]139[.]136])
+Date: Fri, 7 Oct 2022 09:55:34 +0800
+From: "AEON" <userida[at]AEON[.]org>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]weibo-com[.]com/jp
+---
+Return-Path: <amazonf-update[at]mf2014[.]com[.]cn>
+Received: from mail[.]mf2014[.]com[.]cn ([36[.]249[.]162[.]149])
+Received: from vl (unknown [121[.]33[.]184[.]80])
+Sender: amazonf-update[at]mf2014[.]com[.]cn
+From: ＥＴＣ利用照会サービス <info[at]ml[.]etc-eisai[.]jp>
+Date: Fri, 7 Oct 2022 11:28:44 +0800
+Subject: ETCサービスご利用者様へ大切なお知らせ
+URL: hxxps://ewo23770ad[.]icu/
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([117[.]69[.]155[.]83])
+Date: Fri, 7 Oct 2022 17:40:23 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]airhandring[.]com/jp
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([112[.]250[.]140[.]183])
+Date: Fri, 7 Oct 2022 22:59:31 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/c0uce8j
+---
