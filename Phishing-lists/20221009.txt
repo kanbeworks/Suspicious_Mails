@@ -1,0 +1,51 @@
+Return-Path: <mkq[at]eki-net[.]com>
+Received: from eki-net[.]com ([117[.]90[.]45[.]200])
+Sender: mkq[at]eki-net[.]com
+From: えきねっと <info-op[at]eki-net[.]com>
+Date: Sun, 9 Oct 2022 04:44:28 +0800
+X-mailer: Unkqgtc 1
+Subject: 【重要】えきねっと（JR東日本）お支払い情報の更新をお願いします
+URL: hxxps://www[.]eki-jp[.]meta-br[.]com/?personai_top_index={snip}
+---
+Return-Path: <mail[at]aenosuia[.]cyou>
+Received: from aenosuia[.]cyou ([128[.]1[.]49[.]102])
+Received: from eki-net[.]com (unknown [152[.]32[.]181[.]67])
+Sender: mail[at]aenosuia[.]cyou
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Sun, 9 Oct 2022 02:52:50 +0400
+X-mailer: Psznluxj 9
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]etki-reaeermnzl[.]icu/
+---
+Return-Path: <amazon[at]yxfaoh[.]cn>
+Received: from yxfaoh[.]cn ([106[.]75[.]132[.]254])
+Sender: amazon[at]yxfaoh[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Sun, 9 Oct 2022 08:25:21 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]fx-dy[.]cn/
+---
+Return-Path: <eki[at]fzhphg[.]com>
+Received: from mail3[.]fzhphg[.]com ([23[.]94[.]202[.]88])
+Date: Sun, 9 Oct 2022 11:01:20 +0900
+From: えきねっと <eki[at]fzhphg[.]com>
+Subject: 【ご注意】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]xdmsp[.]shop/{"kotu16xxxx?{MyMailAddress}"をBASE64エンコードした文字列}
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([183[.]166[.]170[.]40])
+Date: Sun, 9 Oct 2022 11:24:42 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]airhandring[.]com/jp
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([27[.]184[.]155[.]120])
+Date: Sun, 9 Oct 2022 14:41:01 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]weibo-com[.]com/jp
+---
