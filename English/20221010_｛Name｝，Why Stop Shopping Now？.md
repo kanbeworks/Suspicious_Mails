@@ -15,7 +15,7 @@ X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2869
 List-Unsubscribe: <hxxps://www[.]jenjewelry[.]com/list[.]cgi?cmd=unsub&lst=list>,
  <mailto:unsubscriber[at]jenjewelry[.]com?subject=unsubscribe>
 MIME-Version: 1.0
-From: =?utf-8?Q?RB=2DUSA=C2=AE_Sunglasses?= <shopping[at]kuanxuu[.]top>
+From: RB-USA® Sunglasses <shopping[at]kuanxuu[.]top>
 Priority: urgent
 Importance: high
 Date: 10 Oct 2022 07:49:46 +0800
