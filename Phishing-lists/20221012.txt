@@ -1,0 +1,50 @@
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([117[.]95[.]116[.]200])
+Date: Wed, 12 Oct 2022 01:27:25 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/67ed29
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([114[.]231[.]242[.]182])
+Date: Wed, 12 Oct 2022 03:50:28 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/5eb528
+---
+Return-Path: <amazonh-account[at]uvtt[.]top>
+Received: from mail[.]uvtt[.]top ([1[.]71[.]139[.]193])
+Received: from ilxmrtsx (unknown [61[.]140[.]228[.]76])
+From: AMERICAN EXPRESS <amazonh-account[at]uvtt[.]top>
+Date: Wed, 12 Oct 2022 07:46:35 +0800
+Subject: 【重要なお知らせ】American Expressご利用確認のお願い
+URL: hxxps://amekksujjp[.]club/
+---
+Return-Path: <update[at]n5i461z[.]cn>
+Received: from n5i461z[.]cn ([106[.]75[.]93[.]217])
+Received: from pLJ[.]obkdjcu (unknown [111[.]224[.]79[.]66])
+Sender: update[at]n5i461z[.]cn
+From: えきねっと <eservation[at]ekl-net[.]com>
+Date: Wed, 12 Oct 2022 01:27:20 +0800
+X-mailer: Zxpbjhiw 3
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://eki-net[.]buzz/
+---
+Return-Path: <yjygx[at]hc[.]com>
+Received: from hc[.]com ([42[.]54[.]159[.]90])
+From: "Amazon" <yjygx[at]hc[.]com>
+Date: Wed, 12 Oct 2022 20:50:09 +0800
+X-mailer: Pmstlljg 1
+Subject: Amazonプライムの自動更新設定を解除いたしました！番号
+URL: hxxps://www[.]pipetcalibrations[.]com/jp
+---
+Return-Path: <info[at]amazon[.]co[.]jp>
+Received: from Amazon[.]co[.]jp ([164[.]155[.]105[.]28])
+From: "Amazon[.]co[.]jp" <info[at]Amazon[.]co[.]jp>
+Date: Wed, 12 Oct 2022 16:50:06 +0800
+X-mailer: Fgaps 8
+Subject: Amazon[.]co[.]jp 様からのギフト券がアカウントに登録されていません
+URL: hxxps://amazom[.]xunszd[.]info/
+---
