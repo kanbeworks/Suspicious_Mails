@@ -1,0 +1,42 @@
+Return-Path: <qvwxggpo[at]cve[.]org>
+Received: from cve[.]org ([27.184.153.98])
+From: "Amazon" <qvwxggpo[at]cve[.]org>
+Date: Thu, 13 Oct 2022 03:08:04 +0800
+X-mailer: Dmrbmlfkn 2
+Subject: Amazonプライムの自動更新設定を解除いたしました！番号
+URL: hxxps://www[.]planteenterprises[.]com/jp
+---
+Return-Path: <info[at]hewben[.]top>
+Received: from hewben[.]top ([117.50.186.249])
+Received: from pug[.]bqv (unknown [121.127.253.46])
+Sender: info[at]hewben[.]top
+From: 株式会社 エムアイカード <info[at]mail-jcn[.]dnp-cdms[.]jp>
+Date: Thu, 13 Oct 2022 03:59:59 +0800
+X-mailer: Jobrutv 5
+Subject: 【重要なお知らせ】エムアイカードカードご利用確認のお願い
+URL: hxxps://www[.]micmcard[.]com/
+---
+Return-Path: <vtfms[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([182.61.146.109])
+From: "AEON CARD" <userid[at]aeon[.]co[.]jp>
+Date: Thu, 13 Oct 2022 06:06:20 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【AEON CARD】カード年会費のお支払い方法に問題があります
+URL: hxxp://www[.]aceeocon[.]aescoaoenn[.]dkjsg[.]top/page1[.]php
+---
+Return-Path: <kxuskazl[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([182.61.148.108])
+From: イオンクレジットサービス株式会社 <userid[at]aeon[.]co[.]jp>
+Date: Thu, 13 Oct 2022 11:03:23 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【AEON CARD】重要なお知らせ [メールコード A20xxxx]
+URL: hxxp://www[.]aeeacocon[.]acsceocon[.]djbwh[.]top/page1[.]php
+---
+Return-Path: <roqdsyckkw[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([182.61.146.109])
+From: イオンカード <userid[at]aeon[.]co[.]jp>
+Date: Thu, 13 Oct 2022 13:01:10 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【最終警告】AEON CARD からの緊急の連絡
+URL: hxxp://www[.]aeeacocon[.]acsceocon[.]nndsk[.]top/page1[.]php
+---
