@@ -1,0 +1,26 @@
+Return-Path: <qqnskov[at]visa.co.jp>
+Received: from visa.co.jp ([182.61.51.192])
+From: VISA認証 <vpass[at]visa.co.jp>
+Date: Fri, 14 Oct 2022 05:37:05 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【VISAカード 】現在カードのご利用が一時停止されました
+URL: hxxp[://]www.vivevaasvcsi.cae.kjgyuh.top/LAuCvx4R/page1.php
+---
+Return-Path: <info[at]bwben.top>
+Received: from bwben.top ([106.75.6.110])
+Received: from kIx.krpaxje (unknown [113.249.214.21])
+Sender: info[at]bwben.top
+From: 株式会社 エムアイカード <info[at]mail-jcn.dnp-cdms.jp>
+Date: Fri, 14 Oct 2022 10:32:55 +0800
+X-mailer: Bhdqxnyi 1
+Subject: 【重要なお知らせ】エムアイカードカードご利用確認のお願い
+URL: hxxps[://]www.micmcard.com/
+---
+Return-Path: <eki-net.com-confirm[at]3o5wi.cn>
+Received: from mail.3o5wi.cn ([38.47.98.19])
+Sender: えきねっと <reservation[at]eki-net.com>
+From: =?utf-8?B?44GI44GN44Gt44Gj44Go?= <reservation[at]eki-net.com>
+Date: Fri, 14 Oct 2022 17:11:55 +0800
+Subject: 「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxp[://]www.eki-net.com.personal.xpbxc.com/
+---
