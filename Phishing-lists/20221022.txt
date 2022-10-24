@@ -1,0 +1,136 @@
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([49.85.55.123])
+Date: Sat, 22 Oct 2022 00:54:39 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/13d5ef
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([117.65.1.185])
+Date: Sat, 22 Oct 2022 01:12:29 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/ce1743
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([112.250.129.93])
+Date: Sat, 22 Oct 2022 01:37:47 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/qdwocwz
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from sdgg0[.]amazon[.]co[.]jp ([219.94.232.213])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 22 Oct 2022 04:13:39 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]goeiroaig[.]shop/
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([180.120.160.165])
+Date: Sat, 22 Oct 2022 05:32:06 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/eaf28f
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from dfdg0[.]amazon[.]co[.]jp ([49.212.162.163])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 22 Oct 2022 06:02:01 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxx
+URL: hxxps://www[.]bosigkair[.]shop/
+---
+Return-Path: <thanks[at]aplus[.]co[.]jp>
+Received: from mail0[.]aplus[.]co[.]jp ([164.70.116.217])
+From: 株式会社アプラス <thanks[at]aplus[.]co[.]jp>
+Date: Sat, 22 Oct 2022 08:02:15 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【NETstationAPLUS】アプラスカードからのお知らせ
+URL: hxxps://netstation2aplus[.]mjfuzhvvzsgdve[.]com/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([27.10.240.171])
+Date: Sat, 22 Oct 2022 08:13:56 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/f2d33d
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.183.107.106])
+Date: Sat, 22 Oct 2022 08:57:31 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/7h1sbiu
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([39.72.234.120])
+Date: Sat, 22 Oct 2022 09:12:36 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/zyadut4
+---
+Return-Path: <service[at]sa1sioncaad[.]cyou>
+Received: from ecs-5bbc-0007 ([124.232.196.81])
+Received: from Hqw[.]saisoncard[.]co[.]jp (unknown [223.221.38.6])
+Sender: service[at]sa1sioncaad[.]cyou
+From: "CREDIT SAISON" <noreply[at]saisoncard[.]co[.]jp>
+Date: Sat, 22 Oct 2022 09:24:57 +0800
+X-mailer: Cxn 2
+Subject: 【重要】SAISON CARDカード会員ご本人認証サービス
+URL: hxxps://jp[.]saisezon1[.]club/
+---
+Return-Path: <accounte-co-jp[at]fx9ud[.]cn>
+Received: from mail[.]fx9ud[.]cn ([103.90.161.238])
+Received: from DjK[.]baidu[.]com (unknown [194.113.211.72])
+From: 株式会社エポスカード <accounte-co-jp[at]fx9ud[.]cn>
+Date: Sat, 22 Oct 2022 11:36:40 +0200
+X-mailer: Hjifrlrj 0
+Subject: 【重要なお知らせ】エポスカードご利用確認
+URL: hxxps://epocardsuser[.]3ih9en[.]top/
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from dsgsg0[.]amazon[.]co[.]jp ([49.212.152.44])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 22 Oct 2022 12:01:22 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]sueoaorhia[.]shop/
+---
+Return-Path: <amazon[at]viueorw[.]cn>
+Received: from viueorw[.]cn ([106.75.152.232])
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Sat, 22 Oct 2022 13:15:30 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://kenunfz[.]cn/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([114.233.66.54])
+Date: Sat, 22 Oct 2022 13:48:59 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/bd83cc
+---
+Return-Path: <cg[at]au[.]com>
+Received: from au[.]com ([182.61.56.98])
+From: "au PAY" <info[at]au[.]com>
+Date: Sat, 22 Oct 2022 14:51:25 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【au PAY】重要なお知らせ [メールコード AU4833xxxxxx]
+URL: hxxp://www[.]au-poacy[.]aeuecoaaomceoy[.]vswpxe[.]top/AU/page1[.]php
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from sdgg0[.]amazon[.]co[.]jp ([219.94.250.242])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 22 Oct 2022 15:47:37 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]goeneoalr[.]shop/
+---
+		

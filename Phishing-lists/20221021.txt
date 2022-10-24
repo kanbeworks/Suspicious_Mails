@@ -1,0 +1,73 @@
+Return-Path: <account-updates[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([221.230.160.205])
+Date: Thu, 20 Oct 2022 23:16:17 +0800
+From: "AEON" <account-updates[at]aeon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】イオンカード ご利用確認のお願い
+URL: hxxps://rebrand[.]ly/3f4bc6
+---
+Return-Path: <ujycq[at]au[.]com>
+Received: from au[.]com ([120.48.139.117])
+From: "au PAY" <info[at]au[.]com>
+Date: Fri, 21 Oct 2022 07:42:16 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【最終警告】au PAY からの緊急の連絡
+URL: hxxp://www[.]au-poay[.]aceueraom[.]vhttbj[.]top/AU/page1[.]php
+---
+Return-Path: <account-updates[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([121.230.252.223])
+Date: Fri, 21 Oct 2022 08:12:51 +0800
+From: "AEON" <account-updates[at]aeon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】イオンカード ご利用確認のお願い
+URL: hxxps://rebrand[.]ly/6918d7
+---
+Return-Path: <thanks[at]aplus[.]co[.]jp>
+Received: from mail0[.]aplus[.]co[.]jp ([164.70.93.53])
+From: 株式会社アプラス <thanks[at]aplus[.]co[.]jp>
+Date: Fri, 21 Oct 2022 06:26:11 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【NETstationAPLUS】アプラスカードからのお知らせ
+URL: hxxps://netstation2aplus[.]kuziyvhuyeozuz[.]com/
+---
+Return-Path: <account-update[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([122.241.14.52])
+Date: Fri, 21 Oct 2022 05:21:37 +0800
+From: "AEON" <account-update[at]aeon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://rebrand[.]ly/37c2fe
+---
+Return-Path: <noreply[at]mstacsurescc[.]icu>
+Received: from ecs-cbcf-0003 ([125.74.84.110])
+Received: from PxS[.]saisoncard[.]co[.]jp (unknown [119.96.166.113])
+Sender: noreply[at]mstacsurescc[.]icu
+From: "CREDIT SAISON" <noreply[at]saisoncard[.]co[.]jp>
+Date: Fri, 21 Oct 2022 04:10:24 +0800
+X-mailer: Qpdvh 7
+Subject: 【セゾンカード】本人認証について
+URL: hxxps://jp[.]sios0mcjp[.]club/
+---
+Return-Path: <account-updates[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([117.65.1.60])
+Date: Fri, 21 Oct 2022 11:25:06 +0800
+From: "AEON" <account-updates[at]aeon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】イオンカード ご利用確認のお願い
+URL: hxxps://rebrand[.]ly/9b5686
+---
+Return-Path: <njuzqzhpga[at]au[.]com>
+Received: from au[.]com ([120.48.39.231])
+From: "au PAY" <info[at]au[.]com>
+Date: Fri, 21 Oct 2022 12:38:15 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【au PAY マーケット】個人情報確認
+URL: hxxp://www[.]au-pcany[.]auccaom[.]lvjtih[.]top/AU/page1[.]php
+---
+Return-Path: <glocyw[at]u3834[.]cn>
+Received: from smtp[.]u3834[.]cn ([193.38.50.254])
+Date: Fri, 21 Oct 2022 13:08:15 +0800
+From: 株式会社三井住友銀行 <glocyw[at]u3834[.]cn>
+Subject: 【重要】三井住友カードご利用者様へ大切なお知らせ
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://icy-sun-d686[.]aphy-tq09556[.]workers[.]dev/
+---

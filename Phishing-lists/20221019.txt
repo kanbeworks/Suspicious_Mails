@@ -1,0 +1,104 @@
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.185.87.164])
+Date: Wed, 19 Oct 2022 00:59:07 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/8m4gqps
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([49.79.9.50])
+Date: Wed, 19 Oct 2022 01:01:47 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/c75306
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.186.122.177])
+Date: Wed, 19 Oct 2022 03:55:39 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/f39zp79
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([180.121.75.56])
+Date: Wed, 19 Oct 2022 06:11:09 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/dcdf4d
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([122.239.133.55])
+Date: Wed, 19 Oct 2022 08:04:13 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/b54ab4
+---
+Return-Path: <account-update[at]smbc[.]co[.]jp>
+Received: from smbc[.]co[.]jp ([49.79.9.157])
+Date: Wed, 19 Oct 2022 08:17:52 +0800
+From: 三井住友カード <account-update[at]smbc[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/iwgaz4g
+---
+Return-Path: <noyq[at]96ihfc[.]cn>
+Received: from smtp[.]96ihfc[.]cn ([193.38.51.93])
+Date: Wed, 19 Oct 2022 09:25:45 +0800
+From: 株式会社三井住友銀行 <noyq[at]96ihfc[.]cn>
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://tiny-mud-47fa[.]f7g0rzsz6135[.]workers[.]dev/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([39.72.235.16])
+Date: Wed, 19 Oct 2022 12:14:29 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/5ca009
+---
+Return-Path: <wyvingtiaj[at]eki-net[.]com>
+Received: from eki-net[.]com ([120.48.4.243])
+From: えきねっと <member[at]eki-net[.]com>
+Date: Wed, 19 Oct 2022 12:44:14 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: お支払い方法変更のご案内【えきねっと 】
+URL: hxxp://www[.]ekl-net[.]com-asoceeccea[.]miabca[.]top/jp[.]php
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([49.85.109.148])
+Date: Wed, 19 Oct 2022 12:45:52 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/37eb46
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([121.230.91.236])
+Date: Wed, 19 Oct 2022 12:49:18 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/572d6a
+---
+Return-Path: <myotqw[at]eki-net[.]com>
+Received: from eki-net[.]com ([107.150.117.175])
+Sender: myotqw[at]eki-net[.]com
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Wed, 19 Oct 2022 07:14:55 +0100
+X-mailer: Jlv 6
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eske-sezasazer[.]icu/jp
+---
+Return-Path: <update[at]ammiufox[.]tk>
+Received: from ammiufox[.]ml ([204.44.76.137])
+Received: from sDs[.]ammiufox[.]tk (unknown [155.94.184.192])
+Date: Wed, 19 Oct 2022 14:29:02 +0900
+From: 重要なお知らせ <update[at]ammiufox[.]tk>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Amazonプライムの自動更新設定を解除いたしました！番号：6377xxxxxxxx
+---
