@@ -1,0 +1,152 @@
+Return-Path: <support[at]service[.]m4ft5o[.]cn>
+Received: from service[.]m4ft5o[.]cn ([23.247.42.178])
+Date: Sun, 30 Oct 2022 00:45:17 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]m4ft5o[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonのご利用確認のお願い。メール番号:M71xxxxxxx
+URL: hxxps://shejf[.]dxwespn[.]cn/
+---
+Return-Path: <duyqn[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.110.90.110])
+Sender: duyqn[at]eki-net[.]com
+From: えきねっと <bv-reply[at]eki-net[.]com>
+Date: Sun, 30 Oct 2022 00:49:12 +0800
+X-mailer: Ixrffzlywx 8
+Subject: えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-jp[.]bilanhuanxiang[.]com/
+---
+Return-Path: <lqszssdy[at]bdqbn[.]cn>
+Received: from smtp[.]bdqbn[.]cn ([194.147.86.109])
+Date: Sun, 30 Oct 2022 02:31:47 +0800
+From: "Amazon[.]co[.]jp" <lqszssdy[at]bdqbn[.]cn>
+Subject: 【重要なお知らせ】Amazonアカウントのロックを解除、情報を更新してください。
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://divine-disk-136f[.]e6akcj0t[.]workers[.]dev/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([112.250.205.117])
+Date: Sun, 30 Oct 2022 03:46:18 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/43f999
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.185.90.19])
+Date: Sun, 30 Oct 2022 03:50:22 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/692a3b
+---
+Return-Path: <account-updates[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([117.94.180.7])
+Date: Sun, 30 Oct 2022 04:47:46 +0800
+From: "AEON" <account-updates[at]aeon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】イオンカード ご利用確認のお願い
+URL: hxxps://rebrand[.]ly/3ec131
+---
+Return-Path: <mnm[at]aknz[.]com>
+Received: from aknz[.]com ([27.184.133.177])
+From: "Amazon" <mnm[at]aknz[.]com>
+Date: Sun, 30 Oct 2022 05:25:11 +0800
+X-mailer: Yubhd 3
+Subject: Amazonプライムの自動更新設定を解除いたしました！番号
+URL: hxxps://www[.]polobingoblog[.]com/jp
+---
+Return-Path: <kefu[at]jenumrecns[.]icu>
+Received: from ecs-a441-0010 ([110.167.134.24])
+Received: from rmf[.]saisoncard[.]co[.]jp (unknown [60.164.245.62])
+Sender: kefu[at]jenumrecns[.]icu
+From: 株式会社クレディセゾン <noreply[at]saisoncard[.]co[.]jp>
+Date: Sun, 30 Oct 2022 05:40:50 +0800
+X-mailer: Rqngo 1
+Subject: 【セゾンカード】本人認証について
+URL: hxxps://jp[.]sals0njpi1[.]icu/
+---
+Return-Path: <info[at]jreast[.]co[.]jp>
+Received: from 7914780[.]vpsindustres ([78.153.145.56])
+Received: by 7914780[.]vpsindustres (Postfix, from userid 1000)
+Date: Sun, 30 Oct 2022 06:05:19 +0800
+From: JR東日本グループのビューカード <info[at]jreast[.]co[.]jp>
+Subject: 本人情報自動退会処理について【ビューカード – JR東日本】
+URL: hxxps://eki[.]eki-login[.]workers[.]dev/
+---
+Return-Path: <amazon[at]sufadai[.]com>
+Received: from mail5[.]sufadai[.]com ([192.210.137.115])
+Date: Sun, 30 Oct 2022 08:00:00 +0900
+From: Amazon <amazon[at]sufadai[.]com>
+Subject: 【ご注意】Amazonプライムの自動更新設定を解除いたしました #4xxx-76xxxxx
+URL: hxxps://www[.]anazom[.]co[.]uxtuzt[.]shop/{snip}
+---
+Return-Path: <info[at]rcukeam[.]cn>
+Received: from rcukeam[.]cn ([107.150.108.212])
+From: "Amazon[.]co[.]jp" <info[at]rcukeam[.]cn>
+Date: Sun, 30 Oct 2022 07:11:27 +0800
+Subject: Amazonでのご注文5xx-34xxxxx-xxxxxxx
+URL: hxxps://www[.]reoysa[.]tk/jp
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([110.41.16.126])
+Received: from wvwv (unknown [182.109.206.222])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sun, 30 Oct 2022 08:24:41 +0800
+Subject: 【情報】 Amazon[.]co[.]jp：お客様のお支払い方法が承認されません #8xx-94xxxxx-8xxxxxx
+URL: hxxps://www[.]gueoanfts[.]shop/
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([119.3.127.39])
+Received: from ykqbooui (unknown [106.226.62.30])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sun, 30 Oct 2022 09:35:50 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]asnbxdor[.]shop/
+---
+Return-Path: <zarxgu[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.13.96.151])
+From: クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Sun, 30 Oct 2022 10:34:04 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】セゾンカード ご利用確認のお願い
+URL: hxxps://kakunin[.]sai1socjp[.]icu/
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([123.60.99.86])
+Received: from xrdmwatrf (unknown [106.226.62.30])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sun, 30 Oct 2022 10:15:27 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]asnbxdor[.]shop/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([27.10.232.100])
+Date: Sun, 30 Oct 2022 11:56:45 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/3aa0de
+---
+Return-Path: <uvsnvcnwk[at]uccard[.]co[.]jp>
+Received: from uccard[.]co[.]jp ([182.61.12.149])
+From: ユーシーカード <info[at]uccard[.]co[.]jp>
+Date: Sun, 30 Oct 2022 13:10:54 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【ユーシーカード】本人情報緊急確認
+URL: hxxps://jp[.]sai1socjp[.]club/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([114.239.1.183])
+Date: Sun, 30 Oct 2022 17:26:07 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/401798
+---
+Return-Path: <changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([36.57.89.146])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sun, 30 Oct 2022 17:38:51 +0800
+X-mailer: Cekazs 9
+Subject: Amazonプライム会費のお支払い方法に問題があります、支払方法を更新
+URL: hxxps://www[.]trailhorsesofcolorado[.]com/jp
+---

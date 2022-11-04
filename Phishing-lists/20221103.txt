@@ -1,0 +1,97 @@
+Return-Path: <www[at]localhost[.]localdomain>
+Received: from localhost[.]localdomain ([195.189.226.197])
+Received: by localhost[.]localdomain (Postfix, from userid 1001)
+From: えきねっと <info[at]jreast[.]co[.]jp>
+Date: Thu,  3 Nov 2022 00:00:25 +0800 (CST)
+Subject: 【ビューカード – JR東日本】本人情報自動退会処理について
+URL: hxxps://hdtapo[.]cn/
+---
+Return-Path: <changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([36.6.56.27])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Thu, 3 Nov 2022 03:48:19 +0800
+X-mailer: Gcvdfm 4
+Subject: Amazonプライム会費のお支払い方法に問題があります、支払方法を更新
+URL: hxxps://www[.]mytfcloud[.]com/jp
+---
+Return-Path: <admin[.]smile-etc[.]jp[at]rarepepes[.]cc>
+Received: from mail[.]rarepepes[.]cc ([173.82.57.73])
+Date: Thu, 3 Nov 2022 06:40:09 +0800
+From: ＥＴＣ利用照会サービス <admin[.]smile-etc[.]jp[at]rarepepes[.]cc>
+Subject: ETCの2回目の違反がありました（ＥＴＣ利用照会サービス）
+URL: hxxp://www2-etc[.]maiiei[.]kbolsos[.]com/
+---
+Return-Path: <info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([49.85.52.203])
+Date: Thu, 3 Nov 2022 07:14:14 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】楽天カードから緊急のご連絡
+URL: hxxps://rebrand[.]ly/43ad0e
+---
+Return-Path: <info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([119.183.110.207])
+Date: Thu, 3 Nov 2022 07:38:25 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】楽天カードから緊急のご連絡
+URL: hxxps://rebrand[.]ly/384430
+---
+Return-Path: <dh[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.12.2.184])
+From: セゾンカード <info[at]saisoncard[.]co[.]jp>
+Date: Thu, 3 Nov 2022 09:25:41 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: お支払い方法変更のご案内【セゾンカード】
+URL: hxxp://www[.]saiseocn-co-jp[.]acsardese[.]wsxmfk[.]top/
+---
+Return-Path: <ppavhfvqvh[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([182.61.34.232])
+From: 《セゾン》Netアンサー <info[at]saisoncard[.]co[.]jp>
+Date: Thu, 3 Nov 2022 09:44:16 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【セゾンカード】重要なお知らせ
+URL: hxxp://www[.]saissocn-co-jp[.]acsaordese[.]bekhzr[.]top/
+---
+Return-Path: <contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([123.60.1.208])
+Received: from chlikusx (unknown [111.72.149.30])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Thu, 3 Nov 2022 10:13:12 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：3519xxxxxxx
+URL: hxxps://www[.]hcfbhvz[.]cn/
+---
+Return-Path: <kefu[at]saisaoncazd[.]icu>
+Received: from ecs-4047-0009 ([175.6.182.194])
+Received: from XPh[.]tscubic[.]com (unknown [203.56.38.216])
+Sender: kefu[at]saisaoncazd[.]icu
+From: ts3カード <noreply[at]tscubic[.]com>
+Date: Thu, 3 Nov 2022 11:50:44 +0800
+X-mailer: Qxairbfpf 2
+Subject: 【TS CUBIC CARD】本人認証について
+URL: hxxps://ts3cojp[.]kakunints3[.]club/
+---
+Return-Path: <hkgrxl[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([120.48.92.72])
+From: クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Thu, 3 Nov 2022 16:24:55 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【セゾンカード】本人情報緊急確認
+URL: hxxp://www[.]saiseocn-co-jp[.]aesardese[.]rvmfek[.]top/
+---
+Return-Path: <amazon[at]ollyuaz[.]cn>
+Received: from ollyuaz[.]cn ([106.75.162.130])
+Sender: amazon[at]ollyuaz[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Thu, 3 Nov 2022 16:29:03 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]fspgqyn[.]cn/
+---
+Return-Path: <eki-net[at]soateps[.]com>
+Received: from mail2[.]soateps[.]com ([149.30.227.7])
+From: えきねっと <eki-net[at]soateps[.]com>
+Date: Thu, 3 Nov 2022 19:07:02 +0800
+Subject: 【重要】えきねっとアカウント停止のお知らせ
+URL: hxxps://www[.]eki-net[.]kaopua[.]club/{snip}
+---

@@ -1,0 +1,82 @@
+Return-Path: <support[at]service[.]baixinka[.]cn>
+Received: from service[.]baixinka[.]cn ([23.94.61.76])
+Date: Sat, 29 Oct 2022 01:55:20 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]baixinka[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要なお知らせ】Amazonアカウントのご利用確認のお願い。メール番号:6xxxxxxx
+URL: hxxps://ricmach[.]v1i5[.]com/
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([117.94.183.83])
+Date: Sat, 29 Oct 2022 02:16:28 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/ef0f26
+---
+Return-Path: <mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.185.86.135])
+Date: Sat, 29 Oct 2022 02:32:58 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/f02fdc
+---
+Return-Path: <gdmdblj[at]se[.]com>
+Received: from se[.]com ([27.184.141.204])
+From: "Amazon" <gdmdblj[at]se[.]com>
+Date: Sat, 29 Oct 2022 04:51:43 +0800
+X-mailer: Vaxe 3
+Subject: Amazonプライムの自動更新設定を解除いたしました！番号
+URL: hxxps://www[.]polobingoblog[.]com/jp
+---
+Return-Path: <admin[at]saisnoncazd[.]icu>
+Received: from ecs-d931-0010 ([118.122.73.252])
+Received: from CDY[.]uccard[.]co[.]jp (unknown [119.96.84.37])
+Sender: admin[at]saisnoncazd[.]icu
+From: セゾンカード <noreply[at]uccard[.]co[.]jp>
+Date: Sat, 29 Oct 2022 07:47:32 +0800
+X-mailer: Yisrom 6
+Subject: 【ユーシーカード】本人認証について
+URL: hxxps://jp[.]uc1suppjb[.]club/
+---
+Return-Path: <customer[at]aplus[.]co[.]jp>
+Received: from mail0[.]aplus[.]co[.]jp ([164.70.73.69])
+From: 株式会社アプラス <customer[at]aplus[.]co[.]jp>
+Date: Sat, 29 Oct 2022 18:45:25 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【NETstationAPLUS】クレジットカード等にかかる一部サービス休止のお知らせ【Luxury Card™カード】
+URL: hxxps://netstation[.]listh0htfcwg7aplus3login[.]com/serv/
+---
+Return-Path: <www[at]vmi1038594[.]contaboserver[.]net>
+Received: from vmi1038594[.]contaboserver[.]net ([185.213.27.190])
+Received: by vmi1038594[.]contaboserver[.]net (Postfix, from userid 1000)
+From: JR東日本ネットステーション <eki-net[.]com[at]vmi1038594[.]contaboserver[.]net>
+Date: Sat, 29 Oct 2022 19:00:43 +0800 (CST)
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]com[.]apjwd[.]top/
+---
+Return-Path: <www[at]vmi1038593[.]contaboserver[.]net>
+Received: from vmi1038593[.]contaboserver[.]net ([185.213.25.64])
+Received: by vmi1038593[.]contaboserver[.]net (Postfix, from userid 1000)
+From: JR東日本ネットステーション <eki-net[.]com[at]vmi1038593[.]contaboserver[.]net>
+Date: Sat, 29 Oct 2022 20:24:44 +0800 (CST)
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]com[.]apjwd[.]top/
+---
+Return-Path: <www[at]vmi1038593[.]contaboserver[.]net>
+Received: from vmi1038593[.]contaboserver[.]net ([185.213.25.64])
+Received: by vmi1038593[.]contaboserver[.]net (Postfix, from userid 1000)
+From: JR東日本ネットステーション <eki-net[.]com[at]vmi1038593[.]contaboserver[.]net>
+Date: Sat, 29 Oct 2022 18:59:35 +0800 (CST)
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]com[.]apjwd[.]top/
+---
+Return-Path: <www[at]vmi1038594[.]contaboserver[.]net>
+Received: from vmi1038594[.]contaboserver[.]net ([185.213.27.190])
+Received: by vmi1038594[.]contaboserver[.]net (Postfix, from userid 1000)
+From: JR東日本ネットステーション <eki-net[.]com[at]vmi1038594[.]contaboserver[.]net>
+Date: Sat, 29 Oct 2022 20:23:57 +0800 (CST)
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]com[.]apjwd[.]top/
+---
