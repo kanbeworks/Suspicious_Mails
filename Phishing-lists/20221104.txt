@@ -1,0 +1,99 @@
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([124.71.72.201])
+Received: from tcbkf (unknown [106.6.51.153])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Fri, 4 Nov 2022 02:47:19 +0800
+X-Mailer: Supmailer 37.0.0
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www[.]ipahebc[.]cn/
+---
+MAIL FROM:<support[at]service[.]gcarvi[.]cn>
+Received: from service[.]gcarvi[.]cn ([23.94.91.84])
+Date: Fri, 4 Nov 2022 03:40:19 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]gcarvi[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonの本人確認のお知らせ、情報を更新してください。メール番号:{数字}
+URL: hxxps://amzkdf[.]wutpyz[.]cn/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([117.95.116.138])
+Date: Fri, 4 Nov 2022 05:48:37 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/27392f
+---
+MAIL FROM:<qoiadvtm[at]amazon[.]co[.]jp>
+Received: from Amazon[.]co[.]jp ([103.210.22.245])
+From: "Amazon[.]co[.]jp" <qoiadvtm[at]Amazon[.]co[.]jp>
+Date: Fri, 4 Nov 2022 07:33:03 +0800
+X-mailer: Emnpsluf 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxp://annser[.]aivxrsz[.]cn/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([39.72.231.137])
+Date: Fri, 4 Nov 2022 08:18:28 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/107f22
+---
+MAIL FROM:<inyoboeg[at]knocup[.]cn>
+Received: from smtp[.]knocup[.]cn ([45.139.179.142])
+Date: Fri, 4 Nov 2022 08:47:04 +0800
+From: "Amazon[.]co[.]jp" <inyoboeg[at]knocup[.]cn>
+Subject: 【重要なお知らせ】Amazonアカウントのロックを解除、情報を更新してください。
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://divine-disk-136f[.]e6akcj0t[.]workers[.]dev/
+---
+MAIL FROM:<oqhhq[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.13.235.59])
+From: えきねっと <info[at]eki-nct[.]com>
+Date: Fri, 4 Nov 2022 10:19:38 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: えきねっと 　お支払い予定金額のご案内
+URL: hxxp://www[.]ekl-net[.]com-asoaaceenent[.]uyieyt[.]top/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([122.239.171.241])
+Date: Fri, 4 Nov 2022 12:02:55 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/095186
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([123.60.88.12])
+Received: from efqjkj (unknown [111.77.214.26])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Fri, 4 Nov 2022 12:43:42 +0800
+X-Mailer: Supmailer 37.0.0
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www[.]irybvic[.]cn/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([123.146.145.155])
+Date: Fri, 4 Nov 2022 15:10:05 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/5948d5
+---
+MAIL FROM:<info[at]amazon[.]co[.]jp>
+Received: from sdfsdfsdf_1.localdomain ([63.250.57.249])
+Received: by sdfsdfsdf_1.localdomain (Postfix, from userid 1000)
+Date: Fri, 4 Nov 2022 15:16:48 +0800
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Subject: Amazonご提供いただいたお支払い情報がカード発行会社のファイルの情報と一致していません。
+URL: hxxps://mp[.]weixinbridge[.]com/mp/wapredirect?url=hxxps://njiu4yuei[.]shop/
+---
+MAIL FROM:<ljenz[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.13.3.75])
+From: えきねっと <info[at]eki-nct[.]com>
+Date: Fri, 4 Nov 2022 16:41:01 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.17763.1879
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxp://www[.]ekl-net[.]cocmn-aoaaceenet[.]aeovqh[.]top/
+---
