@@ -1,0 +1,85 @@
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdgg0[.]amazon[.]co[.]jp ([133.242.204.5])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 5 Nov 2022 02:53:04 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www[.]wtpolhs[.]cn/
+---
+MAIL FROM:<support[at]service[.]zy4szs[.]cn>
+Received: from service[.]zy4szs[.]cn ([23.247.42.21])
+Date: Sat, 5 Nov 2022 03:52:30 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]zy4szs[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonの緊急連絡、情報を更新してください。メール番号:M{数字}
+URL: hxxps://shejf[.]dxwespn[.]cn/
+---
+MAIL FROM:<info[at]mistore[.]jp>
+Received: from mistore[.]jp ([192.119.94.233])
+Received: from IVE[.]eposcard[.]co[.]jp (unknown [116.21.15.192])
+From: 三越伊勢丹オンラインストア 【公式】 <info[at]mistore[.]jp>
+Date: Sat, 5 Nov 2022 05:00:04 +0800
+X-mailer: Nwrnplben 6
+Subject: 【重要なお知らせ】エムアイカードカードご利用確認のお願い
+URL: hxxps://vwww[.]mistorxt[.]top/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([60.184.105.233])
+Date: Sat, 5 Nov 2022 07:21:58 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/7f4a78
+---
+MAIL FROM:<mail[at]aenoaven[.]icu>
+Received: from ecs-9030-0001 ([203.195.71.3])
+Received: from XAq[.]eki-net[.]com (unknown [36.103.179.24])
+Sender: mail[at]aenoaven[.]icu
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Sat, 5 Nov 2022 09:30:17 +0800
+X-mailer: Owrec 9
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://kakunin[.]ekle-mittna1[.]icu/jp
+---
+MAIL FROM:<fuwu[at]eakl-kecwt[.]icu>
+Received: from ecs-11c2-0001 ([121.204.153.56])
+Received: from AvU[.]tscubic[.]com (unknown [110.166.80.213])
+Sender: fuwu[at]eakl-kecwt[.]icu
+From: "TOYOTA FINANCE CORPORATION" <noreply[at]tscubic[.]com>
+Date: Sat, 5 Nov 2022 10:29:20 +0800
+X-mailer: Epx 8
+Subject: 【TS CUBIC CARD】本人認証について
+URL: hxxps://kakunin[.]tsjccard1[.]club/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([121.226.188.213])
+Date: Sat, 5 Nov 2022 10:48:49 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/72b174
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([119.185.89.64])
+Date: Sat, 5 Nov 2022 12:44:36 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/6adb31
+---
+MAIL FROM:<eki-net[at]maimosaic[.]com>
+Received: from mail2[.]maimosaic[.]com ([149.30.242.12])
+From: えきねっと <eki-net[at]maimosaic[.]com>
+Date: Sat, 5 Nov 2022 12:54:44 +0800
+Subject: セキュリティシステム更新通知【えきねっと】
+URL: hxxps://www[.]eki-net[.]youpilo[.]club/{snip}
+---
+MAIL FROM:<noreply[at]erki-czuasxci[.]icu>
+Received: from erki-czuasxci[.]icu ([128.1.131.13])
+Received: from eki-net[.]com (unknown [118.193.65.122])
+Sender: noreply[at]erki-czuasxci[.]icu
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Sat, 5 Nov 2022 22:20:20 +000
+X-mailer: Osuu 8
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]ezkl-zenuoes[.]icu/jp
+---
