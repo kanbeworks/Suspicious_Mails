@@ -1,0 +1,140 @@
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([119.183.101.112])
+Date: Wed, 9 Nov 2022 01:17:41 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/2qtn77q
+urlscan.io: https://urlscan.io/result/16692202-7245-4f7c-a885-3161616b21db/
+---
+MAIL FROM:<support[at]service[.]ccpgw[.]cn>
+Received: from service[.]ccpgw[.]cn ([192.3.53.144])
+Date: Wed, 9 Nov 2022 01:52:06 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]ccpgw[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要なお知らせ】Amazonアカウントのご利用確認のお願い。メール番号:M{数字}
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://waterfal[.]jjk-pzt[.]workers[.]dev/
+urlscan.io: https://urlscan.io/result/b70efb69-cea4-4485-8c45-863214e929ba/
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.184.141.168])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Wed, 9 Nov 2022 06:20:40 +0800
+X-mailer: Tiy 5
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www[.]junecalendar2018[.]com/jp
+urlscan.io: https://urlscan.io/result/9d1c4edc-1e17-4d71-ac5c-e0f0428edeae/
+---
+MAIL FROM:<mail[at]aenoaoon[.]icu>
+Received: from aenoaoon[.]icu ([175.6.106.192])
+Received: from Nen[.]amazon[.]co[.]jp (unknown [223.221.36.128])
+Sender: mail[at]aenoaoon[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 9 Nov 2022 09:28:54 +0800
+X-mailer: Qpmxc 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]auzz-ioerziwo[.]icu/
+urlscan.io: https://urlscan.io/result/588cd427-961c-4c63-aed1-8c78bcac28e4/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([117.65.1.208])
+Date: Wed, 9 Nov 2022 11:39:28 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/67cc4f
+urlscan.io: https://urlscan.io/result/8d6d2d5b-bc66-47a1-b2a2-be65646169e5/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([121.226.214.154])
+Date: Wed, 9 Nov 2022 13:21:43 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/4s7mv8z
+urlscan.io: https://urlscan.io/result/941beec8-f267-4b75-8c00-9c2639cf4701/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([112.250.134.111])
+Date: Wed, 9 Nov 2022 13:36:59 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/8ur9y6h
+urlscan.io: https://urlscan.io/result/f5ef8aaa-b439-4b93-9dd8-dd90982903d2/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([119.184.93.40])
+Date: Wed, 9 Nov 2022 13:37:23 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/6pckz33
+urlscan.io: https://urlscan.io/result/4ad343d3-976f-4b97-8f76-5191a7b070b4/
+---
+MAIL FROM:<fuwu[at]eakl-recrz[.]icu>
+Received: from eakl-recrz[.]icu ([113.219.240.220])
+Received: from pVp[.]amazon[.]co[.]jp (unknown [110.185.100.204])
+Sender: fuwu[at]eakl-recrz[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 9 Nov 2022 14:00:43 +0800
+X-mailer: Yag 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]auzz-ionaniwo[.]icu/
+urlscan.io: https://urlscan.io/result/4499a5dd-713e-455c-8481-a5dddfb4181f/
+---
+MAIL FROM:<admin[at]eakl-nota[.]icu>
+Received: from ecs-a7f7-0004 ([125.74.237.55])
+Received: from Oqj[.]amazon[.]co[.]jp (unknown [110.166.229.176])
+Sender: admin[at]eakl-nota[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 9 Nov 2022 14:14:04 +0800
+X-mailer: Dow 9
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]auzz-ioerziwo[.]icu/
+urlscan.io: https://urlscan.io/result/a4439c20-348d-4b45-81e9-880936349ee0/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([49.85.179.148])
+Date: Wed, 9 Nov 2022 14:45:53 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/207c39
+urlscan.io: https://urlscan.io/result/0166f3f4-cec5-445f-acb8-2bae2e2472cc/
+---
+MAIL FROM:<admin[.]smile-etc[.]jp[at]so32[.]cc>
+Received: from mail[.]so32[.]cc ([173.82.240.231])
+Date: Wed, 9 Nov 2022 16:52:32 +0800
+From: ＥＴＣ利用照会サービス <admin[.]smile-etc[.]jp[at]so32[.]cc>
+Subject: ETCパーソナルカードWebサービス（ＥＴＣ利用照会サービス）
+URL: hxxp://www2[.]etce-maisei[.]serverpanel[.]cc/
+urlscan.io: https://urlscan.io/result/ffab9f08-93f3-410d-a9c4-508849c5e244/
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([119.115.103.4])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Wed, 9 Nov 2022 17:14:18 +0800
+X-mailer: Cekhfxkbvv 8
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www[.]bodyhealthplus[.]com/jp
+urlscan.io: https://urlscan.io/result/b9ecec7c-6c5c-4b6b-b0eb-3622679a62d0/
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([27.10.242.27])
+Date: Wed, 9 Nov 2022 22:40:28 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/93b6e8
+urlscan.io: https://urlscan.io/result/b79a0ee3-ee41-4811-9d2a-49377d25f827/
+---
+MAIL FROM:<contact[at]aplus[.]co[.]jp>
+Received: from help0[.]aplus[.]co[.]jp ([160.248.91.17])
+From: 株式会社アプラス <contact[at]aplus[.]co[.]jp>
+Subject: 【NETstationAPLUS】不正利用の防止のために≪本人認証サービス≫
+Date: Wed, 9 Nov 2022 03:41:02 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+URL: hxxps://rb[.]gy/vjvvqt
+urlscan.io: https://urlscan.io/result/3d4d7cab-4f59-40b5-837e-df72b105fc04/
+---
