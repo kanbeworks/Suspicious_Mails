@@ -1,206 +1,225 @@
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([117.95.116.137])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([117.95.116.137])
 Date: Wed, 9 Nov 2022 23:45:46 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
-URL: https://rebrand.ly/woku5qx
+URL: hxxps://rebrand[.]ly/woku5qx
 urlscan.io: https://urlscan.io/result/f32e0fdd-222a-4e13-a9da-2dcd0f56b2fd/
 SenderIP: 117.95.116.137
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([119.185.86.150])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([119.185.86.150])
 Date: Thu, 10 Nov 2022 03:35:02 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
-URL: https://rebrand.ly/836324
+URL: hxxps://rebrand[.]ly/836324
 urlscan.io: https://urlscan.io/result/8a71ee77-6357-46b3-a872-c6de24c98fef/
 SenderIP: 119.185.86.150
-SenderDomain: chinaunicom.com
+SenderDomain: chinaunicom[.]com
 SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<support[at]service.szwoyu.cn>
-Received: from service.szwoyu.cn ([23.247.42.253])
+MAIL FROM:<support[at]service[.]szwoyu[.]cn>
+Received: from service[.]szwoyu[.]cn ([23.247.42.253])
 Date: Thu, 10 Nov 2022 03:40:02 +0800
-From: "Amazon.co.jp" <support[at]service.szwoyu.cn>
+From: "Amazon[.]co[.]jp" <support[at]service[.]szwoyu[.]cn>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【重要なお知らせ】Amazonアカウントの本人確認のお知らせ、情報を更新してください。メール番号:{数字}
-URL: https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://fragrant-dream.deallyop.workers.dev/
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://fragrant-dream[.]deallyop[.]workers[.]dev/
 urlscan.io: https://urlscan.io/result/36e3ce46-9e97-48f9-924a-f8ef34a50287/
 SenderIP: 23.247.42.253
-SenderDomain: layerhost.com
+SenderDomain: layerhost[.]com
 SenderOrg: Media Consulting
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([49.85.189.15])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([49.85.189.15])
 Date: Thu, 10 Nov 2022 04:33:44 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
-URL: https://rebrand.ly/389a8c
+URL: hxxps://rebrand[.]ly/389a8c
 urlscan.io: https://urlscan.io/result/4fface05-fbf7-40e3-a016-ae050335f1fd/
 SenderIP: 49.85.189.15
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<help[at]aplus.co.jp>
-Received: from mail0.aplus.co.jp ([160.248.91.102])
-From: 株式会社アプラス <help[at]aplus.co.jp>
+MAIL FROM:<help[at]aplus[.]co[.]jp>
+Received: from mail0[.]aplus[.]co[.]jp ([160.248.91.102])
+From: 株式会社アプラス <help[at]aplus[.]co[.]jp>
 Date: Thu, 10 Nov 2022 06:19:56 +0900
 X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
 Subject: 【NETstationAPLUS】緊急連絡、情報を確認してください。【Luxury Cardカード】
-URL: https://netstation.net10dh5f2d4yhtdg8xuy2fj7fduo.com/serv/
-urlscan.io: 400 Error
+URL: hxxps://netstation[.]net10dh5f2d4yhtdg8xuy2fj7fduo[.]com/serv/
+urlscan[.]io: 400 Error
 SenderIP: 160.248.91.102
-SenderDomain: suitepro.jp
+SenderDomain: suitepro[.]jp
 SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<cfgezr[at]amazon.co.jp>
-Received: from Amazon.co.jp ([152.32.214.83])
-From: "Amazon.co.jp" <cfgezr[at]Amazon.co.jp>
+MAIL FROM:<cfgezr[at]amazon[.]co[.]jp>
+Received: from Amazon[.]co[.]jp ([152.32.214.83])
+From: "Amazon[.]co[.]jp" <cfgezr[at]Amazon[.]co[.]jp>
 Date: Thu, 10 Nov 2022 06:19:58 +0800
 X-mailer: Bbourasq 3
 Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
-URL: http://azonm.erjzhbd.cn/
+URL: hxxp://azonm[.]erjzhbd[.]cn/
 urlscan.io: https://urlscan.io/result/99bff5d2-dbd9-4d17-935d-c4bca2749e80/
 SenderIP: 152.32.214.83
-SenderDomain: ucloud.cn
+SenderDomain: ucloud[.]cn
 SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 5 %
 ---
-MAIL FROM:<xgxbno[at]uccard.co.jp>
-Received: from uccard.co.jp ([120.48.20.16])
-From: ユーシーカード <info[at]uccard.co.jp>
+MAIL FROM:<xgxbno[at]uccard[.]co[.]jp>
+Received: from uccard[.]co[.]jp ([120.48.20.16])
+From: ユーシーカード <info[at]uccard[.]co[.]jp>
 Date: Thu, 10 Nov 2022 06:37:14 +0800
 X-Mailer: Microsoft Outlook Express 6.00.2900.5512
 X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
 Subject: 【重要】UCカード本人確認のお知らせ [メールコード UC{数字}]
-URL: https://jp.ucss1kaku.club/
+URL: hxxps://jp[.]ucss1kaku[.]club/
 urlscan.io: https://urlscan.io/result/b369e6f7-0437-41cc-a7da-0e7bd48a5f46/
 SenderIP: 120.48.20.16
-SenderDomain: baidu.com
+SenderDomain: baidu[.]com
 SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<admin[at]worldlifescience.com>
+MAIL FROM:<admin[at]worldlifescience[.]com>
 Received: from 10-23-78-40 ([113.31.102.183])
 Received: from gzvkynrnm (unknown [183.54.229.92])
-From: auto[at]connect.auone.jp
+From: auto[at]connect[.]auone[.]jp
 Date: Thu, 10 Nov 2022 06:26:15 +0800
 X-Mailer: Supmailer 37.0.2
 Subject: 【重要】au PAY からの緊急の連絡 [メールコード {数字}]
-URL: http://connecct-login.the419pmcompany.com/
+URL: hxxp://connecct-login[.]the419pmcompany[.]com/
 urlscan.io: https://urlscan.io/result/e7f1996b-c763-421a-b854-66a25c21e124/
 SenderIP: 113.31.102.183
-SenderDomain: ucloud.cn
+SenderDomain: ucloud[.]cn
 SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
 SenderIP: 183.54.229.92
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Guangdong Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<noreply[at]etki-oczjhrt.icu>
-Received: from etki-oczjhrt.icu ([152.32.134.182])
-Received: from amazon.co.jp (unknown [165.154.10.94])
-Sender: noreply[at]etki-oczjhrt.icu
-From: "Amazon.co.jp" <info[at]amazon.co.jp>
+MAIL FROM:<noreply[at]etki-oczjhrt[.]icu>
+Received: from etki-oczjhrt[.]icu ([152.32.134.182])
+Received: from amazon[.]co[.]jp (unknown [165.154.10.94])
+Sender: noreply[at]etki-oczjhrt[.]icu
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
 Date: Thu, 10 Nov 2022 02:14:23 +0100
 X-mailer: Yjs 4
 Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
-URL: https://s.amseuaes-jp.icu/
+URL: hxxps://s[.]amseuaes-jp[.]icu/
 urlscan.io: https://urlscan.io/result/4132268f-0da2-4959-81fb-697140d378d6/
 SenderIP: 152.32.134.182
-SenderDomain: ucloud.cn
+SenderDomain: ucloud[.]cn
 SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
 SenderIP: 165.154.10.94
-SenderDomain: ucloud.cn
+SenderDomain: ucloud[.]cn
 SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<admin[at]sinsioncarrd.icu>
+MAIL FROM:<admin[at]sinsioncarrd[.]icu>
 Received: from ecs-a359-0004 ([110.185.100.137])
-Received: from CRP.amazon.co.jp (unknown [113.219.241.96])
-Sender: admin[at]sinsioncarrd.icu
-From: "Amazon.co.jp" <noreply[at]amazon.co.jp>
+Received: from CRP[.]amazon[.]co[.]jp (unknown [113.219.241.96])
+Sender: admin[at]sinsioncarrd[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
 Date: Thu, 10 Nov 2022 11:15:26 +0800
 X-mailer: Gdjpcvfm 1
 Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
-URL: https://support.azzl-manpovtn.icu/
+URL: hxxps://support[.]azzl-manpovtn[.]icu/
 urlscan.io: https://urlscan.io/result/0e02a0f3-83af-44b6-b82f-f09383d48e4a/
 SenderIP: 110.185.100.137
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Sichuan Province Network
+AbuseConfidenceScore: 0 %
 SenderIP: 113.219.241.96
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Hunan Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<gynczw[at]uccard.co.jp>
-Received: from uccard.co.jp ([120.48.103.54])
-From: ユーシーカード <info[at]uccard.co.jp>
+MAIL FROM:<gynczw[at]uccard[.]co[.]jp>
+Received: from uccard[.]co[.]jp ([120.48.103.54])
+From: ユーシーカード <info[at]uccard[.]co[.]jp>
 Date: Thu, 10 Nov 2022 12:48:10 +0800
 X-Mailer: Microsoft Outlook Express 6.00.2900.5512
 X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
 Subject: 【重要】ユーシーカード本人確認のお知らせ
-URL: https://kakunin.ucss1kaku.club/
+URL: hxxps://kakunin[.]ucss1kaku[.]club/
 urlscan.io: https://urlscan.io/result/3cea807d-ff41-4716-ba67-fb4b50edcc34/
 SenderIP: 120.48.103.54
-SenderDomain: baidu.com
+SenderDomain: baidu[.]com
 SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<hbtlmikjyg[at]amazon.co.jp>
-Received: from amazon.co.jp ([101.24.245.33])
-From: Amazon <hbtlmikjyg[at]amazon.co.jp>
+MAIL FROM:<hbtlmikjyg[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([101.24.245.33])
+From: Amazon <hbtlmikjyg[at]amazon[.]co[.]jp>
 Date: Thu, 10 Nov 2022 17:45:28 +0800
 X-Mailer: Supmailer 37.0.3
 Subject: Amazon株式会社から緊急のご連絡
-URL: https://amazaon-co-jp.top/
+URL: hxxps://amazaon-co-jp[.]top/
 urlscan.io: https://urlscan.io/result/7bfd107e-9e68-4375-8b16-a30a4fc90bc6/
 SenderIP: 101.24.245.33
-SenderDomain: chinaunicom.com
+SenderDomain: chinaunicom[.]com
 SenderOrg: China Unicom Hebei Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([115.226.175.46])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([115.226.175.46])
 Date: Thu, 10 Nov 2022 11:47:12 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
-URL: https://rebrand.ly/489af2
+URL: hxxps://rebrand[.]ly/489af2
 urlscan.io: https://urlscan.io/result/2c75ada4-b887-4b39-bc21-f59c0fd34731/
 SenderOrg: 115.226.175.46 - CHINANET-ZJ Lishui node network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([39.72.18.185])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([39.72.18.185])
 Date: Thu, 10 Nov 2022 14:25:35 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
-URL: https://rebrand.ly/jiwx6qs
+URL: hxxps://rebrand[.]ly/jiwx6qs
 urlscan.io: https://urlscan.io/result/0b0acce4-e216-49bc-92d6-b17445b6e47b/
 SenderIP: 39.72.18.185
-SenderDomain: chinaunicom.com
+SenderDomain: chinaunicom[.]com
 SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([222.190.198.203])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([222.190.198.203])
 Date: Thu, 10 Nov 2022 19:45:19 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
-URL: https://rebrand.ly/941bd7
+URL: hxxps://rebrand[.]ly/941bd7
 urlscan.io: https://urlscan.io/result/4a5028c4-0a5b-4e8a-930f-2c55216bc2e6/
 SenderIP: 222.190.198.203
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]mail.rakuten-card.co.jp>
-Received: from mail.rakuten-card.co.jp ([49.89.143.226])
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([49.89.143.226])
 Date: Thu, 10 Nov 2022 22:51:57 +0800
-From: 楽天カード株式会社 <info[at]mail.rakuten-card.co.jp>
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
-URL: https://rebrand.ly/ce1497
+URL: hxxps://rebrand[.]ly/ce1497
 urlscan.io: https://urlscan.io/result/ad416cae-0875-41bf-855d-faec7f3b1e1f/
 SenderIP: 49.89.143.226
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
 ---
