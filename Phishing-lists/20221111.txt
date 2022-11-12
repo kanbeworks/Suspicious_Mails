@@ -1,0 +1,202 @@
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([117.65.1.114])
+Date: Fri, 11 Nov 2022 05:53:19 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/30f79c
+urlscan.io: https://urlscan.io/result/43f7a8fc-50b8-4590-9501-30824d800082/
+SenderIP: 117.65.1.114
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.184.131.245])
+From: 三井住友カード <changeid[at]amazon[.]co[.]jp>
+Date: Fri, 11 Nov 2022 06:05:47 +0800
+X-mailer: Vdcr 3
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://www[.]wwwfrendz4m[.]com/jp[.]php
+urlscan.io: https://urlscan.io/result/2bb04a17-794c-4dd7-ad41-8571b5754ef5/
+SenderIP: 27.184.131.245
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hebei Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<admin[at]etki-reaearmnzl[.]icu>
+Received: from etki-reaearmnzl[.]icu ([107.150.112.118])
+Received: from amazon[.]co[.]jp (unknown [165.154.10.179])
+Sender: admin[at]etki-reaearmnzl[.]icu
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Fri, 11 Nov 2022 00:42:18 +0100
+X-mailer: Yev 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amussars-jp[.]icu/
+urlscan.io: https://urlscan.io/result/c3795b94-4f3f-4b2a-b256-b7636aef492e/
+SenderIP: 107.150.112.118
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 165.154.10.179
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ahbfnbnowg[at]americanexpress[.]com>
+Received: from americanexpress[.]com ([106.13.122.4])
+From: アメリカン・エキスプレス <info[at]americanexpress[.]com>
+Date: Fri, 11 Nov 2022 08:21:20 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【アメリカン・エキスプレスカード】本人情報緊急確認
+URL: hxxps://jp[.]amjbe1x[.]club/
+urlscan.io: https://urlscan.io/result/7633f242-7826-45f6-a4bf-bc84d98eb2a4/
+SenderIP: 106.13.122.4
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([59.59.128.8])
+Date: Fri, 11 Nov 2022 09:44:55 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/7620be
+urlscan.io: https://urlscan.io/result/cd4c0865-a70f-4fa7-b553-deeddb0ccd93/
+SenderIP: 59.59.128.8
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<rxhsk[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.12.28.195])
+From: クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Fri, 11 Nov 2022 11:48:59 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】セゾンカード重要なお知らせ
+URL: hxxp://www[.]saicscn-co-jp[.]accardeseen[.]utumwo[.]top/
+urlscan.io: https://urlscan.io/result/f599f732-d020-4515-b330-70a13f056c10/
+SenderIP: 106.12.28.195
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<noreply[at]etki-wcaswest[.]icu>
+Received: from etki-wcaswest[.]icu ([165.154.48.73])
+Received: from amazon[.]co[.]jp (unknown [152.32.228.203])
+Sender: noreply[at]etki-wcaswest[.]icu
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Fri, 11 Nov 2022 07:32:22 +0300
+X-mailer: Whbpzvmsa 0
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amussarus-jp[.]icu/
+urlscan.io: https://urlscan.io/result/d1d2b538-dfee-48de-ba12-506b15f7981f/
+SenderIP: 165.154.48.73
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.228.203
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<di[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([180.76.46.76])
+From: クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Fri, 11 Nov 2022 13:37:42 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: お支払い方法変更のご案内【セゾンカード】
+URL: hxxp://www[.]saicecn-co-jp[.]accaordesee[.]uqoynh[.]top/
+urlscan.io: https://urlscan.io/result/271cf5b4-c658-47eb-82a8-c3f1b71e6d19/
+SenderIP: 180.76.46.76
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([39.72.142.229])
+Date: Fri, 11 Nov 2022 15:29:39 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/2b7193
+urlscan.io: https://urlscan.io/result/c6779012-b22c-4fff-96cf-f2271a45209c/
+SenderIP: 39.72.142.229
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<eki-a[at]dvsadfad[.]com>
+Received: from tk2-116-58925[.]vs[.]sakura[.]ne[.]jp ([153.121.55.179])
+Received: from crgjmus (unknown [112.121.170.250])
+From: E⁦K⁦I⁦ <eki-a[at]dvsadfad[.]com>
+Date: Fri, 11 Nov 2022 18:25:23 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: 【重-要】R a k u t e nからの知らせ
+URL: hxxps://ayahsbsk[.]com/
+urlscan.io: https://urlscan.io/result/7d00fb2e-ec5c-4164-84a2-b3a407992acf/
+SenderIP: 153.121.55.179
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+SenderIP: 112.121.170.250
+SenderDomain: netsec[.]com
+SenderOrg: Netsec Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([117.65.1.57])
+Date: Fri, 11 Nov 2022 21:43:05 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/ee7035
+urlscan.io: https://urlscan.io/result/3252d5fe-9da4-4126-83b7-a5909557cef9/
+SenderIP: 117.65.1.57
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]ckmwqye[.]cn>
+Received: from service[.]ckmwqye[.]cn ([204.15.77.112])
+Date: Fri, 11 Nov 2022 20:00:03 +000
+From: "Amazon[.]co[.]jp" <support[at]service[.]ckmwqye[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonのご利用確認のお願い。メール番号:{数字}
+URL: hxxps://services[.]maxcoinre[.]com/
+urlscan.io: https://urlscan.io/result/8cb45815-36eb-4a08-a9c0-22112e44ea75/
+SenderIP: 204.15.77.112
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([114.233.66.247])
+Date: Fri, 11 Nov 2022 16:42:40 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+URL: hxxps://rebrand[.]ly/073aa0
+urlscan.io: https://urlscan.io/result/686b01d0-9722-4f51-b880-0af5f62fb75f/
+SenderIP: 114.233.66.247
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([122.241.93.175])
+Date: Fri, 11 Nov 2022 17:53:11 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+URL: hxxps://rebrand[.]ly/0bb687
+urlscan.io: https://urlscan.io/result/45885a8e-21a2-40ea-a609-930e0db3b9de/
+SenderIP: 122.241.93.175
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Zhejiang Province Network
+AbuseConfidenceScore: 0 %
+---
