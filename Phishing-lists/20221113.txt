@@ -1,0 +1,148 @@
+MAIL FROM:<mail[at]eklonstunzw[.]top>
+Received: from eklonstunzw[.]top ([128.14.233.198])
+Received: from amazon[.]co[.]jp (unknown [152.32.180.116])
+Sender: mail[at]eklonstunzw[.]top
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Sun, 13 Nov 2022 02:22:42 +0400
+X-mailer: Kpzd 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amsunmzrus-jp[.]icu/
+urlscan.io: https://urlscan.io/result/b60a0815-5ecf-4175-97e2-121f1407343c/
+SenderIP: 128.14.233.198
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.180.116
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]bbqwyw[.]cn>
+Received: from service[.]bbqwyw[.]cn ([194.156.98.189])
+Date: Sun, 13 Nov 2022 07:31:20 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]bbqwyw[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonの本人確認のお知らせ、情報を更新してください。メール番号:{数字}
+URL: hxxps://services[.]maxcoinre[.]com/
+urlscan.io: https://urlscan.io/result/0c339e68-defb-48eb-a3ee-6652a948a85c/
+SenderIP: 194.156.98.189
+SenderDomain: pq[.]hosting
+SenderOrg: Stark Industries Solutions Ltd
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kefu[at]amemsurivce[.]icu>
+Received: from ecs-fd9a-0006 ([106.124.128.64])
+Received: from ndZ[.]amazon[.]co[.]jp (unknown [119.96.223.7])
+Sender: kefu[at]amemsurivce[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sun, 13 Nov 2022 07:28:20 +0800
+X-mailer: Kqtbmsav 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]acoa-zzqnisna[.]icu/
+urlscan.io: https://urlscan.io/result/539d9fdf-e6e3-4fd6-9fb4-aec296a9b573/
+SenderIP: 106.124.128.64
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Guangdong Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 119.96.223.7
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hubei Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from gdrrdg3[.]amazon[.]co[.]jp ([192.3.209.105])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sun, 13 Nov 2022 09:45:53 +0800
+Subject: お支払方法に問題があり、
+URL: hxxps://www[.]rdovsgq[.]cn/
+urlscan.io: https://urlscan.io/result/7ac04692-6461-45a7-8c4e-c0cfec5fc687/
+SenderIP: 192.3.209.105
+SenderDomain: colocrossing[.]com
+SenderOrg: ColoCrossing
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<vwtpb[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([152.32.149.174])
+Sender: vwtpb[at]amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Sat, 12 Nov 2022 22:31:15 -0500
+X-mailer: Rrugmq 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amsreaurus-jp[.]icu/
+urlscan.io: https://urlscan.io/result/34a8fea0-a641-4f35-863d-8eba8e72fc71/
+SenderIP: 152.32.149.174
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([119.183.107.177])
+Date: Sun, 13 Nov 2022 11:41:08 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/fgjshbe
+urlscan.io: https://urlscan.io/result/38a7d3f9-9224-4f1a-ae32-61f36362c61d/
+SenderIP: 119.183.107.177
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([114.97.93.190])
+Date: Sun, 13 Nov 2022 11:54:51 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/2dfa6c
+urlscan.io: https://urlscan.io/result/891c44e9-5650-44c1-8755-5cb62884d2ba/
+SenderIP: 114.97.93.190
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([117.94.181.14])
+Date: Sun, 13 Nov 2022 12:13:48 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/f60761
+urlscan.io: https://urlscan.io/result/931f87f2-b6e0-406f-86a7-168aed747086/
+SenderIP: 117.94.181.14
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<admin[at]sa1sionciad[.]icu>
+Received: from ecs-592a-0006 ([110.185.101.7])
+Received: from vJX[.]amazon[.]co[.]jp (unknown [119.96.146.155])
+Sender: admin[at]sa1sionciad[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sun, 13 Nov 2022 12:26:23 +0800
+X-mailer: Kree 7
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]acoa-zzvaqitna[.]icu/
+urlscan.io: https://urlscan.io/result/5fdee37f-6b20-4eaa-bd02-c96401febaf3/
+SenderIP: 110.185.101.7
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Sichuan Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 119.96.146.155
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hubei Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([120.38.212.183])
+Date: Sun, 13 Nov 2022 21:55:31 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/28ff55
+urlscan.io: https://urlscan.io/result/0196e4ab-7d20-4f1b-93af-e18b727bd057/
+SenderIP: 120.38.212.183
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 5 %
+---

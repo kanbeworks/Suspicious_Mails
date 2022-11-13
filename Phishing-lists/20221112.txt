@@ -1,0 +1,107 @@
+MAIL FROM:<llhqadp[at]manbiji[.]com[.]cn>
+Received: from manbiji[.]com[.]cn ([45.249.247.142])
+Date: Fri, 11 Nov 2022 23:04:46 +0800
+From: ＥＴＣ利用照会サービス事務局 <admin[at]ml[.]etc-meisai[.]jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: ETCに支払情報が変更
+URL: hxxps://www[.]etc[.]co-asdzxc[.]weixiaofan[.]com[.]cn
+urlscan.io: https://urlscan.io/result/d6919322-8cd5-4b56-aba3-10762de056f1/
+SenderIP: 45.249.247.142
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kgmuwp[at]service[.]tbmax[.]cn>
+Received: from service[.]tbmax[.]cn ([160.251.51.238])
+Date: Sat, 12 Nov 2022 05:51:20 +0800
+From: "Rakuten" <kgmuwp[at]service[.]tbmax[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重-要】楽天ご利用確認のお願い
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://little-sound-4fcf[.]xyto6jer[.]workers[.]dev/
+urlscan.io: https://urlscan.io/result/4c16d5fe-50d2-4357-b50f-2a14d8b68402/
+SenderIP: 160.251.51.238
+SenderDomain: gmo[.]jp
+SenderOrg: GMO Internet Inc.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<yamato-update-account[at]t5h4dl[.]shop>
+Received: from t5h4dl[.]shop ([106.75.20.4])
+Received: from wmlrxayq (unknown [125.127.153.199])
+From: yamato <yamato-update-account[at]t5h4dl[.]shop>
+Date: Sat, 12 Nov 2022 04:12:58 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: 【クロネコメンバーズ】大至急❗️配達状況お問い合わせ
+URL: hxxps://kuronekoyamato[.]yssekk[.]shop/
+urlscan.io: https://urlscan.io/result/04636b09-f852-4ce4-aee7-6fe104c07d04/
+SenderIP: 106.75.20.4
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 125.127.153.199
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Zhejiang Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]mazcs[.]icu>
+Received: from ecs-de19-0001 ([125.74.192.134])
+Received: from KdI[.]amazon[.]co[.]jp (unknown [203.57.109.206])
+Sender: fuwu[at]mazcs[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 12 Nov 2022 07:44:51 +0800
+X-mailer: Nuerj 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]aozm-eralv1n[.]icu/
+urlscan.io: https://urlscan.io/result/b8b21f2e-3dc2-4961-a853-d887d7b4f65c/
+SenderIP: 125.74.192.134
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Gansu Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 203.57.109.206
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<service[at]aenocoz[.]icu>
+Received: from ecs-d65c-0006 ([119.84.139.63])
+Received: from xuF[.]amazon[.]co[.]jp (unknown [110.166.231.219])
+Sender: service[at]aenocoz[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 12 Nov 2022 11:32:13 +0800
+X-mailer: Stbjbc 8
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]aozm-conaken[.]icu/
+urlscan.io: https://urlscan.io/result/b8c3cf23-f7f2-435c-90f5-4c42e62dedfc/
+SenderIP: 119.84.139.63
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Chongqing Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 110.166.231.219
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Qinghai Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]sohustock[.]com>
+Received: from mail6[.]sohustock[.]com ([192.210.213.224])
+Date: Sat, 12 Nov 2022 13:27:16 +0900
+From: Amazon <amazon[at]sohustock[.]com>
+Subject: 【大切なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2800-{数字}
+URL: hxxps://www[.]anazom[.]co[.]jp[.]bkoleh[.]shop/{snip}
+urlscan.io: https://urlscan.io/result/5ba63716-fbd1-4a01-b26b-840770269519/
+SenderIP: 192.210.213.224
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([115.226.189.93])
+Date: Sat, 12 Nov 2022 18:07:39 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/ce747d
+urlscan.io: https://urlscan.io/result/eed7b5dd-4f49-4360-80f4-d1bd2e092a26/
+SenderIP: 115.226.189.93
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Zhejiang Province Network
+AbuseConfidenceScore: 0 %
+---
