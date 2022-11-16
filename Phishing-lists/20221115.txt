@@ -1,0 +1,224 @@
+MAIL FROM:<yamato-account[at]emyyc[.]shop>
+Received: from emyyc[.]shop ([106.75.62.28])
+Received: from omkkwn (unknown [125.127.153.199])
+From: Yamato <yamato-account[at]emyyc[.]shop>
+Date: Tue, 15 Nov 2022 03:02:05 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: ヤマト運輸発送商品の最終警告お知らせ
+URL: hxxps://kuronekoyamato[.]jinli10[.]shop/
+urlscan.io: https://urlscan.io/result/80cd9f16-a987-40a4-863f-784777972105/
+SenderIP: 106.75.62.28
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 125.127.153.199
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Zhejiang Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]miceard[.]cyou>
+Received: from ecs-e7a1-0002 ([106.124.129.206])
+Received: from ktz[.]amazon[.]co[.]jp (unknown [119.96.223.245])
+Sender: noreply[at]miceard[.]cyou
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Tue, 15 Nov 2022 07:00:46 +0800
+X-mailer: Rjrscunwn 9
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]azoi-ooesnaan[.]icu/
+urlscan.io: https://urlscan.io/result/bbfb9109-b8c3-4a03-b281-ed74d646703d/
+SenderIP: 106.124.129.206
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Guangdong Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 119.96.223.245
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hubei Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fkiqaxg[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.13.109.130])
+From: 株式会社クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Tue, 15 Nov 2022 10:49:20 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】セゾンカード ご利用確認のお願い [メールコード CA{数字}]
+URL: hxxp://www[.]sacieeecnae[.]oowjsh[.]top/
+urlscan.io: https://urlscan.io/result/3aeb9669-3b23-4157-b829-da30765aa5e1/
+SenderIP: 106.13.109.130
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<xbxqkdq[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.13.142.114])
+From: 株式会社クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Tue, 15 Nov 2022 14:20:19 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【セゾンカード】個人情報確認
+URL: hxxp://www[.]sacissscnae[.]ulzxkm[.]top/
+urlscan.io: https://urlscan.io/result/a186774f-98a4-478b-a1d8-5070539cd902/
+SenderIP: 106.13.142.114
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([114.238.150.195])
+Date: Tue, 15 Nov 2022 18:30:55 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/c62052
+urlscan.io: https://urlscan.io/result/56b80cce-d495-4c5e-9ce1-951c0456bc85/
+SenderIP: 114.238.150.195
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([27.150.39.149])
+Date: Tue, 15 Nov 2022 20:32:22 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/36a579
+urlscan.io: https://urlscan.io/result/8d6318c7-d37c-4de8-807f-2520f5cc5dbf/
+SenderIP: 27.150.39.149
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([27.10.116.119])
+Date: Tue, 15 Nov 2022 21:08:33 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/knmg6le
+urlscan.io: https://urlscan.io/result/ea78d6e1-c846-4c34-b449-5f8056688a5f/
+SenderIP: 27.10.116.119
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Chongqing Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([49.85.97.37])
+Date: Tue, 15 Nov 2022 21:43:14 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/241065
+urlscan.io: https://urlscan.io/result/5eca6513-1ff2-434a-ad61-cf3354870ba6/
+SenderIP: 49.85.97.37
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from fesfes0[.]amazon[.]co[.]jp ([49.212.174.40])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Wed, 16 Nov 2022 04:38:51 +0900
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]eitu39dkhir[.]asios16[.]shop/
+urlscan.io: https://urlscan.io/result/f3302fd5-d210-4e69-9ae9-cab853af5d7e/
+SenderIP: 49.212.174.40
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from gfdh0[.]amazon[.]co[.]jp ([49.212.196.125])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Wed, 16 Nov 2022 04:45:10 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www3[.]amazon[.]co[.]jp[.]itoie30dkh[.]petrim[.]shop/
+urlscan.io: https://urlscan.io/result/d5119b10-86bb-4bdf-9772-b268462318d2/
+SenderIP: 49.212.196.125
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]ts3erad[.]icu>
+Received: from ecs-6f03-0005 ([106.124.129.183])
+Received: from low[.]amazon[.]co[.]jp (unknown [121.204.146.72])
+Sender: fuwu[at]ts3erad[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 16 Nov 2022 05:31:03 +0800
+X-mailer: Idny 0
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]aroz-mqotnznan[.]icu/
+urlscan.io: https://urlscan.io/result/8fc6ee96-2d67-497e-b7a7-2fba16c92835/
+SenderIP: 106.124.129.183
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Guangdong Province Network
+AbuseConfidenceScore: 0 %
+SenderIP: 121.204.146.72
+SenderDomain: fjtelecom[.]com
+SenderOrg: Fujian Xiamen branch Telecom Ltd
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from gfdh0[.]amazon[.]co[.]jp ([49.212.196.125])
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Wed, 16 Nov 2022 05:49:29 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www3[.]amazon[.]co[.]jp[.]itoie30dkh[.]petrim[.]shop/
+urlscan.io: https://urlscan.io/result/211029ff-a08d-4768-8300-4ac6276f4463/
+SenderIP: 49.212.196.125
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ucrz[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.12.47.238])
+From: クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Wed, 16 Nov 2022 06:50:35 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】セゾンカード ご利用確認のお願い [メールコード CA{数字}]
+URL: hxxp://www[.]saciesacscace[.]jrnmkk[.]top/
+urlscan.io: https://urlscan.io/result/3bd3f00e-fd90-41d2-8058-ed57b9f7712e/
+SenderIP: 106.12.47.238
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<etc-meisai[at]zqntxxw[.]cn>
+Received: from zqntxxw[.]cn ([113.31.104.129])
+From: etc-meisai <etc-meisai[at]zqntxxw[.]cn>
+Date: Wed, 16 Nov 2022 07:59:48 +0800
+Subject: 【ETC】重要なお知らせ
+URL: hxxps://fykltia[.]cn/?Rfunccode=1000000000&nextfunc=1000000000
+urlscan.io: https://urlscan.io/result/9cc619f2-8973-4e6b-b0c3-fb8e88997dab/
+SenderIP: 113.31.104.129
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 1 %
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([125.79.200.134])
+Date: Wed, 16 Nov 2022 09:05:25 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/b3ae74
+urlscan.io: https://urlscan.io/result/76c976ff-e2c4-4642-ad99-c52125283c08/
+SenderIP: 125.79.200.134
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<mail[at]contact[.]vpass[.]ne[.]jp>
+Received: from contact[.]vpass[.]ne[.]jp ([112.250.204.112])
+Date: Tue, 15 Nov 2022 19:14:43 +0800
+From: 三井住友カード <mail[at]contact[.]vpass[.]ne[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】三井住友カードサービスの緊急連絡、情報を確認してください。
+URL: hxxps://rebrand[.]ly/pq0vrq7
+urlscan.io: https://urlscan.io/result/daa43685-7ed7-4fd4-a9ce-e27f82de48c4/
+SenderIP: 112.250.204.112
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 % 
+---
