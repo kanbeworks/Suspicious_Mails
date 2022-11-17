@@ -89,9 +89,9 @@ SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Zhejiang Province Network
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<www[at]vmi{数字}.contaboserver[.]net>
-Received: from vmi{数字}.contaboserver[.]net ([109.123.243.48])
-Received: by vmi{数字}.contaboserver[.]net (Postfix, from userid 1000)
+MAIL FROM:<www[at]vmi1068422.contaboserver[.]net>
+Received: from vmi1068422.contaboserver[.]net ([109.123.243.48])
+Received: by vmi1068422.contaboserver[.]net (Postfix, from userid 1000)
 From: VIEW's NET <no-reply[at]viewsnet[.]jp>
 Date: Wed, 16 Nov 2022 11:09:38 +0800 (CST)
 Subject: 【重要】VIEW's NET アカウントの自動退会処理について
@@ -129,9 +129,9 @@ SenderDomain: chinaunicom[.]com
 SenderOrg: China Unicom Shandong Province Network
 AbuseConfidenceScore: 0 % 
 ---
-MAIL FROM:<www[at]vmi{数字}.contaboserver[.]net>
-Received: from vmi{数字}.contaboserver[.]net ([109.123.244.214])
-Received: by vmi{数字}.contaboserver[.]net (Postfix, from userid 1000)
+MAIL FROM:<www[at]vmi1069160.contaboserver[.]net>
+Received: from vmi1069160.contaboserver[.]net ([109.123.244.214])
+Received: by vmi1069160.contaboserver[.]net (Postfix, from userid 1000)
 From: VIEW's NET <no-reply[at]viewsnet[.]jp>
 Date: Wed, 16 Nov 2022 11:09:48 +0800 (CST)
 Subject: 【重要】VIEW's NET アカウントの自動退会処理について
