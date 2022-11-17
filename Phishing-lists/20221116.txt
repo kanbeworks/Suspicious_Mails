@@ -1,0 +1,157 @@
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([112.250.207.150])
+Date: Wed, 16 Nov 2022 14:54:11 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+URL: hxxps://rebrand[.]ly/394de8
+urlscan.io: https://urlscan.io/result/a897d8b7-0e52-4ecc-8703-fdf5ae551e68/
+SenderIP: 112.250.207.150
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kefu[at]eukl-rvcsend[.]icu>
+Received: from eukl-rvcsend[.]icu ([104.218.166.11])
+Received: from eki-net[.]com (unknown [107.155.60.202])
+Sender: kefu[at]eukl-rvcsend[.]icu
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Wed, 16 Nov 2022 05:12:22 +0400
+X-mailer: Mytpncz 2
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://s[.]esaeki-temo[.]icu/
+urlscan.io: https://urlscan.io/result/bae01de0-8483-4cf0-bf96-fc597989bfca/
+SenderIP: 104.218.166.11
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 107.155.60.202
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<zb[at]eki-net[.]com>
+Received: from eki-net[.]com ([128.1.42.121])
+Sender: zb[at]eki-net[.]com
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Wed, 16 Nov 2022 03:38:08 +0100
+X-mailer: Mhpn 2
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://s[.]esmeki-teco[.]icu/
+urlscan.io: https://urlscan.io/result/bbb5ef26-4390-481a-81ee-6ba9fae7a858/
+SenderIP: 128.1.42.121
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<suport_1[at]ewben[.]top>
+Received: from ewben[.]top ([106.75.12.100])
+Received: from wkgets (unknown [113.249.212.183])
+From: "Amazon" <suport_1[at]ewben[.]top>
+Date: Wed, 16 Nov 2022 03:53:53 +0800
+X-mailer: Xwgdsyt 6
+Subject: Amazonプライム会費のお支払い方法に問題があります
+URL: hxxps://www[.]amzaoon[.]com/
+urlscan.io: https://urlscan.io/result/2838f2ee-61a0-43fa-8f4a-f17e6e484c60/
+SenderIP: 106.75.12.100
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 13 %
+SenderIP: 113.249.212.183
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Chongqing Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<imiqge[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.13.146.248])
+From: 株式会社クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Wed, 16 Nov 2022 11:58:02 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【セゾンカード】個人情報確認
+URL: hxxp://www[.]sacisssccsnace[.]eefurs[.]top/
+urlscan.io: https://urlscan.io/result/0bf4f7ac-d096-439c-bd33-f0100d007669/
+SenderIP: 106.13.146.248
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([115.226.173.139])
+Date: Wed, 16 Nov 2022 12:13:52 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【楽天市場】情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/90cbd0
+urlscan.io: https://urlscan.io/result/afbd454c-2eeb-40e9-b23d-ad7437377126/
+SenderIP: 115.226.173.139
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Zhejiang Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi{数字}.contaboserver[.]net>
+Received: from vmi{数字}.contaboserver[.]net ([109.123.243.48])
+Received: by vmi{数字}.contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Wed, 16 Nov 2022 11:09:38 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/426b37b0-cb54-4f7c-81c6-c14f7d57207d/
+SenderIP: 109.123.243.48
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<xl[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([106.12.47.238])
+From: 株式会社クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Wed, 16 Nov 2022 14:01:48 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【セゾンカード】重要なお知らせ
+URL: hxxp://www[.]sacissacscacn[.]tmerzz[.]top/
+urlscan.io: https://urlscan.io/result/317553a1-38bb-4b10-8401-04c1927ac5e9/
+SenderIP: 106.12.47.238
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<info[at]mail[.]rakuten-card[.]co[.]jp>
+Received: from mail[.]rakuten-card[.]co[.]jp ([112.250.218.55])
+Date: Wed, 16 Nov 2022 14:12:11 +0800
+From: 楽天カード株式会社 <info[at]mail[.]rakuten-card[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急連絡】[楽天市場]情報の有効期限が切れ、アカウントの使用が停止されました.
+URL: hxxps://rebrand[.]ly/3a2111
+urlscan.io: https://urlscan.io/result/3b1485e7-001d-4597-8632-567190bda398/
+SenderIP: 112.250.218.55
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Shandong Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<www[at]vmi{数字}.contaboserver[.]net>
+Received: from vmi{数字}.contaboserver[.]net ([109.123.244.214])
+Received: by vmi{数字}.contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Wed, 16 Nov 2022 11:09:48 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/ff6c740d-4e9c-401e-acaf-258a819d90a3/
+SenderIP: 109.123.244.214
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.184.156.57])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Thu, 17 Nov 2022 07:36:25 +0800
+X-mailer: Wbvg 3
+Subject: Amazonアカウントは停止されました、情報を更新してください。〖メールコード:M6263〗
+URL: hxxps://www[.]rautenterprises[.]com/jp
+urlscan.io: https://urlscan.io/result/3967cd2c-7fd6-4745-ab07-70172b0c1af8/
+SenderIP: 27.184.156.57
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hebei Province Network
+AbuseConfidenceScore: 0 % 
+---
