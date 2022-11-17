@@ -147,7 +147,7 @@ Received: from amazon[.]co[.]jp ([27.184.156.57])
 From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
 Date: Thu, 17 Nov 2022 07:36:25 +0800
 X-mailer: Wbvg 3
-Subject: Amazonアカウントは停止されました、情報を更新してください。〖メールコード:M6263〗
+Subject: Amazonアカウントは停止されました、情報を更新してください。〖メールコード:Mxxxx〗
 URL: hxxps://www[.]rautenterprises[.]com/jp
 urlscan.io: https://urlscan.io/result/3967cd2c-7fd6-4745-ab07-70172b0c1af8/
 SenderIP: 27.184.156.57
