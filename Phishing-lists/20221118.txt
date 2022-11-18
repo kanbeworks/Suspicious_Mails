@@ -1,0 +1,90 @@
+MAIL FROM:<admin[at]sais1oncakd[.]cyou>
+Received: from sais1oncakd[.]cyou ([101.36.104.63])
+Received: from pYc[.]amazon[.]co[.]jp (unknown [124.226.216.198])
+Sender: admin[at]sais1oncakd[.]cyou
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Fri, 18 Nov 2022 04:09:29 +0800
+X-mailer: Jlsc 4
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxp://support[.]azoin-aioovauion[.]icu/
+urlscan.io: https://urlscan.io/result/0d319c98-7272-461e-b564-c38e3cb166de/
+SenderIP: 101.36.104.63
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 124.226.216.198
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Guangxi Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([42.6.177.179])
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Fri, 18 Nov 2022 04:27:55 +0800
+X-mailer: Ymcskfi 8
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #238-{数字}
+URL: hxxps://www[.]businessownerhelp[.]com/jp
+urlscan.io: https://urlscan.io/result/125d017e-36c6-4458-936f-4647471a1542/
+SenderIP: 42.6.177.179
+SenderDomain: chinaunicom[.]com
+SenderOrg: Unicom Liaoning Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kefu[at]srnbs-sresczd[.]icu>
+Received: from srnbs-sresczd[.]icu ([101.36.114.2])
+Received: from amazon[.]co[.]jp (unknown [152.32.199.188])
+Sender: kefu[at]srnbs-sresczd[.]icu
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Thu, 17 Nov 2022 17:50:54 -0300
+X-mailer: Lhbx 7
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amzoseusm-jp[.]icu/
+urlscan.io: https://urlscan.io/result/45f7c628-a464-4e0c-aea5-3dcd26468530/
+SenderIP: 101.36.114.2
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.199.188
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<support[at]service[.]jiroq[.]cn>
+Received: from service[.]jiroq[.]cn ([107.173.244.89])
+Date: Fri, 18 Nov 2022 05:24:02 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]jiroq[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要なお知らせ】Amazonアカウントのからの緊急の連絡、情報を更新してください。メール番号:{数字}
+URL: hxxps://services[.]maxcoinre[.]com/
+urlscan.io: https://urlscan.io/result/3787597c-8bf4-40d9-a86e-b46ee840712d/
+SenderIP: 107.173.244.89
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 6 %
+---
+MAIL FROM:<mobilesuica[at]hwhdeis[.]cn>
+Received: from hwhdeis[.]cn ([106.75.179.150])
+From: Suica <mobilesuica[at]hwhdeis[.]cn>
+Date: Fri, 18 Nov 2022 10:34:22 +0900
+Subject: 【重要】「モバイルSuica」（JR東日本）ご利用の会員IDとサービスについて
+URL: hxxps://www2[.]mobilesuica[.]com[.]jinli6[.]shop/
+urlscan.io: https://urlscan.io/result/2b4e08bd-88a4-4a22-96b1-57e06eda3260/
+SenderIP: 106.75.179.150
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]wtkzusi[.]cn>
+Received: from wtkzusi[.]cn ([106.75.48.37])
+Sender: amazon[at]wtkzusi[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Fri, 18 Nov 2022 11:27:10 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://www[.]rgvysha[.]cn/
+urlscan.io: https://urlscan.io/result/ebb7e308-6446-46c7-b6ad-b53e65c6b18a/
+SenderIP: 106.75.48.37
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
