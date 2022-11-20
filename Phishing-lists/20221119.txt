@@ -1,0 +1,195 @@
+MAIL FROM:<no-reply1[at]mcrinversiones[.]com>
+Received: from mail[.]mcrinversiones[.]com ([107.150.111.27])
+spf=pass
+dkim=none
+dmarc=pass header.from=mcrinversiones[.]com
+Received: from aia (unknown [101.24.252.164])
+From: ヨドバシ・ドット・コム <no-reply1[at]mcrinversiones[.]com>
+Date: Sat, 19 Nov 2022 01:02:18 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: ヨドバシ・ドット・コム：カード情報更新のお知らせ
+URL: hxxps://stretch[.]multi-mediacorp[.]com/wanting
+urlscan.io: https://urlscan.io/result/44160191-559a-47d1-908b-2c84f3ce9aa9/
+SenderIP: 107.150.111.27
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 101.24.252.164
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Hebei Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]wxceza[.]cn>
+Received: from service[.]wxceza[.]cn ([23.95.41.198])
+spf=pass
+dkim=pass header.d=service[.]wxceza[.]cn header.b=I8xgBQ7N;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]wxceza[.]cn
+Date: Sat, 19 Nov 2022 04:14:07 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】amazen株式会社から緊急のご連絡
+URL: hxxps://mails[.]fshfh[.]com/
+urlscan.io: https://urlscan.io/result/17bea66f-b957-483f-8c97-e49281e89d29/
+SenderIP: 23.95.41.198
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]fxqgepv[.]cn>
+Received: from service[.]fxqgepv[.]cn ([194.156.98.166])
+spf=pass
+dkim=pass header.d=service[.]fxqgepv[.]cn header.b=QCDZv0T9;
+dmarc=pass header.from=service[.]fxqgepv[.]cn
+Date: Sat, 19 Nov 2022 05:18:54 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]fxqgepv[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要なお知らせ】Amazonアカウントのからの緊急の連絡、情報を更新してください。メール番号:Mxxxxx
+URL: hxxps://services[.]maxcoinre[.]com/
+urlscan.io: https://urlscan.io/result/4f85df1f-5568-4214-a8be-b7d308820f10/
+SenderIP: 194.156.98.166
+SenderDomain: pq[.]hosting
+SenderOrg: Stark Industries Solutions Ltd
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]bucij[.]cn>
+Received: from service[.]bucij[.]cn ([194.156.98.201])
+spf=pass
+dkim=pass header.d=service[.]bucij[.]cn header.b=l7t+wf0q;
+dmarc=pass header.from=service[.]bucij[.]cn
+Date: Sat, 19 Nov 2022 05:20:37 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]bucij[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonの本人確認のお知らせ、情報を更新してください。メール番号:{数字}
+URL: hxxps://member[.]binanceew[.]com/
+urlscan.io: https://urlscan.io/result/07531870-64d5-45d2-bf05-bc2de6f07b60/
+SenderIP: 194.156.98.201
+SenderDomain: pq[.]hosting
+SenderOrg: Stark Industries Solutions Ltd
+AbuseConfidenceScore: 6 %
+---
+MAIL FROM:<admin[.]smile-etc[.]jp[at]dsdle[.]cc>
+Received: from mail[.]dsdle[.]cc ([173.82.235.53])
+spf=pass
+dkim=pass header.d=dsdle[.]cc header.i=admin[.]smile-etc[.]jp[at]dsdle[.]cc
+dmarc=permerror (record unparsable: required version tag missing from record)
+Date: Sat, 19 Nov 2022 07:30:46 +0800
+From: ＥＴＣ利用照会サービス <admin[.]smile-etc[.]jp[at]dsdle[.]cc>
+Subject: ETCパーソナルカードWebサービス（ＥＴＣ利用照会サービス）
+URL: hxxp://www2-etc[.]aet-jp[.]shop/
+urlscan.io: https://urlscan.io/result/dd9a04de-be09-4aa5-8ce3-897cfac9b2e3/
+SenderIP: 173.82.235.53
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from grtdgrd0[.]amazon[.]co[.]jp ([133.125.42.83])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 07:40:13 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]sdgh06dkh[.]otsuk20[.]shop/
+urlscan.io: https://urlscan.io/result/5352327e-a1f6-468d-9d37-0859327aaa0d/
+SenderIP: 133.125.42.83
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 20 % 
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdg0[.]amazon[.]co[.]jp ([153.120.3.199])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 10:54:47 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]sdg47dk12h[.]boodbillttg[.]shop/
+urlscan.io: https://urlscan.io/result/6ebdb35d-332e-4dca-9d7f-804323261834/
+SenderIP: 153.120.3.199
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]wxceza[.]cn>
+Received: from service[.]wxceza[.]cn ([23.95.41.198])
+spf=pass
+dkim=pass header.d=service[.]wxceza[.]cn header.b=bd+7Xqca;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]wxceza[.]cn
+Date: Sat, 19 Nov 2022 13:09:25 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】amazen株式会社から緊急のご連絡
+URL: hxxps://meb[.]ntzxj[.]com/
+urlscan.io: https://urlscan.io/result/38ec0f16-684f-4ffc-b3ad-098d751e7f7c/
+SenderIP: 23.95.41.198
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdg0[.]amazon[.]co[.]jp ([153.120.45.6])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 13:16:29 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]dhj6sh6ddfj[.]otsuk4[.]shop/
+urlscan.io: https://urlscan.io/result/f622416f-572c-4a3e-84d5-79379da5c749/
+SenderIP: 153.120.45.6
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([119.115.103.85])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 14:04:18 +0800
+X-mailer: Bsjuzxr 0
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #{数字}-{数字}
+URL: hxxps://www[.]businessownerhelp[.]com/jp
+urlscan.io: https://urlscan.io/result/9bce1f44-fa12-4de0-a2a1-97556fbda35b/
+SenderIP: 119.115.103.85
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Liaoning Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.184.244.64])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 17:18:36 +0800
+X-mailer: Gkmrn 6
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #{数字}-{数字}
+URL: hxxps://www[.]rautenterprises[.]com/jp
+urlscan.io: https://urlscan.io/result/b3df1ae5-3635-43a6-866f-114074b7d294/
+SenderIP: 27.184.244.64
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Hebei Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<member[at]eki-net[.]com>
+Received: from eki-net[.]com ([101.24.240.175])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=fail header.from=eki-net[.]com
+From: えきねっと <member[at]eki-net[.]com>
+Date: Sat, 19 Nov 2022 22:41:11 +0800
+X-mailer: Huhaew 7
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://eki[.]jr-net[.]club/
+urlscan.io: https://urlscan.io/result/0fa60ea0-7f7f-487e-a832-ce180da61d05/
+SenderIP: 101.24.240.175
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Hebei Province Network
+AbuseConfidenceScore: 0 % 
+---
