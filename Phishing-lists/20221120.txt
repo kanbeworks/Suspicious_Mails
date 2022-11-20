@@ -1,0 +1,193 @@
+MAIL FROM:<amazon[at]cyrhy[.]cn>
+Received: from cyrhy[.]cn ([106.75.182.96])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=cyrhy[.]cn header.i=amazon[at]cyrhy[.]cn
+dmarc=none (could not find any valid author domain)
+Sender: amazon[at]cyrhy[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 23:06:15 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amz[.]pojglsh[.]cn/
+urlscan.io: https://urlscan.io/result/a6661b10-adaa-4df0-bbd2-1f0339903cb2/
+SenderIP: 106.75.182.96
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdgfg0[.]amazon[.]co[.]jp ([133.167.45.143])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
+Date: Sun, 20 Nov 2022 04:15:46 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]yi7hjdd4fgj[.]aqmyylt[.]cn/
+urlscan.io: https://urlscan.io/result/74c26598-002c-42fb-b6a5-964c48691cec/
+SenderIP: 133.167.45.143
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<eki-net[at]virtualstoreusa[.]com>
+Received: from mail4[.]virtualstoreusa[.]com ([149.30.169.252])
+spf=pass
+dkim=pass header.d=virtualstoreusa[.]com header.i=eki-net[at]virtualstoreusa[.]com
+dmarc=pass header.from=virtualstoreusa[.]com
+From: えきねっと <eki-net[at]virtualstoreusa[.]com>
+Date: Sun, 20 Nov 2022 04:54:58 +0800
+Subject: 【重要】会員情報変更および退会に関するお知らせ
+URL: hxxps://www[.]eki-net[.]eklyout[.]club/a2trMTQwMDAwP2hvZ2VAZXhhbXBsZS5jb20=
+urlscan.io: https://urlscan.io/result/5f608729-8601-4bcb-bb95-c988dfc56a49/
+SenderIP: 149.30.169.252
+SenderDomain: hupohost[.]com
+SenderOrg: Hupo Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from dsfgfh0[.]amazon[.]co[.]jp ([133.242.130.217])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
+Date: Sun, 20 Nov 2022 06:30:22 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]dfgh56dsdh2dfg[.]rautpmh[.]cn/
+urlscan.io: https://urlscan.io/result/32a5aeca-8b19-4989-922b-160b866d9ef1/
+SenderIP: 133.242.130.217
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from fdhj0[.]amazon[.]co[.]jp ([153.120.45.6])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
+Date: Sun, 20 Nov 2022 06:43:07 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www2[.]amazon[.]co[.]jp[.]dfgh56dsdh2dfg[.]rautpmh[.]cn/
+urlscan.io: https://urlscan.io/result/8818c212-77d4-4b05-bed8-d304aa831245/
+SenderIP: 153.120.45.6
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amozon-update[at]0uvv00z[.]cn>
+Received: from 0uvv00z[.]cn ([106.75.178.129])
+spf=pass
+dkim=pass header.d=0uvv00z[.]cn header.b=iRuxl4nw;
+dmarc=pass header.from=0uvv00z[.]cn
+Received: from lwxfjzt (unknown [125.77.44.23])
+From: 最終警告 <amozon-update[at]0uvv00z[.]cn>
+Date: Sun, 20 Nov 2022 07:29:14 +0800
+Subject: 【Amazon[.]co[.]jp】異常ログイン通知。{MailAddress}
+X-Mailer: Supmailer 37.0.3
+URL: hxxps://amazon[.]nbvmbfv[.]cn/
+urlscan.io: https://urlscan.io/result/092729df-b276-45cb-8db3-4b2e0d17ec22/
+SenderIP: 106.75.178.129
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 125.77.44.23
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon-account[at]ighizk[.]cn>
+Received: from ighizk[.]cn ([137.220.247.37])
+spf=pass
+dkim=pass header.d=ighizk[.]cn header.i=amazon-account[at]ighizk[.]cn
+dmarc=pass header.from=ighizk[.]cn
+From: "Amazon[.]co[.]jp" <amazon-account[at]ighizk[.]cn>
+Date: Sun, 20 Nov 2022 08:03:23 +0800
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxp://support[.]annzon[.]jp[.]bekasiraya[.]com/
+urlscan.io: https://urlscan.io/result/6f74a3bd-7885-433a-8b68-a231c0716fa3/
+SenderIP: 137.220.247.37
+SenderDomain: rackip[.]com
+SenderOrg: RackIP Consultancy Pte. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ordeybns[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([152.32.141.191])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: ordeybns[at]amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Sun, 20 Nov 2022 01:35:45 +0100
+X-mailer: Uie 0
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amascwuem-jp[.]icu/
+urlscan.io: https://urlscan.io/result/805023da-bb68-4327-9998-4712051090b5/
+SenderIP: 152.32.141.191
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<webcus[at]aplus[.]co[.]jp>
+Received: from mail0[.]aplus[.]co[.]jp ([164.70.69.147])
+spf=softfail
+dkim=fail (key not found in DNS) header.d=aplus[.]co[.]jp
+dmarc=fail header.from=aplus[.]co[.]jp
+From: 株式会社アプラス <webcus[at]aplus[.]co[.]jp>
+Date: Sun, 20 Nov 2022 10:02:31 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【NETstationAPLUS】クレジットカード等にかかる一部サービス休止のお知らせ【Luxury Cardカード】
+URL: hxxps://netstation[.]codh3x4d5f27as57f48dflomhno[.]com/serv/
+urlscan.io: https://urlscan.io/result/79f2f215-057d-44a2-bc8b-4ea8afa59281/
+SenderIP: 164.70.69.147
+SenderDomain: suitepro[.]jp
+SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<vplvqmfsk[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([152.32.150.208])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: vplvqmfsk[at]amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Sat, 19 Nov 2022 23:30:35 -0500
+X-mailer: Ikschvvf 1
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amasccuem-jp[.]icu/
+urlscan.io: https://urlscan.io/result/dde468d3-3cbd-4bd8-80bb-c310494997bc/
+SenderIP: 152.32.150.208
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<rakuten[at]ilkee[.]com>
+Received: from mail2[.]ilkee[.]com ([23.94.49.54])
+spf=pass
+dkim=pass header.d=ilkee[.]com header.i=rakuten[at]ilkee[.]com header.b=cO5pj5gU;
+dmarc=pass header.from=ilkee[.]com
+Date: Sun, 20 Nov 2022 08:02:52 +0900
+From: 【楽天市場】 <rakuten[at]ilkee[.]com>
+Subject: 【重要なお知らせ】個人情報を更新時期に迎え、アカウントの使用が停止されました.
+URL: hxxps://www[.]raktenu[.]co[.]jp[.]cweizn[.]shop/?Verification1=hogEHOGEmNO
+urlscan.io: https://urlscan.io/result/776d758d-776e-4a9a-abfd-38e5bb19ab60/
+SenderIP: 23.94.49.54
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from htfhfth0[.]amazon[.]co[.]jp ([133.242.130.217])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
+Date: Sun, 20 Nov 2022 21:00:39 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]prvhkzs[.]cn/
+urlscan.io: https://urlscan.io/result/f27b7aca-d303-4724-b024-974d868b1ae8/
+SenderIP: 133.242.130.217
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
