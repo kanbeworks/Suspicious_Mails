@@ -99,7 +99,7 @@ dmarc=pass header.from=service[.]wsykpk[.]cn
 Date: Mon, 21 Nov 2022 02:22:57 +000
 From: えきねっと <njboc[at]service[.]wsykpk[.]cn>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
-Subject: 【アカウントの自動退会処理について】メール番号:JR東1869
+Subject: 【アカウントの自動退会処理について】メール番号:JR東{数字}
 URL: hxxps://pdxxdj[.]cn/r/ZnZ88I8
 urlscan.io: https://urlscan.io/result/fb8970ea-ba7b-4f13-a48f-c979ef6c0213/
 SenderIP: 45.82.177.43
