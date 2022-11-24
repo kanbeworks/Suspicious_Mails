@@ -1,0 +1,127 @@
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from dsg0[.]amazon[.]co[.]jp ([153.127.24.154])
+spf=fail
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <contact[at]amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 04:33:17 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]xahuvgl[.]cn/
+urlscan.io: https://urlscan.io/result/243006e3-d6c2-421f-81f0-4d5c343edb2c/
+SenderIP: 153.127.24.154
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fmhwlyjxln[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.13.134.38])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 06:01:21 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】異常な行為が検出
+URL: hxxp://www[.]anzcacn-co-jp[.]amaazon[.]lfkdan[.]top/
+urlscan.io: https://urlscan.io/result/45a9e1f6-6290-4b49-a927-670a3c0d89a5/
+SenderIP: 106.13.134.38
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<support[at]service[.]xaenan[.]cn>
+Received: from service[.]xaenan[.]cn ([23.94.168.36])
+spf=pass
+dkim=pass header.d=service[.]xaenan[.]cn header.b=LDxTM7II;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]xaenan[.]cn
+Date: Wed, 23 Nov 2022 07:36:34 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】amazen株式会社から緊急のご連絡
+URL: hxxps://meb[.]ntzxj[.]com/
+urlscan.io: https://urlscan.io/result/96926450-d444-45b6-9ada-ade4a0d4cfb3/
+SenderIP: 23.94.168.36
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<gm[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([128.1.34.24])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: gm[at]amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 00:27:52 +0100
+X-mailer: Euy 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amasnem-jp[.]icu/
+urlscan.io: https://urlscan.io/result/b1ded1ff-608a-43c2-8bc0-5478e2877646/
+SenderIP: 128.1.34.24
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<noreply[at]epsocazceaurd[.]icu>
+Received: from epsocazceaurd[.]icu ([107.155.43.192])
+spf=pass
+dkim=none header.d=epsocazceaurd[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from gXa[.]amazon[.]co[.]jp (unknown [152.32.228.227])
+Sender: noreply[at]epsocazceaurd[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 06:22:07 +0300
+X-mailer: Afmgzl 0
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]atzz-taozoocaiean[.]icu/
+urlscan.io: https://urlscan.io/result/0ef26ab5-37fe-4a1c-b917-531f35869554/
+SenderIP: 107.155.43.192
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.228.227
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]hrqsct[.]cn>
+Received: from hrqsct[.]cn ([106.75.156.238])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=hrqsct[.]cn
+dmarc=none (could not find any valid author domain)
+Sender: amazon[at]hrqsct[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 12:10:00 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amz[.]yqdqpyxxz[.]cn/
+urlscan[.]io: ※400 Error
+SenderIP: 106.75.156.238
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]eakl-nvcte[.]icu>
+Received: from aenosnen[.]icu ([107.155.15.18])
+spf=pass
+dkim=none header.d=eakl-nvcte[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from Ghr[.]amazon[.]co[.]jp (unknown [118.26.105.199])
+Sender: noreply[at]eakl-nvcte[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 23 Nov 2022 06:05:18 -0300
+X-mailer: Jnl 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]atzz-taozooitann[.]icu/
+urlscan.io: https://urlscan.io/result/b9faac8e-7fac-4ed3-97ba-fff381a6c64d/
+SenderIP: 107.155.15.18
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 118.26.105.199
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---

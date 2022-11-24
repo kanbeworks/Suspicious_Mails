@@ -1,0 +1,227 @@
+MAIL FROM:<account[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([110.228.24.176])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <account[at]amazon[.]co[.]jp>
+Date: Tue, 22 Nov 2022 00:54:38 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazon株式会社から緊急のご連絡
+URL: hxxps://support[.]annzon[.]bmohby[.]cn/
+urlscan.io: https://urlscan.io/result/f7385125-1c96-480f-96f9-904240fcb0b7/
+SenderIP: 110.228.24.176
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Hebei Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([36.57.88.210])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Tue, 22 Nov 2022 04:40:26 +0800
+X-mailer: Lde 9
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+URL: hxxps://www[.]greenpathstrategies[.]com/jp
+urlscan.io: https://urlscan.io/result/7e7957f6-4bb3-47dd-adac-aa92eb957518/
+SenderIP: 36.57.88.210
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]huiroad[.]cn>
+Received: from service[.]huiroad[.]cn ([107.174.156.219])
+spf=pass
+dkim=pass header.d=service[.]huiroad[.]cn header.b=YFtpXwVD;
+dmarc=pass header.from=service[.]huiroad[.]cn
+Date: Tue, 22 Nov 2022 05:32:48 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]huiroad[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要なお知らせ】Amazonアカウントのご利用確認のお願い。メール番号:{数字}
+URL: hxxps://services[.]maxcoinre[.]com/
+urlscan.io: https://urlscan.io/result/d5c96340-3b8c-4106-a548-a84f7add69cf/
+SenderIP: 107.174.156.219
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 5 %
+---
+MAIL FROM:<mail[at]mstacunsrc[.]icu>
+Received: from mstacunsrc[.]icu ([103.72.145.172])
+spf=pass
+dkim=none header.d=mstacunsrc[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from giR[.]amazon[.]co[.]jp (unknown [152.32.181.126])
+Sender: mail[at]mstacunsrc[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Tue, 22 Nov 2022 03:55:34 +0400
+X-mailer: Fvs 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]aouz-oztianaiqn[.]icu/
+urlscan.io: https://urlscan.io/result/9bf3629b-356d-44df-b0ef-b414b1e20a5a/
+SenderIP: 103.72.145.172
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.181.126
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<vqb[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([107.150.117.61])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: vqb[at]amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Tue, 22 Nov 2022 01:51:12 +0100
+X-mailer: Vdd 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amascscmm-jp[.]icu/
+urlscan.io: https://urlscan.io/result/381ec8b0-b74a-4118-8ae3-bb0dab069830/
+SenderIP: 107.150.117.61
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<admin[at]mstaceusecc[.]icu>
+Received: from mstacsurasccs[.]icu ([152.32.223.64])
+spf=softfail
+dkim=none header.d=mstaceusecc[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from Tww[.]amazon[.]co[.]jp (unknown [123.58.207.150])
+Sender: admin[at]mstaceusecc[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Tue, 22 Nov 2022 03:20:35 +000
+X-mailer: Cfvrswsd 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]aouz-oriznaiqn[.]icu/
+urlscan.io: https://urlscan.io/result/bf7ec779-f413-4092-9b7f-28290e8990d4/
+SenderIP: 152.32.223.64
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 123.58.207.150
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1068422[.]contaboserver[.]net>
+Received: from vmi1068422[.]contaboserver[.]net ([109.123.243.48])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1068422[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 22 Nov 2022 11:21:49 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/7a626a5c-a8b5-4338-bd0a-630886d7f4fd/
+SenderIP: 109.123.243.48
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1069160[.]contaboserver[.]net>
+Received: from vmi1069160[.]contaboserver[.]net ([109.123.244.214])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1069160[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 22 Nov 2022 11:22:28 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/7a626a5c-a8b5-4338-bd0a-630886d7f4fd/
+SenderIP: 109.123.244.214
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1068422[.]contaboserver[.]net>
+Received: from vmi1068422[.]contaboserver[.]net ([109.123.243.48])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1068422[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 22 Nov 2022 12:01:18 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/7a626a5c-a8b5-4338-bd0a-630886d7f4fd/
+SenderIP: 109.123.243.48
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1069160[.]contaboserver[.]net>
+Received: from vmi1069160[.]contaboserver[.]net ([109.123.244.214])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1069160[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 22 Nov 2022 12:01:12 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]fhwa[.]top/
+urlscan.io: https://urlscan.io/result/7a626a5c-a8b5-4338-bd0a-630886d7f4fd/
+SenderIP: 109.123.244.214
+SenderDomain: contabo[.]com
+SenderOrg: Contabo GmbH
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<info[at]amazon[.]co[.]jp> BODY=8BITMIME
+Received: from vultr[.]guest ([45.63.70.152])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: by vultr[.]guest (Postfix, from userid 1000)
+Date: Tue, 22 Nov 2022 18:45:39 +0800
+From: Amazon <info[at]amazon[.]co[.]jp>
+Subject: Amazonアカウントが異常な状態になっています
+URL: hxxps://wispy-darkness-ce44[.]gzbvxb5h[.]workers[.]dev/
+urlscan.io: https://urlscan.io/result/0d1b9771-c7e8-4628-aff6-0c646d636740/
+SenderIP: 45.63.70.152
+SenderDomain: vultr[.]com
+SenderOrg: Vultr Holdings LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]insolvyequix[.]com>
+Received: from 0631bpbj[.]com ([106.75.231.48])
+spf=pass
+dkim=none header.d=insolvyequix[.]com
+dmarc=pass header.from=insolvyequix[.]com
+Received: from XTZJ-20220613UI (unknown [202.98.99.218])
+From: 重要なお知らせ <mail[at]insolvyequix[.]com>
+Date: Tue, 22 Nov 2022 19:23:23 +0800
+X-Mailer: Supmailer 37.0.2
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://allvancouvermls[.]com/jp
+urlscan.io: https://urlscan.io/result/2a8f6e04-2e64-4f5f-a0a5-d609767a7076/
+SenderIP: 106.75.231.48
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 202.98.99.218
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Sichuan Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<wxs[at]eki-net[.]com>
+Received: from eki-net[.]com ([104.218.164.47])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=fail header.from=eki-net[.]com
+Sender: wxs[at]eki-net[.]com
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Tue, 22 Nov 2022 21:59:52 +000
+X-mailer: Edh 7
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]ekzi-mseuo[.]icu/jp[.]php
+urlscan.io: https://urlscan.io/result/45a0a7a9-e58e-4d1a-a405-94af8d7a14d1/
+SenderIP: 104.218.164.47
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
