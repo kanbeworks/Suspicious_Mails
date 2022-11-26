@@ -1,0 +1,277 @@
+MAIL FROM:<xy[at]amazon.co.jp>
+Received: from amazon.co.jp ([182.61.41.118])
+spf=fail
+dkim=none header.d=amazon.co.jp header.b=;
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 06:45:11 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】Amazonプライム会費のお支払い方法に問題があります
+URL: http://www.anzcam-co-jp.amazaon.zxcsdh.top/
+urlscan.io: https://urlscan.io/result/5977437e-e973-4d8c-8009-31dd5da36283/
+SenderIP: 182.61.41.118
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<bjwllblhf[at]amazon.co.jp>
+Received: from amazon.co.jp ([180.76.240.60])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 07:23:18 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【ご注意】お客様のお支払い方法が承認されません
+URL: http://www.anzcam-co-jp.amazaon.cvlslg.top/
+urlscan.io: https://urlscan.io/result/1dd1222d-c83b-4fc4-926a-1ec6c448c722/
+SenderIP: 180.76.240.60
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<zxvs[at]amazon.co.jp>
+Received: from amazon.co.jp ([180.76.203.83])
+spf=fail
+dkim=none header.d=amazon.co.jp header.b=;
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon.co.jp" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 08:52:30 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】異常な行為が検出
+URL: http://www.anzcam-co-jp.amaezon.zgsmvh.top/
+urlscan.io: https://urlscan.io/result/f53fe42d-8b94-495d-85c1-850b28f5e089/
+SenderIP: 180.76.203.83
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<iuqgrwock[at]amazon.co.jp>
+Received: from amazon.co.jp ([152.32.180.71])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+Sender: iuqgrwock[at]amazon.co.jp
+From: "Amazon.co.jp" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 05:41:07 +0400
+X-mailer: Zytxa 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: https://s.amauznem-jp.icu/
+urlscan.io: https://urlscan.io/result/3ebb153b-2d79-4856-8022-fe7f422a2fcf/
+SenderIP: 152.32.180.71
+SenderDomain: ucloud.cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<myvbuhqi[at]amazon.co.jp>
+Received: from amazon.co.jp ([180.76.164.144])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon.co.jp" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 09:53:41 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【ご注意】お客様のお支払い方法が承認されません
+URL: http://www.anzcam-co-jp.amaezon.kxdirb.top/
+urlscan.io: https://urlscan.io/result/50e39a61-2c05-41f5-ae2a-b41a51cc1e08/
+SenderIP: 180.76.164.144
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kefu[at]smbs-cozv.icu>
+Received: from smbs-cozv.icu ([23.248.174.191])
+spf=pass
+dkim=none header.d=smbs-cozv.icu header.b=;
+dmarc=fail header.from=amazon.co.jp
+Received: from Xrm.amazon.co.jp (unknown [152.32.180.12])
+Sender: kefu[at]smbs-cozv.icu
+From: "Amazon.co.jp" <noreply[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 06:40:44 +0400
+X-mailer: Lbl 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: https://support.azzy-outianxzan.icu/
+urlscan.io: https://urlscan.io/result/0891478a-7cc6-4f05-ab25-aec50db4e49b/
+SenderIP: 23.248.174.191
+SenderDomain: zenlayer.com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.180.12
+SenderDomain: ucloud.cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<npj[at]amazon.co.jp>
+Received: from amazon.co.jp ([120.48.165.157])
+spf=fail
+dkim=none header.d=amazon.co.jp header.b=;
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon.co.jp" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 13:23:05 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】お支払方法に問題があり、プライム特典をご利用いただけない状況です。
+URL: http://www.anzcam-co-jp.amazaon.tnxjvp.top/
+urlscan.io: https://urlscan.io/result/0008a337-479a-451b-ae69-9c5b8411c73a/
+SenderIP: 120.48.165.157
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<ayhrkwlqr[at]amazon.co.jp>
+Received: from amazon.co.jp ([180.76.240.60])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon.co.jp" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 13:39:32 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: Amazon.co.jpをご利用いただきありがとうございます
+URL: http://www.anzcam-co-jp.amaezon.iwrlze.top/
+urlscan.io: https://urlscan.io/result/44d9e9c9-961c-4e79-982c-646329d881ea/
+SenderIP: 180.76.240.60
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<swnoiycs[at]amazon.co.jp>
+Received: from amazon.co.jp ([182.61.41.118])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 13:39:33 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonお支払い方法の情報を更新
+URL: http://www.anzcam-co-jp.amaezon.ukihzw.top/
+urlscan.io: https://urlscan.io/result/6237ff25-803b-4db4-8f7f-c31490feb169/
+SenderIP: 182.61.41.118
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<webservice[at]aplus.co.jp>
+Received: from mail0.aplus.co.jp ([164.70.65.156])
+spf=softfail
+dkim=fail (key not found in DNS) header.d=aplus.co.jp
+dmarc=fail header.from=aplus.co.jp
+From: 株式会社アプラス <webservice[at]aplus.co.jp>
+Date: Fri, 25 Nov 2022 14:43:00 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【NETstationAPLUS】緊急連絡、情報を確認してください。【Luxury Cardカード】
+URL: https://netstation.doe1xo4g1df4dj1out0netstation2h.com/serv/
+urlscan.io: https://urlscan.io/result/772598de-3cda-4748-a003-e6aa95a59649/
+SenderIP: 164.70.65.156
+SenderDomain: suitepro.jp
+SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<svy[at]amazon.co.jp>
+Received: from amazon.co.jp ([180.76.164.144])
+spf=fail
+dkim=none header.d=amazon.co.jp header.b=;
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon" <info[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 15:16:39 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：6xxxx]
+URL: http://www.anzcam-co-jp.amazaon.gpszjr.top/
+urlscan.io: https://urlscan.io/result/659cd55c-e9b9-4070-ab9d-a8320b42f167/
+SenderIP: 180.76.164.144
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon.co.jp>
+Received: from amazon.co.jp ([27.184.128.23])
+spf=fail
+dkim=none header.d=amazon.co.jp
+dmarc=fail header.from=amazon.co.jp
+From: "Amazon.co.jp" <changeid[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 16:03:53 +0800
+X-mailer: Pwwvkpw 5
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+URL: https://www.klassenfahrten-malta.com/jp
+urlscan.io: https://urlscan.io/result/3233dc7d-4902-4396-b68d-625df861c062/
+SenderIP: 27.184.128.23
+SenderDomain: chinatelecom.com.cn
+SenderOrg: ChinaNet Hebei Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]qingkongkeji.cn>
+Received: from qingkongkeji.cn ([113.31.118.10])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=qingkongkeji.cn
+dmarc=none header.from=qingkongkeji.cn
+From: 会員資格は取り消されます。 <amazon[at]qingkongkeji.cn>
+Date: Fri, 25 Nov 2022 08:46:34 +000
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: https://www.rvwqqmk.cn/
+urlscan.io: https://urlscan.io/result/49fc16d3-87be-42cc-806c-4699fa5e08bd/
+SenderIP: 113.31.118.10
+SenderDomain: ucloud.cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<admin[at]micaxted.cyou>
+Received: from micaxted.cyou ([152.32.159.232])
+spf=pass
+dkim=none header.d=micaxted.cyou header.b=;
+dmarc=fail header.from=amazon.co.jp
+Received: from QVa.amazon.co.jp (unknown [165.154.10.196])
+Sender: admin[at]micaxted.cyou
+From: "Amazon.co.jp" <noreply[at]amazon.co.jp>
+Date: Fri, 25 Nov 2022 09:35:06 +0100
+X-mailer: Lnvcxcaxoe 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: https://kakunin.azzy-oupoityban.icu/
+urlscan.io: https://urlscan.io/result/aac18c37-baff-42c8-924c-d782d2e68d7a/
+SenderIP: 152.32.159.232
+SenderDomain: ucloud.cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 165.154.10.196
+SenderDomain: ucloud.cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]sellpow.cn>
+Received: from sellpow.cn ([42.240.130.145])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=sellpow.cn
+dmarc=none (could not find any valid author domain)
+Sender: amazon[at]sellpow.cn
+From: "amazon.co.jp" <amazon.co.jp>
+Date: Fri, 25 Nov 2022 16:56:45 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon.co.jpをご利用いただきありがとうございます
+URL: https://amz.vpqyplu.cn/
+urlscan.io: 400 Error
+SenderIP: 42.240.130.145
+SenderDomain: ucloud.cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<uvhlsluqs[at]service.5438wf.cn>
+Received: from service.5438wf.cn ([140.227.67.57])
+spf=pass
+dkim=pass header.d=service.5438wf.cn header.b=ZLDYszR3;
+dmarc=pass header.from=service.5438wf.cn
+Date: Fri, 25 Nov 2022 21:56:17 +0800
+From: ＥＴＣ利用照会サービス <uvhlsluqs[at]service.5438wf.cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: ＥＴＣ利用照会サービス事務局からのご案内※アカウントのセキュリティの問題
+URL: https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://soft-leaf-e153.l9r94pd32709.workers.dev/
+urlscan.io: https://urlscan.io/result/c5f37966-69a0-469e-aa28-9102bdf20586/
+SenderIP: 140.227.67.57
+SenderDomain: suitepro.jp
+SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 % 
+---
