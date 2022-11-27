@@ -1,0 +1,144 @@
+MAIL FROM:<vwkguzi[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([101.24.241.34])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: amazon <vwkguzi[at]amazon[.]co[.]jp>
+Date: Fri, 25 Nov 2022 23:32:02 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]amazoo-seller[.]top/
+urlscan.io: https://urlscan.io/result/9e2d30be-6ed4-4505-823e-4388500f7b47/
+SenderIP: 101.24.241.34
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Hebei Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<qa[.]jcb[at]qokxtoz[.]cn>
+Received: from qokxtoz[.]cn ([106.75.240.244])
+spf=pass
+dkim=none header.d=qokxtoz[.]cn header.b=;
+dmarc=none header.from=qokxtoz[.]cn
+From: JCB Webmaster <qa[.]jcb[at]qokxtoz[.]cn>
+Date: Sat, 26 Nov 2022 00:40:53 +0800
+Subject: カードご利用内容の確認のお願い
+URL: hxxps://bzfbnjk[.]cn/login[.]php?corporate/contact/?link_id=cojp_footer_corporate
+urlscan.io: https://urlscan.io/result/48347d8b-fd89-4a75-bc87-d926f23eeb53/
+SenderIP: 106.75.240.244
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 4 % 
+---
+MAIL FROM:<noreply[at]epsocazceuard[.]icu>
+Received: from epsocazceuard[.]icu ([152.32.181.245])
+spf=pass
+dkim=none header.d=epsocazceuard[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from QiI[.]amazon[.]co[.]jp (unknown [128.1.42.40])
+Sender: noreply[at]epsocazceuard[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 26 Nov 2022 02:02:57 +0100
+X-mailer: Aqkwai 7
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]aowz-tummonan[.]icu/
+urlscan.io: https://urlscan.io/result/a00ccc25-5f04-4a24-b2ee-cb505991a49f/
+SenderIP: 152.32.181.245
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 128.1.42.40
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([139.9.88.198])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from eskdz (unknown [182.111.82.247])
+From: 会員資格は取り消されます。 <contact[at]amazon[.]co[.]jp>
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+Date: Sat, 26 Nov 2022 04:09:05 +0800
+X-Mailer: Microsoft Outlook 16.0
+URL: hxxps://www[.]lcdyzzr[.]cn/
+urlscan.io: https://urlscan.io/result/efde9dbc-1a14-4e7b-aae8-026e7f0727c0/
+SenderIP: 139.9.88.198
+SenderDomain: huawei[.]com
+SenderOrg: Huawei Public Cloud Service
+AbuseConfidenceScore: 0 %
+SenderIP: 182.111.82.247
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangxi Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]tnxuspr[.]cn>
+Received: from tnxuspr[.]cn ([106.75.164.6])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=tnxuspr[.]cn
+dmarc=none (could not find any valid author domain)
+Sender: amazon[at]tnxuspr[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Sat, 26 Nov 2022 12:51:50 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amz[.]wlhyxx[.]cn/
+urlscan.io: https://urlscan.io/result/cfd576e4-1613-48c3-b527-fd8466083729/
+SenderIP: 106.75.164.6
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]eklensounarw[.]top>
+Received: from eklensounarw[.]top ([23.248.174.176])
+spf=pass
+dkim=none header.d=eklensounarw[.]top
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from amazon[.]co[.]jp (unknown [128.14.225.208])
+Sender: fuwu[at]eklensounarw[.]top
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Sat, 26 Nov 2022 02:08:04 +0100
+X-mailer: Zdgs 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amneuem-jp[.]icu/
+urlscan.io: https://urlscan.io/result/972761ed-b5aa-4755-9ffd-f60fbe912e14/
+SenderIP: 23.248.174.176
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 128.14.225.208
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]gaoliang-cap[.]cn>
+Received: from gaoliang-cap[.]cn ([106.75.217.66])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=gaoliang-cap[.]cn
+dmarc=none header.from=gaoliang-cap[.]cn
+From: 会員資格は取り消されます。 <amazon[at]gaoliang-cap[.]cn>
+Date: Sat, 26 Nov 2022 12:04:12 +000
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]yvcgpe[.]cn/
+urlscan.io: https://urlscan.io/result/e2dc5195-03cb-474c-8ec3-b443fdff6e45/
+SenderIP: 106.75.217.66
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 3 % 
+---
+MAIL FROM:<bhiz[at]service[.]15q0dm[.]cn>
+Received: from service[.]15q0dm[.]cn ([192.244.104.217])
+spf=pass
+dkim=pass header.d=service[.]15q0dm[.]cn header.b=W0bhVyEQ;
+dmarc=pass header.from=service[.]15q0dm[.]cn
+Date: Sat, 26 Nov 2022 21:19:03 +0800
+From: ＥＴＣ利用照会サービス <bhiz[at]service[.]15q0dm[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: ＥＴＣ利用照会サービス事務局からのご案内※アカウントのセキュリティの問題
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://soft-leaf-e153[.]l9r94pd32709[.]workers[.]dev/
+urlscan.io: https://urlscan.io/result/3cdfba60-5be3-4711-bd92-4977bd58487d/
+SenderIP: 192.244.104.217
+SenderDomain: arena[.]ne[.]jp
+SenderOrg: NTT PC Communications, Inc.
+AbuseConfidenceScore: 0 %
+---
