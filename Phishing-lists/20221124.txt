@@ -1,116 +1,116 @@
-MAIL FROM:<contact[at]amazon.co.jp>
-Received: from sdg0.amazon.co.jp ([133.125.40.210])
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdg0[.]amazon[.]co[.]jp ([133.125.40.210])
 spf=fail
-dkim=fail (key not found in DNS) header.d=amazon.co.jp
-dmarc=fail header.from=amazon.co.jp
-From: 会員資格は取り消されます <contact[at]amazon.co.jp>
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
 Date: Thu, 24 Nov 2022 04:39:38 +0800
 Subject: Amazonプライムの自動更新設定を解除いたしました！
-URL: https://www.djvljbw.cn/
+URL: hxxps://www[.]djvljbw[.]cn/
 urlscan.io: https://urlscan.io/result/9fad5bc7-f6f3-4977-a7fe-c6759178a9f9/
 SenderIP: 133.125.40.210
-SenderDomain: sakura.ad.jp
+SenderDomain: sakura[.]ad[.]jp
 SenderOrg: Sakura Internet Inc.
 AbuseConfidenceScore: 18 % 
 ---
-MAIL FROM:<eki-net[at]xiantitie.com>
-Received: from mail3.xiantitie.com ([149.30.188.146])
+MAIL FROM:<eki-net[at]xiantitie[.]com>
+Received: from mail3[.]xiantitie[.]com ([149.30.188.146])
 spf=pass
-dkim=pass header.d=xiantitie.com header.i=eki-net[at]xiantitie.com
-dmarc=pass header.from=xiantitie.com
-From: えきねっと <eki-net[at]xiantitie.com>
+dkim=pass header.d=xiantitie[.]com header.i=eki-net[at]xiantitie[.]com
+dmarc=pass header.from=xiantitie[.]com
+From: えきねっと <eki-net[at]xiantitie[.]com>
 Date: Thu, 24 Nov 2022 06:03:58 +0800
 Subject: 【重要】会員資格停止のお知らせ
-URL: https://www.eki-net.ggloiik8.club/a2FhMD9ob2dlQGV4YW1wbGUuY29t
+URL: hxxps://www[.]eki-net[.]ggloiik8[.]club/a2FhMD9ob2dlQGV4YW1wbGUuY29t
 urlscan.io: https://urlscan.io/result/d71da0fe-9678-4ccb-9fed-f0b6465dc08a/
 SenderIP: 149.30.188.146
-SenderDomain: hupohost.com
+SenderDomain: hupohost[.]com
 SenderOrg: Hupo Limited
 AbuseConfidenceScore: 0 % 
 ---
-MAIL FROM:<contact[at]amazon.co.jp>
-Received: from sdg0.amazon.co.jp ([153.126.205.63])
+MAIL FROM:<contact[at]amazon[.]co[.]jp>
+Received: from sdg0[.]amazon[.]co[.]jp ([153.126.205.63])
 spf=fail
-dkim=fail (key not found in DNS) header.d=amazon.co.jp
-dmarc=fail header.from=amazon.co.jp
-From: 会員資格は取り消されます <contact[at]amazon.co.jp>
+dkim=fail (key not found in DNS) header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: 会員資格は取り消されます <contact[at]amazon[.]co[.]jp>
 Date: Thu, 24 Nov 2022 07:31:37 +0800
 Subject: Amazonプライムの自動更新設定を解除いたしました！
-URL: https://www.lecwwig.cn/
+URL: hxxps://www[.]lecwwig[.]cn/
 urlscan.io: https://urlscan.io/result/ea40a137-381a-4c31-94ea-039ae2e52a65/
 SenderIP: 153.126.205.63
-SenderDomain: sakura.ad.jp
+SenderDomain: sakura[.]ad[.]jp
 SenderOrg: Sakura Internet Inc.
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<changeid[at]amazon.co.jp>
-Received: from amazon.co.jp ([27.184.155.83])
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.184.155.83])
 spf=fail
-dkim=none header.d=amazon.co.jp
-dmarc=fail header.from=amazon.co.jp
-From: "Amazon.co.jp" <changeid[at]amazon.co.jp>
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
 Date: Thu, 24 Nov 2022 07:59:20 +0800
 X-mailer: Qul 2
 Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
-URL: https://www.klassenfahrten-malta.com/jp
+URL: hxxps://www[.]klassenfahrten-malta[.]com/jp
 urlscan.io: https://urlscan.io/result/0a903e3e-1f87-4217-b379-8c9c06120dcb/
 SenderIP: 27.184.155.83
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 SenderOrg: ChinaNet Hebei Province Network
 AbuseConfidenceScore: 0 % 
 ---
-MAIL FROM:<admin[at]eakl-aecrt.icu>
-Received: from eakl-aecrt.icu ([103.98.16.96])
+MAIL FROM:<admin[at]eakl-aecrt[.]icu>
+Received: from eakl-aecrt[.]icu ([103.98.16.96])
 spf=pass
-dkim=none header.d=eakl-aecrt.icu
-dmarc=fail header.from=amazon.co.jp
-Received: from UxY.amazon.co.jp (unknown [107.150.96.106])
-Sender: admin[at]eakl-aecrt.icu
-From: "Amazon.co.jp" <noreply[at]amazon.co.jp>
+dkim=none header.d=eakl-aecrt[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from UxY[.]amazon[.]co[.]jp (unknown [107.150.96.106])
+Sender: admin[at]eakl-aecrt[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
 Date: Wed, 23 Nov 2022 19:06:03 -0800
 X-mailer: Pxasxyslli 5
 Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
-URL: https://kakunin.acrz-ioniabvan.icu/
+URL: hxxps://kakunin[.]acrz-ioniabvan[.]icu/
 urlscan.io: https://urlscan.io/result/22898aad-5257-42cd-a2ae-52d3f9538755/
 SenderIP: 103.98.16.96
-SenderDomain: enjoyvc.com.hk
+SenderDomain: enjoyvc[.]com[.]hk
 SenderOrg: EnjoyVC Cloud Group Limited.
 AbuseConfidenceScore: 0 %
 SenderIP: 107.150.96.106
-SenderDomain: zenlayer.com
+SenderDomain: zenlayer[.]com
 SenderOrg: Zenlayer Inc
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<amazon[at]qbpmp009.cn>
-Received: from qbpmp009.cn ([106.75.152.38])
+MAIL FROM:<amazon[at]qbpmp009[.]cn>
+Received: from qbpmp009[.]cn ([106.75.152.38])
 spf=pass
-dkim=fail (key DNS reply corrupt) header.d=qbpmp009.cn
+dkim=fail (key DNS reply corrupt) header.d=qbpmp009[.]cn
 dmarc=none (could not find any valid author domain)
-Sender: amazon[at]qbpmp009.cn
-From: "amazon.co.jp" <amazon.co.jp>
+Sender: amazon[at]qbpmp009[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
 Date: Thu, 24 Nov 2022 12:09:47 +0800
 X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
-Subject: Aamzon.co.jpをご利用いただきありがとうございます
-URL: https://amz.zljcsb.cn/
-urlscan.io: 400 Error
+Subject: Aamzon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amz[.]zljcsb[.]cn/
+urlscan[.]io: 400 Error
 SenderIP: 106.75.152.38
-SenderDomain: ucloud.cn
+SenderDomain: ucloud[.]cn
 SenderOrg: Shanghai UCloud Information Technology Company Limited
 AbuseConfidenceScore: 0 % 
 ---
-MAIL FROM:<gtb[at]service.60sihv.cn>
-Received: from service.60sihv.cn ([140.227.53.79])
+MAIL FROM:<gtb[at]service[.]60sihv[.]cn>
+Received: from service[.]60sihv[.]cn ([140.227.53.79])
 spf=pass
-dkim=pass header.d=service.60sihv.cn header.b=HaYKLY2F;
-dmarc=pass header.from=service.60sihv.cn
+dkim=pass header.d=service[.]60sihv[.]cn header.b=HaYKLY2F;
+dmarc=pass header.from=service[.]60sihv[.]cn
 Date: Thu, 24 Nov 2022 20:27:28 +0800
-From: ＥＴＣ利用照会サービス <gtb[at]service.60sihv.cn>
+From: ＥＴＣ利用照会サービス <gtb[at]service[.]60sihv[.]cn>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: ＥＴＣ利用照会サービス事務局からのご案内※アカウントのセキュリティの問題
-URL: https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://soft-leaf-e153.l9r94pd32709.workers.dev/
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://soft-leaf-e153[.]l9r94pd32709[.]workers[.]dev/
 urlscan.io: https://urlscan.io/result/3a0378ad-4a69-4770-826d-eaa70639858b/
 SenderIP: 140.227.53.79
-SenderDomain: suitepro.jp
+SenderDomain: suitepro[.]jp
 SenderOrg: Server Hosting Service
 AbuseConfidenceScore: 0 % 
 ---
