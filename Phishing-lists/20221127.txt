@@ -1,0 +1,247 @@
+MAIL FROM:<amazon[at]rcprzyp[.]cn>
+Received: from rcprzyp[.]cn ([106.75.75.167])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=rcprzyp[.]cn
+dmarc=none
+From: 会員資格は取り消されます。 <amazon[at]rcprzyp[.]cn>
+Date: Sun, 27 Nov 2022 05:29:34 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]nsjfqp[.]cn/
+urlscan.io: https://urlscan.io/result/f37108f2-90e4-4d09-a506-cd7d8549b2cc/
+SenderIP: 106.75.75.167
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon-system[at]lmlbnot[.]cn>
+Received: from lmlbnot[.]cn ([137.220.247.136])
+spf=pass
+dkim=pass header.d=lmlbnot[.]cn header.i=amazon-system[at]lmlbnot[.]cn
+dmarc=pass header.from=lmlbnot[.]cn
+From: Amazon <amazon-system[at]lmlbnot[.]cn>
+Date: Sun, 27 Nov 2022 06:15:46 +0800
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxp://amnzin[.]dcaizi[.]cn/
+ResponseCode: 200
+IPAddress: 155.94.163.67 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/1abac8ae-6898-4b62-92b0-9e6362ef6572/
+SenderIP: 137.220.247.136
+SenderDomain: rackip[.]com
+SenderOrg: RackIP Consultancy Pte. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]eakl-nucra[.]icu>
+Received: from eakl-nucra[.]icu ([118.26.110.175])
+spf=pass
+dkim=none header.d=eakl-nucra[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from iEe[.]amazon[.]co[.]jp (unknown [152.32.150.21])
+Sender: mail[at]eakl-nucra[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 26 Nov 2022 19:37:15 -0500
+X-mailer: Vfkxv 4
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]accz-itanon[.]icu/
+ResponseCode: 200
+IPAddress: 206.81.26.89 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/dbc0bd17-2415-4501-8155-11d010707c03/
+SenderIP: 118.26.110.175
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.150.21
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<yxhfyzhm[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([120.48.131.228])
+spf=softfail
+dkim=none header.d=saisoncard[.]co[.]jp
+dmarc=permerror (record unparsable: required version tag missing from record)
+From: セゾンカード <info[at]saisoncard[.]co[.]jp>
+Date: Sun, 27 Nov 2022 08:41:53 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【セゾンカード】個人情報確認
+URL: hxxp://www[.]sacissancs-co-jp[.]saisnascen[.]tlydll[.]top/
+ResponseCode: 200
+IPAddress: 204.44.99.56 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]sacissancs-co-jp[.]saisnascen[.]tlydll[.]top/jp[.]php?u=2
+urlscan.io: https://urlscan.io/result/aae5e1a0-4cc7-42ed-8a0e-d64bbce25e8a/
+SenderIP: 120.48.131.228
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kjyfixxtpv[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.13.126.120])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Sun, 27 Nov 2022 08:58:22 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}]
+URL: hxxp://www[.]anzaczm-co-jp[.]amazcnn[.]zfndqa[.]top/
+ResponseCode: 200
+IPAddress: 155.94.141.25 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/2fed4673-646a-4108-9592-6d10c9d3001a/
+SenderIP: 106.13.126.120
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<uj[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([182.61.28.171])
+spf=softfail
+dkim=none header.d=saisoncard[.]co[.]jp
+dmarc=permerror (record unparsable: required version tag missing from record)
+From: 株式会社クレディセゾン <info[at]saisoncard[.]co[.]jp>
+Date: Sun, 27 Nov 2022 09:08:09 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【セゾンカード】個人情報確認
+URL: hxxp://www[.]sacissancs-co-jp[.]saisnascen[.]lcxnow[.]top/
+ResponseCode: 200
+IPAddress: 204.44.99.56 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]sacissancs-co-jp[.]saisnascen[.]lcxnow[.]top/jp[.]php?u=2
+urlscan.io: https://urlscan.io/result/537075d1-460c-4c64-b17e-709351c331f4/
+SenderIP: 182.61.28.171
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<meqma[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.74.36])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Sun, 27 Nov 2022 11:05:42 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【Amazon】重要なお知らせ
+URL: hxxp://www[.]anzcazm-co-jp[.]amazcen[.]lishbe[.]top/
+ResponseCode: 200
+IPAddress: 155.94.141.25 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/7898ad09-f8ff-46dd-b8a6-3a2c26c4ed83/
+SenderIP: 106.12.74.36
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ypwdcee[at]saisoncard[.]co[.]jp>
+Received: from saisoncard[.]co[.]jp ([120.48.131.228])
+spf=softfail
+dkim=none header.d=saisoncard[.]co[.]jp
+dmarc=permerror (record unparsable: required version tag missing from record)
+From: セゾンカード <info[at]saisoncard[.]co[.]jp>
+Date: Sun, 27 Nov 2022 14:12:06 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】セゾンカード本人確認のお知らせ
+URL: hxxp://www[.]saciseancs-co-jp[.]saisnascen[.]flijwv[.]top/
+ResponseCode: 200
+IPAddress: 204.44.99.56 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]saciseancs-co-jp[.]saisnascen[.]flijwv[.]top/jp[.]php?u=2
+urlscan.io: https://urlscan.io/result/a894536b-d43a-4283-b14c-da26984dc80c/
+SenderIP: 120.48.131.228
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<gy[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.13.126.120])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Sun, 27 Nov 2022 14:47:43 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【Amazon】重要なお知らせ
+URL: hxxp://www[.]anzcazm-co-jp[.]amazcen[.]esorwh[.]top/
+ResponseCode: 200
+IPAddress: 155.94.141.25 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/db2c990a-5fd4-4447-ac18-3dcc9052b578/
+SenderIP: 106.13.126.120
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<wofuu[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([180.76.167.139])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Subject: 【 重-要 】Amazon[.]co[.]jpか らの 知 らせ
+Date: Sun, 27 Nov 2022 03:56:45 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+URL: hxxp://www[.]anzcazm-co-jp[.]amazcen[.]qiffqs[.]top/
+ResponseCode: 200
+IPAddress: 155.94.141.25 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]anzcazm-co-jp[.]amazcen[.]qiffqs[.]top/
+urlscan.io: https://urlscan.io/result/efbde8a8-2207-4cb8-9d53-4724fe1d7df8/
+SenderIP: 180.76.167.139
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<xbsbzx[at]service[.]60sihv[.]cn>
+Received: from service[.]60sihv[.]cn ([140.227.53.79])
+spf=pass
+dkim=pass header.d=service[.]60sihv[.]cn header.b=Vq51vGS9;
+dmarc=pass header.from=service[.]60sihv[.]cn
+Date: Sun, 27 Nov 2022 21:02:51 +0800
+From: "VIEW's NET" <xbsbzx[at]service[.]60sihv[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】VIEW's NET アカウントご利用確認のお願い
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://aged-unit-a60f[.]5c3ayuk2[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 142.250.196.110 (AS15169:GOOGLE)
+RedirectTo: hxxps://aged--unit--a60f-5c3ayuk2-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/ddb3ed95-e880-40f4-b9b4-5ca0465c7622/
+URL: hxxps://aged-unit-a60f[.]5c3ayuk2[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.38.173 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/d128dbe8-a67d-420c-9e0e-7db8a4b8873c/
+SenderIP: 140.227.53.79
+SenderDomain: suitepro[.]jp
+SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([114.104.227.7])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sun, 27 Nov 2022 22:18:02 +0800
+X-mailer: Zcdyamjl 9
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+URL: hxxps://www[.]mo2vatedmedia[.]com/jp
+urlscan.io: https://urlscan.io/result/522cba38-1e2e-4291-91b2-47ee00338f91/
+SenderIP: 114.104.227.7
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 6 % 
+---
+MAIL FROM:<amazon[at]pnzdqtv[.]cn>
+Received: from pnzdqtv[.]cn ([106.75.166.162])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=pnzdqtv[.]cn
+dmarc=none
+From: 会員資格は取り消されます <amazon[at]pnzdqtv[.]cn>
+Date: Sun, 27 Nov 2022 22:09:02 +000
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]inmzbwg[.]cn/
+urlscan.io: https://urlscan.io/result/1f7a9613-3528-4415-bf5e-ec13261d71c3/
+SenderIP: 106.75.166.162
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
