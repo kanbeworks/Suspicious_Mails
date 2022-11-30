@@ -1,0 +1,232 @@
+MAIL FROM:<web[at]metamask[.]io>
+Received: from vqbvbwzg[.]net ([222.163.58.220])
+spf=fail
+dkim=none header.d=metamask[.]io header.b=;
+dmarc=fail header.from=metamask[.]io
+From: "MetaMask" <Web[at]metamask[.]io>
+Date: Tue, 29 Nov 2022 00:48:07 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: MetaMask(メタマスク) クイック本人確認
+URL: hxxps://metamasku[.]cc/
+ResponseCode: -
+IPAddress:  103.97.178.38 (AS142032:HFTCL-AS-AP High Family Technology Co.)
+urlscan.io: https://urlscan.io/result/6167198b-4760-4068-8a4f-5fe5b9357ea6/
+VirusTotal: https://www.virustotal.com/gui/domain/metamasku.cc
+SenderIP: 222.163.58.220
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Jilin Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<wqpwpzuya[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.109.10])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Tue, 29 Nov 2022 06:39:58 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonのご利用確認のお願い。メール番号:Mxx]
+URL: hxxp://www[.]amczaon-co-jp[.]amazoezn[.]zohrvy[.]top/
+ResponseCode: 200
+IPAddress: 204.44.88.160 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/a2c119ad-f99f-4de8-a117-bdfcd6542e52/
+SenderIP: 106.12.109.10
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]aqluck[.]com>
+Received: from mail3[.]aqluck[.]com ([107.174.64.107])
+spf=pass
+dkim=pass header.d=aqluck[.]com header.i=amazon[at]aqluck[.]com header.b=ii1z/q9Z;
+dmarc=pass header.from=aqluck[.]com
+Date: Tue, 29 Nov 2022 08:14:52 +0900
+From: Amazon <amazon[at]aqluck[.]com>
+Subject: 【ご注意】Amazonプライムの自動更新設定を解除いたしました #7xxx-{数字}
+URL: hxxps://www[.]anazom[.]co[.]jp[.]dmxbbe[.]shop/eHh4eDAwMDAwMD9ob2dlQGV4YW1wbGUuY29t
+ResponseCode: 200
+IPAddress: 192.161.164.244 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/eeae0b89-9b61-490b-a8f6-564f87f9d31c/
+SenderIP: 107.174.64.107
+SenderDomain: virmach[.]com
+SenderOrg: Virtual Machine Solutions LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<eki-net[at]rdishenzhen[.]com>
+Received: from mail1[.]rdishenzhen[.]com ([149.30.220.134])
+spf=pass
+dkim=pass header.d=rdishenzhen[.]com header.i=eki-net[at]rdishenzhen[.]com
+dmarc=pass header.from=rdishenzhen[.]com
+From: えきねっと <eki-net[at]rdishenzhen[.]com>
+Date: Tue, 29 Nov 2022 08:45:28 +0800
+Subject: 【重要】会員情報変更および退会に関するお知らせ
+URL: hxxps://www[.]eki-net[.]dslko[.]club/eHh4MDAwMDAwMD9ob2dlQGV4YW1wbGUuY29t
+ResponseCode: 200
+IPAddress: 204.44.66.73 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/354ca921-208b-426a-9291-9139d3340587/
+SenderIP: 149.30.220.134
+SenderDomain: hupohost[.]com
+SenderOrg: Hupo Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<evwh[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([172.96.124.251])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: evwh[at]amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Mon, 28 Nov 2022 23:24:30 -0300
+X-mailer: Zmtqspe 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]ameuacuzcm-jp[.]icu/
+ResponseCode: 200
+IPAddress: 143.198.152.133 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/e1d2fa87-8722-455d-8d5d-8fe29ea3d55a/
+SenderIP: 172.96.124.251
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<bmopshbvi[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.13.122.14])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Tue, 29 Nov 2022 10:24:46 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【 重-要 】Amazon[.]co[.]jpか らの 知 らせ
+URL: hxxp://www[.]amazcon-co-jp[.]amaescon[.]zwuupd[.]top/
+ResponseCode: 200
+IPAddress: 204.44.88.160 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/ff525082-476b-43b3-ae74-a80f84372e09/
+SenderIP: 106.13.122.14
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<ydjnlny[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.109.10])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Tue, 29 Nov 2022 12:17:42 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】あなたのアカウントは停止されました
+URL: hxxp://www[.]amazcon-co-jp[.]amaescon[.]gycpwa[.]top/
+ResponseCode: 200
+IPAddress: 204.44.88.160 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/d101a8b8-acd9-4626-94ce-2595523994af/
+SenderIP: 106.12.109.10
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]epoesnacasn[.]icu>
+Received: from epoesnacasn[.]icu ([152.32.201.182])
+spf=pass
+dkim=none header.d=epoesnacasn[.]icu
+dmarc=fail header.from=eki-net[.]com
+Received: from eki-net[.]com (unknown [152.32.205.66])
+Sender: mail[at]epoesnacasn[.]icu
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Tue, 29 Nov 2022 00:45:45 -0500
+X-mailer: Qysdlfnh 8
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://s[.]ezkl-zesrzo[.]icu/jp[.]php
+ResponseCode: 200
+IPAddress: 147.182.203.29 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/118c0f99-21d4-4df0-87e1-2eedd63762ff/
+SenderIP: 152.32.201.182
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.205.66
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<web[at]metamask[.]io>
+Received: from zykpgz[.]net ([139.211.201.86])
+spf=fail
+dkim=none header.d=metamask[.]io header.b=;
+dmarc=fail header.from=metamask[.]io
+From: "MetaMask" <Web[at]metamask[.]io>
+Date: Tue, 29 Nov 2022 15:36:22 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: MetaMask(メタマスク) クイック本人確認
+URL: hxxps://metamaskx[.]cc/
+ResponseCode: 200
+IPAddress: 103.73.161.166 (AS137329:ALDM-ID PT. ARTHA LINTAS DATA MANDIRI)
+urlscan.io: https://urlscan.io/result/346b5ad5-891c-4246-b45a-e8368b59f0cd/
+VirusTotal: https://www.virustotal.com/gui/domain/metamaskx.cc
+SenderIP: 139.211.201.86
+SenderDomain: chinaunicom[.]com
+SenderOrg: China Unicom Jilin Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<ucrh[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([120.48.179.70])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Tue, 29 Nov 2022 16:23:05 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonから緊急のご連絡、情報を更新してください。
+URL: hxxp://www[.]amczaon-co-jp[.]amazoezn[.]urlnks[.]top/
+ResponseCode: 200
+IPAddress: 204.44.88.160 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/08ada51a-4cab-41bb-ba6c-45056749ed5e/
+SenderIP: 120.48.179.70
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]xaenan[.]cn>
+Received: from service[.]xaenan[.]cn ([23.94.168.36])
+spf=pass
+dkim=pass header.d=service[.]xaenan[.]cn header.b=kY+r8vbc;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]xaenan[.]cn
+Date: Tue, 29 Nov 2022 09:57:48 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Amazon[.]co[.]jp
+URL: hxxps://meb[.]ntzxj[.]com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://meb[.]ntzxj[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/2a620d89-21d9-41b3-8e50-bbff85b5f363/
+SenderIP: 23.94.168.36
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<zjj[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([120.48.179.70])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Tue, 29 Nov 2022 11:21:48 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】お客様のお支払い方法が承認されません
+URL: hxxp://www[.]amazcon-co-jp[.]amaescon[.]wqtlyf[.]top/
+ResponseCode: 200
+IPAddress: 204.44.88.160 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/489264ce-1369-4a8c-a19f-0e456b72b387/
+SenderIP: 120.48.179.70
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
