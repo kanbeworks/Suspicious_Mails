@@ -1,0 +1,217 @@
+MAIL FROM:<info[at]mistore[.]jp>
+Received: from mistore[.]jp ([142.11.199.39])
+spf=fail
+dkim=none header.d=mistore[.]jp header.b=;
+dmarc=fail header.from=mistore[.]jp
+Received: from VIT[.]eposcard[.]co[.]jp (unknown [113.72.17.34])
+From: 三越伊勢丹オンラインストア 【公式】 <info[at]mistore[.]jp>
+Date: Sat, 3 Dec 2022 04:50:16 +0800
+X-mailer: Njhritlhl 2
+Subject: 【重要なお知らせ】エムアイカードカードご利用確認のお願い
+URL: hxxps://www[.]mistortam[.]top/
+ResponseCode: -
+IPAddress: 155.94.149.125 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/4817fc8c-8de5-44a6-8c41-b7396a50d7eb/
+SenderIP: 142.11.199.39
+SenderDomain: hostwinds[.]com
+SenderOrg: HostWinds LLC
+AbuseConfidenceScore: 0 %
+SenderIP: 113.72.17.34
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Guangdong Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]aeno-secn[.]icu>
+Received: from aeno-secn[.]icu ([123.58.199.102])
+spf=pass
+dkim=none header.d=aeno-secn[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from dKj[.]amazon[.]co[.]jp (unknown [23.248.184.140])
+Sender: noreply[at]aeno-secn[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 3 Dec 2022 01:03:38 +0400
+X-mailer: Kzhzvxm 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]aacz-toavnan[.]icu/
+ResponseCode: 200
+IPAddress: 143.198.233.250 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/4f054455-3b26-458c-b24d-abc3a47a26ec/
+SenderIP: 123.58.199.102
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 23.248.184.140
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]sandrambuyi[.]com>
+Received: from sandrambuyi[.]com ([106.75.233.39])
+spf=pass
+dkim=none header.d=sandrambuyi[.]com
+dmarc=pass header.from=sandrambuyi[.]com
+Received: from XTZJ-20220613UI (unknown [125.69.13.158])
+From: 重要なお知らせ <mail[at]sandrambuyi[.]com>
+Date: Sat, 3 Dec 2022 04:09:35 +0800
+X-Mailer: Supmailer 37.0.2
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://allvancouvermls[.]com/jp
+ResponseCode: 200
+IPAddress: 107.150.5.38 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/3b249780-c322-4252-bf34-fee648f9f02c/
+SenderIP: 106.75.233.39
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 27 %
+SenderIP: 125.69.13.158
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Sichuan Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<eki-net[at]swiss-circus[.]com>
+Received: from mail4[.]swiss-circus[.]com ([149.30.221.192])
+spf=pass
+dkim=pass header.d=swiss-circus[.]com header.i=eki-net[at]swiss-circus[.]com
+dmarc=pass header.from=swiss-circus[.]com
+From: えきねっと <eki-net[at]swiss-circus[.]com>
+Date: Sat, 3 Dec 2022 06:34:01 +0800
+Subject: 【重要】会員情報変更および退会に関するお知らせ
+URL: hxxps://www[.]eki-net[.]tuyouko[.]info/a2trMTIzNDU2P2hvZ2VAZXhhbXBsZS5jb20=
+ResponseCode: 200
+IPAddress: 173.254.231.183 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/a6e766f2-921f-49ce-826a-37cae14c7409/
+SenderIP: 149.30.221.192
+SenderDomain: hupohost[.]com
+SenderOrg: Hupo Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<www[at]vm4068126[.]25ssd[.]had[.]wf>
+Received: from vm4068126[.]25ssd[.]had[.]wf ([45.137.66.189])
+spf=none
+dkim=none
+dmarc=none
+Received: by vm4068126[.]25ssd[.]had[.]wf (Postfix, from userid 1000)
+From: JR東日本グループのビューカード <info[at]jreast[.]co[.]jp>
+Date: Sat,  3 Dec 2022 01:17:16 +0800 (CST)
+Subject: 【会員資格停止のお知らせ】
+URL: hxxp://comak-q[.]ddns[.]net/nmj8zk2
+ResponseCode: -
+IPAddress: 34.96.201.218 (AS396982:GOOGLE-CLOUD-PLATFORM)
+urlscan.io: https://urlscan.io/result/ecc039a3-5019-4136-ab8f-ce7ad1f4e832/
+SenderIP: 45.137.66.189
+SenderDomain: novoserve[.]com
+SenderOrg: Zomro B.V.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<xikrk[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([120.48.16.53])
+spf=fail
+dkim=none header.d=aeon[.]co[.]jp header.b=;
+dmarc=fail header.from=aeon[.]co[.]jp
+From: "AEON CARD" <userid[at]aeon[.]co[.]jp>
+Date: Sat, 3 Dec 2022 11:52:28 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【イオンカード】事務局からのお知らせ
+URL: hxxp://www[.]aecon-co-jp[.]aescom[.]mzrlec[.]top/
+ResponseCode: 200
+IPAddress: 172.86.126.87 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/9b904a57-6572-404a-bec5-630924d4f6f8/
+SenderIP: 120.48.16.53
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]pnzdqtv[.]cn>
+Received: from pnzdqtv[.]cn ([113.31.108.159])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=pnzdqtv[.]cn
+dmarc=none
+From: 会員資格は取り消されます。 <amazon[at]pnzdqtv[.]cn>
+Date: Sat, 3 Dec 2022 13:15:28 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]huoxzty[.]cn/
+ResponseCode: 200
+IPAddress: 107.150.5.59 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/0e7de5a3-008e-438a-b8f8-3ffb62d3197b/
+SenderIP: 113.31.108.159
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]eukl-peaczoey[.]icu>
+Received: from eukl-peaczoey[.]icu ([118.194.253.98])
+spf=pass
+dkim=none header.d=eukl-peaczoey[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from amazon[.]co[.]jp (unknown [152.32.151.207])
+Sender: fuwu[at]eukl-peaczoey[.]icu
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+Date: Fri, 2 Dec 2022 14:40:20 -0500
+X-mailer: Ujjupimgu 4
+URL: hxxps://s[.]amsuzasen-jp[.]icu/
+ResponseCode: 200
+IPAddress: 143.198.152.133 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/6e8038d9-692f-4def-9432-e6099cd34fc4/
+SenderIP: 118.194.253.98
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.151.207
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]tcgnplvw[.]cn>
+Received: from tcgnplvw[.]cn ([106.75.146.214])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=tcgnplvw[.]cn
+dmarc=none header.from=tcgnplvw[.]cn
+From: 会員資格は取り消されます。 <amazon[at]tcgnplvw[.]cn>
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+Date: Sat, 3 Dec 2022 04:57:36 +0800
+URL: hxxps://www[.]hslxjus[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/3a694d68-f122-4f89-8d6b-26e1272d1395/
+SenderIP: 106.75.146.214
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<bvc[at]aeon[.]co[.]jp>
+Received: from aeon[.]co[.]jp ([180.76.206.30])
+spf=fail
+dkim=none header.d=aeon[.]co[.]jp header.b=;
+dmarc=fail header.from=aeon[.]co[.]jp
+From: イオンクレジットサービス株式会社 <userid[at]aeon[.]co[.]jp>
+Date: Sat, 3 Dec 2022 15:10:48 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】イオンカード ご利用確認のお願い
+URL: hxxp://www[.]aecon-co-jp[.]aescom[.]wtrmov[.]top/
+ResponseCode: 200
+IPAddress: 172.86.126.87 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/6c9111cd-7799-4438-b2e6-3d5a9fa9c360/
+SenderIP: 180.76.206.30
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]africanfund[.]cn>
+Received: from africanfund[.]cn ([106.75.157.182])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=africanfund[.]cn
+dmarc=none header.from=africanfund[.]cn
+From: 会員資格は取り消されます。 <amazon[at]africanfund[.]cn>
+Date: Sat, 3 Dec 2022 15:37:23 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/8cd9d031-0bb1-4473-b5c1-38996c318e13/
+SenderIP: 106.75.157.182
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
