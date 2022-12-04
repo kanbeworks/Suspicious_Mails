@@ -1,0 +1,35 @@
+Return-Path: <fuwu[at]smbacsoed[.]icu>
+Received: from eki-net[.]com (unknown [152.32.177.150])
+	by epsocnrucerd[.]icu (Postfix) with ESMTPA id {snip}
+Sender: fuwu[at]smbacsoed[.]icu
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Fri, 30 Sep 2022 07:32:44 +0300
+X-mailer: Aepxrjjwen 6
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://wwww[.]eokiserczspd[.]top/
+---
+Return-Path: <amazon[at]bxlext[.]cn>
+Received: from bxlext[.]cn ([106.75.75.19]) {snip}
+Sender: amazon[at]bxlext[.]cn
+From: "amazon[.]co[.]jp" <amazon[.]co[.]jp>
+Date: Fri, 30 Sep 2022 03:24:48 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazon[.]co[.]jpをご利用いただきありがとうございます
+URL: hxxps://amazon[.]hwerr[.]cn/
+---
+Return-Path: <userida[at]aeon[.]net>
+Received: from AEON[.]net ([183.166.147.60]) {snip}
+Date: Thu, 29 Sep 2022 23:23:26 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]superhochzeit[.]com/jp
+---
+Return-Path: <xfi[at]qxddkofr[.]cn>
+Received: from qxddkofr[.]cn ([128.1.137.125]) {snip}
+Date: Thu, 29 Sep 2022 23:13:03 +0800
+From: ＥＴＣパーソナルカードＷｅｂサービス <admin[at]ml[.]etc-meisai[.]jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: 【ETCカード有効期限について】重要なお知らせ
+URL: hxxps://www[.]etrc-etc[.]co-fiannds[.]13800138234[.]cn/jp
+---
