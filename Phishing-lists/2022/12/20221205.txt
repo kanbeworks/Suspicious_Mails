@@ -1,0 +1,189 @@
+MAIL FROM:<admin[at]mstacsarescc[.]icu>
+Received: from eklnasunt[.]icu ([36.255.222.111])
+spf=pass
+dkim=none header.d=mstacsarescc[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from VSg[.]amazon[.]co[.]jp (unknown [152.32.141.163])
+Sender: admin[at]mstacsarescc[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sun, 4 Dec 2022 19:56:53 +0100
+X-mailer: Vht 1
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]aozzc-cioattian[.]icu/
+ResponseCode: 200
+IPAddress: 170.64.152.4 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/1ee6276c-09d8-41f7-a885-603749f074c2/
+SenderIP: 36.255.222.111
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.141.163
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<noreply[at]smbcrsaurd[.]icu>
+Received: from smbcrsaurd[.]icu ([101.36.114.124])
+spf=pass
+dkim=none header.d=smbcrsaurd[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from amazon[.]co[.]jp (unknown [128.14.231.25])
+Sender: noreply[at]smbcrsaurd[.]icu
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Sun, 4 Dec 2022 22:10:12 +0300
+X-mailer: Rieoduja 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amsuzoron-jp[.]icu/
+ResponseCode: 200
+IPAddress: 137.184.15.97 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/cc59b063-a3f2-4139-91e1-46315ecfb744/
+SenderIP: 101.36.114.124
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 128.14.231.25
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]hmpwrag[.]cn>
+Received: from hmpwrag[.]cn ([106.75.147.102])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=hmpwrag[.]cn
+dmarc=none
+From: 会員資格は取り消されます。 <amazon[at]hmpwrag[.]cn>
+Date: Mon, 5 Dec 2022 04:10:27 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]jtvqpso[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/6470ab54-7701-4ed4-8189-4e81d2148fca/
+SenderIP: 106.75.147.102
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<yxj[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([180.76.118.191])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Mon, 5 Dec 2022 10:10:47 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】お客様のお支払い方法が承認されません
+URL: hxxp://www[.]amazezon-co-jp[.]amazoom[.]rvzter[.]top/
+ResponseCode: 200
+IPAddress: 155.94.145.19 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/0e02fea0-0172-4ab9-bdd8-7eb5db97c8a3/
+SenderIP: 180.76.118.191
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]thietkeweb2s[.]com>
+Received: from thietkeweb2s[.]com ([106.75.130.54])
+spf=pass
+dkim=none header.d=thietkeweb2s[.]com
+dmarc=pass header.from=thietkeweb2s[.]com
+Received: from XTZJ-20220613UI (unknown [125.69.13.161])
+From: 重要なお知らせ <mail[at]thietkeweb2s[.]com>
+Date: Mon, 5 Dec 2022 10:03:58 +0800
+X-Mailer: Supmailer 37.0.2
+Subject: Amazonプライムの自動更新設定を解除いたしました！確認番号：{数字}
+URL: hxxps://allvancouvermls[.]com/jp
+ResponseCode: 200
+IPAddress: 107.150.5.38 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/268090bc-1f76-4214-9e67-9b0af5a820ac/
+SenderIP: 106.75.130.54
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 125.69.13.161
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Sichuan Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<omxkqi[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.122.167])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Mon, 5 Dec 2022 10:52:20 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonのご利用確認のお願い。メール番号:M7x]
+URL: hxxp://www[.]amazezon-co-jp[.]amazoom[.]bjmyuk[.]top/
+ResponseCode: 200
+IPAddress: 155.94.145.19 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/bef4e98e-f2b9-48a3-b638-6b60b0dc490f/
+SenderIP: 106.12.122.167
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<etc-meisai[at]sfdpqfp[.]cn>
+Received: from sfdpqfp[.]cn ([113.31.104.148])
+spf=pass
+dkim=none header.d=sfdpqfp[.]cn header.b=;
+dmarc=none header.from=sfdpqfp[.]cn
+From: etc-meisai <etc-meisai[at]sfdpqfp[.]cn>
+Date: Mon, 05 Dec 2022 11:01:57 +0800
+Subject: 【ETC】重要なお知らせ
+URL: hxxps://etc-meisai[.]xsoad5p[.]cn/?Rfunccode=1000000000&nextfunc=1000000000
+ResponseCode: 200
+IPAddress: 104.21.81.23 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/bac9a430-885b-42b5-8b1a-347dc1eacd42/
+SenderIP: 113.31.104.148
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 3 %
+---
+MAIL FROM:<mail[at]simple-business-site[.]com>
+Received: from simple-business-site[.]com ([117.50.182.149])
+spf=none
+dkim=none
+dmarc=fail header.from=simple-business-site[.]com
+Received: from jcb[.]co[.]jp (unknown [182.47.174.153])
+From: My Jcb <mail[at]simple-business-site[.]com>
+Date: Mon, 5 Dec 2022 19:39:40 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: 【My Jcb 】事務局からのお知らせ！ 確認番号：{数字}
+URL: hxxp://whichotel[.]com/jp[.]php
+ResponseCode: 200
+IPAddress: 155.94.151.172 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/8ae5e792-8373-4303-91fb-83e92dcc3664/
+SenderIP: 117.50.182.149
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 182.47.174.153
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Shandong Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]server[.]domain[.]com>
+Received: from server[.]domain[.]com ([185.87.150.87])
+spf=none
+dkim=none header.d=server[.]domain[.]com
+dmarc=none header.from=jreast[.]co[.]jp
+Received: by server[.]domain[.]com (Postfix, from userid 1000)
+From: JR東日本グループのビューカード <info[at]jreast[.]co[.]jp>
+Date: Mon,  5 Dec 2022 20:46:52 +0800 (CST)
+Subject: アカウント異常通知【JR東日本グループのビューカード】
+URL: hxxp://996895[.]cn/nmj8zk2
+ResponseCode: 200
+IPAddress: 34.96.201.218 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://sawo-ek[.]bounceme[.]net/
+urlscan.io: https://urlscan.io/result/99bbaa3c-e60e-47fc-a618-6cdf7e4b7aa9/
+URL: hxxps://sawo-ek[.]bounceme[.]net/
+ResponseCode: 403
+IPAddress: 78.153.145.10 (AS210352:SERVER4-AS, RU)
+urlscan.io: https://urlscan.io/result/31f42080-d664-428e-89a3-98d912774cf7/
+SenderIP: 185.87.150.87
+SenderDomain: 3nt[.]com
+SenderOrg: 3NT Solutions LLP
+AbuseConfidenceScore: 0 % 
+---
