@@ -1,0 +1,246 @@
+MAIL FROM:<fvsoa[at]service[.]weikabao[.]cn>
+Received: from service[.]weikabao[.]cn ([133.167.36.240])
+spf=pass
+dkim=pass header.d=service[.]weikabao[.]cn header.b=oLwaKpLu;
+dmarc=pass header.from=service[.]weikabao[.]cn
+Date: Tue, 6 Dec 2022 23:43:51 +0800
+From: "Amazon[.]co[.]jp" <fvsoa[at]service[.]weikabao[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【Amazon】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://spring-thunder-c0bd[.]vjrkojx5[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.217.26.238 (AS15169:GOOGLE)
+RedirectTo: hxxps://spring--thunder--c0bd-vjrkojx5-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/47a3b6e8-2039-4a14-b050-2ff944f232e7/
+URL: hxxps://spring-thunder-c0bd[.]vjrkojx5[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.87.147 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/2eda1d26-d343-4a22-8730-03890ab8831a/
+SenderIP: 133.167.36.240
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([36.57.64.72])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 03:24:08 +0800
+X-mailer: Xucks 0
+Subject: [緊急の連絡] お客様のお支払い方法が承認されません
+URL: hxxps://www[.]awnings-canopies-tensile-structures[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.125.123 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/756fba41-98a7-4851-9948-811a4416166e/
+SenderIP: 36.57.64.72
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<yaitwczvay[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([120.48.147.216])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 05:57:45 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonお支払い方法の情報を更新
+URL: hxxp://www[.]amaczon-co-jp[.]amazccn[.]jqhcnn[.]top/
+ResponseCode: 200
+IPAddress: 104.129.8.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/c2697b38-551f-441c-a1fa-6dc4bae89d4e/
+SenderIP: 120.48.147.216
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<rjze[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([180.76.50.41])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 06:35:15 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】お客様のお支払い方法が承認されません
+URL: hxxp://www[.]amaeozn-co-jp[.]amazecn[.]kwinpe[.]top/
+ResponseCode: 200
+IPAddress: 104.129.8.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/e419f7b3-4042-4c78-b91a-953caae4ee81/
+SenderIP: 180.76.50.41
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<bsuq[at]service[.]umdqtph[.]cn>
+Received: from service[.]umdqtph[.]cn ([219.94.253.125])
+spf=pass
+dkim=pass header.d=service[.]umdqtph[.]cn header.b=izfm1UaS;
+dmarc=pass header.from=service[.]umdqtph[.]cn
+Date: Wed, 7 Dec 2022 06:49:19 +0800
+From: "Amazon[.]co[.]jp" <bsuq[at]service[.]umdqtph[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【Amazon】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://cold-truth-d1f1[.]pz69prlo[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.217.175.238 (AS15169:GOOGLE)
+RedirectTo: hxxps://cold--truth--d1f1-pz69prlo-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/5212beda-3069-4dde-9dd5-2f8523362b28/
+URL: hxxps://cold-truth-d1f1[.]pz69prlo[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.223.200 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/54b9c8a5-0e32-4cd5-8e87-8c462d69dc82/
+SenderIP: 219.94.253.125
+SenderDomain: sakura[.]ad[.]jp
+SenderOrg: Sakura Internet Inc.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<gq[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([182.61.3.3])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 08:22:42 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】あなたのアカウントは停止されました
+URL: hxxp://www[.]amaeozn-co-jp[.]amazecn[.]wirhtq[.]top/
+ResponseCode: 200
+IPAddress: 104.129.8.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/d60ae0ab-8a7c-47c4-80aa-6eaaef42377e/
+SenderIP: 182.61.3.3
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<customes[at]websupport[.]com>
+Received: from mail0[.]websupport[.]com ([164.70.100.100])
+spf=none
+dkim=fail (key not found in DNS) header.d=websupport[.]com
+dmarc=none header.from=websupport[.]com
+From: えきねっと <customes[at]websupport[.]com>
+Date: Wed, 7 Dec 2022 09:52:56 +0900
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://netstation[.]bisjsa154fjhsa9g8hf4ssf241eki-net[.]com/
+ResponseCode: null
+IPAddress: 23.225.194.86 (AS40065:CNSERVERS, US)
+urlscan.io: https://urlscan.io/result/6931fe77-81a5-4584-a3b7-dec47020ed00/
+SenderIP: 164.70.100.100
+SenderDomain: suitepro[.]jp
+SenderOrg: Server Hosting Service
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]lintvtn[.]cn>
+Received: from lintvtn[.]cn ([106.75.173.249])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=lintvtn[.]cn
+dmarc=none
+From: 会員資格は取り消されます <amazon[at]lintvtn[.]cn>
+Date: Wed, 7 Dec 2022 10:02:48 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]0m6w4nf[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/71acb1d7-f40d-4d7b-954a-c1799aed2211/
+SenderIP: 106.75.173.249
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]ivevgtk[.]cn>
+Received: from ivevgtk[.]cn ([106.75.186.64])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=ivevgtk[.]cn
+dmarc=none
+From: 会員資格は取り消されます。 <amazon[at]ivevgtk[.]cn>
+Date: Wed, 7 Dec 2022 10:09:31 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]0m6w4nf[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/71acb1d7-f40d-4d7b-954a-c1799aed2211/
+SenderIP: 106.75.186.64
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<tyrwqzdptb[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([180.76.50.41])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 13:02:45 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】Amazonプライム会費のお支払い方法に問題があります
+URL: hxxp://www[.]amaeozn-co-jp[.]amazecn[.]zqmvzj[.]top/
+ResponseCode: 200
+IPAddress: 104.129.8.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/896b5ba2-a656-411e-bf3b-4bbb1d3cc3d3/
+SenderIP: 180.76.50.41
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mcihs[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([152.32.198.47])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Sender: mcihs[at]amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Wed, 7 Dec 2022 05:42:41 +000
+X-mailer: Lcxccpgw 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://s[.]amscscrsan-jp[.]icu/
+ResponseCode: 200
+IPAddress: 164.92.82.161 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/d0a541ce-1302-4eaa-8fa4-bb4a56effe30/
+SenderIP: 152.32.198.47
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<etc-meisai[at]ppoyyow[.]cn>
+Received: from ppoyyow[.]cn ([106.75.10.83])
+spf=pass
+dkim=none header.d=ppoyyow[.]cn header.b=;
+dmarc=none header.from=ppoyyow[.]cn
+From: etc-meisai <etc-meisai[at]ppoyyow[.]cn>
+Date: Wed, 07 Dec 2022 11:36:26 +0800
+Subject: 【ETC】重要なお知らせ
+URL: hxxps://etc-meisai[.]xsoad5p[.]cn/?Rfunccode=1000000000&nextfunc=1000000000
+ResponseCode: 200
+IPAddress: 104.21.81.23 (AS13335:CLOUDFLARENET)
+RedirectTo:　hxxps://etc-meisai[.]xsoad5p[.]cn/pc/login/?Rfunccode=1013000000&nextfunc=1013000000
+urlscan.io: https://urlscan.io/result/7ca6b07e-c4f0-460b-bbb7-7c394a8b6239/
+SenderIP: 106.75.10.83
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]lintvtn[.]cn>
+Received: from lintvtn[.]cn ([106.75.173.249])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=lintvtn[.]cn
+dmarc=none
+From: 会員資格は取り消されます <amazon[at]lintvtn[.]cn>
+Date: Wed, 7 Dec 2022 15:07:10 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]0uvv00z[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/cd1d9e5b-8ebd-49c1-bae2-73db581313f0/
+SenderIP: 106.75.173.249
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
