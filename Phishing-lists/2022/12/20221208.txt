@@ -1,0 +1,212 @@
+MAIL FROM:<amazon[at]itpcumh[.]cn>
+Received: from itpcumh[.]cn ([106.75.176.131])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=itpcumh[.]cn
+dmarc=none
+From: 会員資格は取り消されます。 <amazon[at]itpcumh[.]cn>
+Date: Thu, 8 Dec 2022 04:56:54 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]599qlst[.]cn/
+URL: hxxps://www[.]599qlst[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/84dc593d-d8d3-4cb8-9ca7-8beae9585f23/ 
+SenderIP: 106.75.176.131
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]linyiart[.]cn>
+Received: from service[.]linyiart[.]cn ([198.23.132.7])
+spf=pass
+dkim=pass header.d=service[.]linyiart[.]cn header.b=WfmtZQwK;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]linyiart[.]cn
+Date: Thu, 8 Dec 2022 07:11:02 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】amazen株式会社から緊急のご連絡
+URL: hxxps://mails[.]fshfh[.]com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mails[.]fshfh[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/75779afd-0d6a-46c1-809c-9b1e309aa74e/
+SenderIP: 198.23.132.7
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<hyhxmrbmef[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.12.33.183])
+spf=softfail
+dkim=none header.d=eki-net[.]com
+dmarc=fail header.from=eki-net[.]com
+From: えきねっと <member[at]eki-net[.]com>
+Date: Thu, 8 Dec 2022 06:48:37 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】えきねっと 重要なお知ら
+URL: hxxp://www[.]ekie-nat[.]ekaste[.]lulhbc[.]top/
+ResponseCode: 200
+IPAddress: 107.150.6.165 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/2367a6a8-dd29-49fa-bce0-267899c2cb83/
+SenderIP: 106.12.33.183
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<ktqhpvkadj[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.12.50.174])
+spf=softfail
+dkim=none header.d=eki-net[.]com
+dmarc=fail header.from=eki-net[.]com
+From: えきねっと <member[at]eki-net[.]com>
+Date: Thu, 8 Dec 2022 08:33:16 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: えきねっと お支払い金額確定のご案内
+URL: hxxp://www[.]ekli-nat[.]ekinrt[.]qtyrci[.]top/
+ResponseCode: 200
+IPAddress: 107.150.6.165 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/4285c222-2621-4033-9837-ca709d0ac8e4/
+SenderIP: 106.12.50.174
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<admin[.]smile-etc[.]jp[at]aet-jp[.]shop>
+Received: from mail[.]aet-jp[.]shop ([173.82.240.148])
+spf=pass
+dkim=pass header.d=aet-jp[.]shop header.i=admin[.]smile-etc[.]jp[at]aet-jp[.]shop
+dmarc=permerror (record unparsable: required version tag missing from record)
+Date: Thu, 8 Dec 2022 09:08:52 +0800
+From: ETCパーソナルカードWebサービス <admin[.]smile-etc[.]jp[at]aet-jp[.]shop>
+Subject: 客様のETC会員初期化されています（ＥＴＣ利用照会サービス）
+URL: hxxp://www2[.]etcsmaisei[.]bestty[.]cc/
+ResponseCode: 200
+IPAddress: 45.207.55.40 (AS133199:SONDERCLOUDLIMITED-AS-AP SonderCloud Limited)
+urlscan.io: https://urlscan.io/result/0ce203ca-4930-4ef5-ba00-9e7275111a2e/
+SenderIP: 173.82.240.148
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<kyrbpxep[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.13.143.232])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=none header.from=eki-nct[.]com
+From: えきねっと <info[at]eki-nct[.]com>
+Date: Thu, 8 Dec 2022 09:44:33 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【最終警告】えきねっと  からの緊急の連絡
+URL: hxxp://www[.]ekie-nat[.]ekaste[.]ghbixl[.]top/
+ResponseCode: 200
+IPAddress: 107.150.6.165 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/b06bd84e-0523-41ea-8429-57596cefb11e/
+SenderIP: 106.13.143.232
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<yw[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.13.127.208])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=fail header.from=eki-net[.]com
+From: えきねっと <member[at]eki-net[.]com>
+Date: Thu, 8 Dec 2022 10:18:55 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】えきねっと 重要なお知ら
+URL: hxxp://www[.]ekni-nct[.]ekinrt[.]svxxcb[.]top/
+ResponseCode: 200
+IPAddress: 155.94.149.186 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/36a7998b-6c78-4870-a8a9-8f83ae769e77/
+SenderIP: 106.13.127.208
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<rk[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.13.96.204])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=none header.from=eki-nct[.]com
+From: えきねっと <info[at]eki-nct[.]com>
+Date: Thu, 8 Dec 2022 11:24:35 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【最終警告】えきねっと からの緊急の連絡
+URL: hxxp://www[.]ekie-nat[.]ekaste[.]jbinkn[.]top/
+ResponseCode: 200
+IPAddress: 107.150.6.165 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/2036f590-d03a-46eb-b688-ac3cfcaf0419/
+SenderIP: 106.13.96.204
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<aoadmbis[at]eki-net[.]com>
+Received: from eki-net[.]com ([106.12.33.183])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=none header.from=eki-nct[.]com
+From: えきねっと <info[at]eki-nct[.]com>
+Date: Thu, 8 Dec 2022 13:07:44 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【えきねっと 】重要:必ずお読みください
+URL: hxxp://www[.]ekel-nat[.]ekinsrr[.]bffzwh[.]top/
+ResponseCode: 200
+IPAddress: 107.150.6.165 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/daf537ef-dde2-4c73-9935-227e1acefab9/
+SenderIP: 106.12.33.183
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<email_ml.etc-meisai[at]etcmeisaimailjapan[.]ml>
+Received: from mail6[.]etcmeisaimailjapan[.]ml ([198.23.138.147])
+spf=pass
+dkim=pass header.d=etcmeisaimailjapan[.]ml
+dmarc=fail header.from=Amazon[.]co[.]jp
+Sender: email_ml.etc-meisai[at]etcmeisaimailjapan[.]ml
+From: "Amazon[.]co[.]jp" <in[at]Amazon[.]co[.]jp>
+Date: Thu, 8 Dec 2022 15:45:50 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazonアカウントが異常な状態になっています
+URL: hxxps://sparkling-block-a374[.]dqk0u3nt[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.152.172 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/763be375-3c1d-4580-89f5-24eb81532d55/
+SenderIP: 198.23.138.147
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vm4083639.25ssd[.]had[.]wf>
+Received: from vm4083639.25ssd[.]had[.]wf ([185.250.204.164])
+spf=none
+dkim=none
+dmarc=fail
+Received: by vm4083639.25ssd[.]had[.]wf (Postfix, from userid 1000)
+From: えきねっと <member[at]eki-net[.]com>
+Date: Thu,  8 Dec 2022 20:23:14 +0800 (CST)
+Subject: アカウントの制限処理を利用について【えきねっと】
+URL: hxxp://okrvpq[.]top/qrWfclL
+ResponseCode: 301
+IPAddress: 34.92.139.231 (AS396982:GOOGLE-CLOUD-PLATFORM, US)
+RedirectTo:　hxxps://okrvpq[.]top/qrWfclL
+RedirectTo:　hxxps://ix41og[.]top/Personal/member/Login/index[.]php?oneTimeAccessID={snip}
+urlscan.io: https://urlscan.io/result/d7e80b85-e299-4910-a04f-9177179f4da2/
+URL:　hxxps://ix41og[.]top/Personal/member/Login/index[.]php
+ResponseCode:　200
+IPAddress:　78.153.145.51
+urlscan[.]io:　hxxps://urlscan[.]io/result/0887b20b-3f74-4a97-b8e3-0d0e45b6f611/
+SenderIP: 185.250.204.164
+SenderDomain: novoserve[.]com
+SenderOrg: Zomro B.V.
+AbuseConfidenceScore: 0 %
+---
