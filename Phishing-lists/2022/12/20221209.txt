@@ -1,0 +1,352 @@
+MAIL FROM:<support[at]go-etc.cn>
+Received: from racknerd-fde43c ([23.94.54.116])
+spf=pass
+dkim=pass header.d=go-etc.cn
+dmarc=pass header.from=go-etc.cn
+Received: from yahoo2.com.cn (unknown [118.107.59.136])
+From: "E T C" <support[at]go-etc.cn>
+Date: Fri, 9 Dec 2022 01:08:10 +0800
+X-mailer: Jnmlofy 2
+Subject: [ETC]緊急配送メール通知
+URL: https://etc-i.cn/jp
+ResponseCode: 200
+IPAddress: 204.44.82.121 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/1476ceea-dff7-4696-979e-1963201fd57a/
+SenderIP: 23.94.54.116
+SenderDomain: colocrossing.com
+SenderOrg: ColoCrossing
+AbuseConfidenceScore: 0 %
+SenderIP: 118.107.59.136
+SenderDomain: rackip.com
+SenderOrg: RackIP Consultancy Pte. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<support[at]service.okzxu.cn>
+Received: from service.okzxu.cn ([198.148.111.5])
+spf=pass
+dkim=pass header.d=service.okzxu.cn header.b=Fj80yLsT;
+dmarc=fail header.from=mail.amazon.co.jp
+Sender: support[at]service.okzxu.cn
+Date: Fri, 9 Dec 2022 04:19:31 +0900
+From: "amazon.co.jp" <info[at]mail.amazon.co.jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】Amazen アカウントでの悪意のあるアクティビティを検出する
+URL: https://mails.fshfh.com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: https://mails.fshfh.com/ap/index.php?openid.pape.max_auth_age=0&openid.return_to={snip}
+urlscan.io: https://urlscan.io/result/954d4e1c-549b-4104-b797-4740d59dd99a/
+SenderIP: 198.148.111.5
+SenderDomain: multacom.com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<nfta[at]orico.co.jp>
+Received: from orico.co.jp ([106.12.83.227])
+spf=softfail
+dkim=none header.d=orico.co.jp header.b=;MAIL FROM:<support[at]go-etc[.]cn>
+Received: from racknerd-fde43c ([23.94.54.116])
+spf=pass
+dkim=pass header.d=go-etc[.]cn
+dmarc=pass header.from=go-etc[.]cn
+Received: from yahoo2[.]com[.]cn (unknown [118.107.59.136])
+From: "E T C" <support[at]go-etc[.]cn>
+Date: Fri, 9 Dec 2022 01:08:10 +0800
+X-mailer: Jnmlofy 2
+Subject: [ETC]緊急配送メール通知
+URL: hxxps://etc-i[.]cn/jp
+ResponseCode: 200
+IPAddress: 204.44.82.121 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/1476ceea-dff7-4696-979e-1963201fd57a/
+SenderIP: 23.94.54.116
+SenderDomain: colocrossing[.]com
+SenderOrg: ColoCrossing
+AbuseConfidenceScore: 0 %
+SenderIP: 118.107.59.136
+SenderDomain: rackip[.]com
+SenderOrg: RackIP Consultancy Pte. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<support[at]service[.]okzxu[.]cn>
+Received: from service[.]okzxu[.]cn ([198.148.111.5])
+spf=pass
+dkim=pass header.d=service[.]okzxu[.]cn header.b=Fj80yLsT;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]okzxu[.]cn
+Date: Fri, 9 Dec 2022 04:19:31 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】Amazen アカウントでの悪意のあるアクティビティを検出する
+URL: hxxps://mails[.]fshfh[.]com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mails[.]fshfh[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/954d4e1c-549b-4104-b797-4740d59dd99a/
+SenderIP: 198.148.111.5
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<nfta[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.12.83.227])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコカード  <info[at]orico[.]co[.]jp>
+Date: Fri, 9 Dec 2022 07:16:20 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【オリコカード 】お支払い金額確定のご案内
+URL: hxxp://www[.]orlce-co-jp[.]oriec[.]mzrjfi[.]top/
+ResponseCode: 200
+IPAddress: 155.94.128.39 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orlce-co-jp[.]oriec[.]mzrjfi[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/578b6778-ebeb-4d32-bd9c-e4a6d053e133/
+SenderIP: 106.12.83.227
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<gryjkosfe[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.12.217.237])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: Oricoカード <info[at]orico[.]co[.]jp>
+Date: Fri, 9 Dec 2022 08:26:41 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: ＜緊急!Oricoカード 重要なお知らせ＞
+URL: hxxp://www[.]orlco-co-jp[.]oreio[.]ifhtfy[.]top/
+ResponseCode: 200
+IPAddress: 155.94.128.39 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orlco-co-jp[.]oreio[.]ifhtfy[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/f2e3b6b9-b7f1-40c5-9ba8-0536f365d1d7/
+SenderIP: 106.12.217.237
+SenderDomain: baidu[.]com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]thecrozroads[.]com>
+Received: from mail2[.]thecrozroads[.]com ([23.94.217.168])
+spf=pass
+dkim=pass header.d=thecrozroads[.]com header.i=amazon[at]thecrozroads[.]com
+dmarc=pass header.from=thecrozroads[.]com
+Date: Fri, 9 Dec 2022 09:38:04 +0900
+From: Amazon <amazon[at]thecrozroads[.]com>
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2338-{数字}
+URL: hxxps://www[.]anazom[.]co[.]jp[.]zvdtkze[.]shop/a3h4eDAwMDAwMD9ob2dlQGV4YW1wbGUuY29t
+ResponseCode: 200
+IPAddress: 155.94.144.131 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/043116b2-02e6-4670-ad56-0636b10b41a0/
+SenderIP: 23.94.217.168
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<userida[at]aeon[.]net>
+Received: from AEON[.]net ([180.124.206.111])
+spf=none
+dkim=none header.d=aeon[.]net header.b=;
+dmarc=none header.from=AEON[.]net
+Date: Fri, 9 Dec 2022 08:38:21 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]infosec-consulting[.]com/jp
+ResponseCode: 200
+IPAddress: 204.44.99.236 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/27593e1e-9b78-4764-a848-7f1a92a3ae85/
+SenderIP: 180.124.206.111
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ywzpftnzg[at]service[.]rmfmpg[.]cn>
+Received: from service[.]japaneemoe[.]cn ([181.215.78.42])
+spf=pass
+dkim=pass header.d=service[.]japaneemoe[.]cn header.b=ZoVZt7c7;
+dmarc=pass header.from=service[.]rmfmpg[.]cn
+Date: Fri, 9 Dec 2022 15:48:54 +0800
+From: 楽天事務局 <ywzpftnzg[at]service[.]rmfmpg[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Rakuten事務局からのご案内※アカウントのセキュリティの問題
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://lingering-bird-8c8f[.]fectwyuz[.]workers[.]dev/
+ResponseCode: 400
+IPAddress: 142.251.42.174 (AS15169:GOOGLE)
+RedirectTo: hxxps://lingering--bird--8c8f-fectwyuz-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/c5ebc0fe-1441-4869-a4ae-d27c55cb7868/
+URL: hxxps://lingering-bird-8c8f[.]fectwyuz[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.154.230 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/1aebfc2c-5894-4428-9a96-9ae310e133a6/
+SenderIP: 181.215.78.42
+SenderDomain: hostinger[.]com
+SenderOrg: Hostinger Hosting
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<cedyna[at]kmeibgn[.]cn>
+Received: from kmeibgn[.]cn ([106.75.71.81])
+spf=pass
+dkim=none header.d=kmeibgn[.]cn header.b=;
+dmarc=none header.from=kmeibgn[.]cn
+From: cedynacard <cedyna[at]kmeibgn[.]cn>
+Date: Fri, 09 Dec 2022 17:51:15 +0800
+Subject: 【セディナカード】ご登録お客様情報の定期的な確認のお願いにつきまして
+URL: hxxps://sfdghom[.]cn/member/login[.]php?aid=net-service
+ResponseCode: 200
+IPAddress: 172.67.216.156 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/360f46ee-f8db-4aff-9a4b-d81df3e569ec/
+SenderIP: 106.75.71.81
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<monatngn[at]shenmebuwu[.]com[.]cn>
+Received: from shenmebuwu[.]com[.]cn ([40.74.92.102])
+spf=pass
+dkim=pass header.d=shenmebuwu[.]com[.]cn header.b=S9AbMgaL;
+dmarc=none header.from=ml[.]etc-meisai[.]jp
+Date: Fri, 9 Dec 2022 10:51:58 +000
+From: ETC利用照会 <admin[at]ml[.]etc-meisai[.]jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: セキュリティステムを更新のお知らせと登録情報確認のお願につきまして
+URL: hxxps://www[.]goo-link-etc[.]co[.]jp[.]myhomeair[.]com[.]cn/jp
+ResponseCode: 200
+IPAddress: 66.151.169.109 (AS13790:AS13790)
+urlscan.io: https://urlscan.io/result/94b84592-5a96-453b-8086-5f50711b527a/
+SenderIP: 40.74.92.102
+SenderDomain: microsoft[.]com
+SenderOrg: Microsoft Corporation
+AbuseConfidenceScore: 0 % 
+---
+
+dmarc=none header.from=orico.co.jp
+From: オリコカード  <info[at]orico.co.jp>
+Date: Fri, 9 Dec 2022 07:16:20 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【オリコカード 】お支払い金額確定のご案内
+URL: http://www.orlce-co-jp.oriec.mzrjfi.top/
+ResponseCode: 200
+IPAddress: 155.94.128.39 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: https://www.orlce-co-jp.oriec.mzrjfi.top/jp.php
+urlscan.io: https://urlscan.io/result/578b6778-ebeb-4d32-bd9c-e4a6d053e133/
+SenderIP: 106.12.83.227
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<gryjkosfe[at]orico.co.jp>
+Received: from orico.co.jp ([106.12.217.237])
+spf=softfail
+dkim=none header.d=orico.co.jp header.b=;
+dmarc=none header.from=orico.co.jp
+From: Oricoカード <info[at]orico.co.jp>
+Date: Fri, 9 Dec 2022 08:26:41 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: ＜緊急!Oricoカード 重要なお知らせ＞
+URL: http://www.orlco-co-jp.oreio.ifhtfy.top/
+ResponseCode: 200
+IPAddress: 155.94.128.39 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: https://www.orlco-co-jp.oreio.ifhtfy.top/jp.php
+urlscan.io: https://urlscan.io/result/f2e3b6b9-b7f1-40c5-9ba8-0536f365d1d7/
+SenderIP: 106.12.217.237
+SenderDomain: baidu.com
+SenderOrg: Beijing Baidu Netcom Science and Technology Co. Ltd.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]thecrozroads.com>
+Received: from mail2.thecrozroads.com ([23.94.217.168])
+spf=pass
+dkim=pass header.d=thecrozroads.com header.i=amazon[at]thecrozroads.com
+dmarc=pass header.from=thecrozroads.com
+Date: Fri, 9 Dec 2022 09:38:04 +0900
+From: Amazon <amazon[at]thecrozroads.com>
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2338-{数字}
+URL: https://www.anazom.co.jp.zvdtkze.shop/a3h4eDAwMDAwMD9ob2dlQGV4YW1wbGUuY29t
+ResponseCode: 200
+IPAddress: 155.94.144.131 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/043116b2-02e6-4670-ad56-0636b10b41a0/
+SenderIP: 23.94.217.168
+SenderDomain: racknerd.com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<userida[at]aeon.net>
+Received: from AEON.net ([180.124.206.111])
+spf=none
+dkim=none header.d=aeon.net header.b=;
+dmarc=none header.from=AEON.net
+Date: Fri, 9 Dec 2022 08:38:21 +0800
+From: "AEON" <userida[at]AEON.net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: https://www.infosec-consulting.com/jp
+ResponseCode: 200
+IPAddress: 204.44.99.236 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/27593e1e-9b78-4764-a848-7f1a92a3ae85/
+SenderIP: 180.124.206.111
+SenderDomain: chinatelecom.com.cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ywzpftnzg[at]service.rmfmpg.cn>
+Received: from service.japaneemoe.cn ([181.215.78.42])
+spf=pass
+dkim=pass header.d=service.japaneemoe.cn header.b=ZoVZt7c7;
+dmarc=pass header.from=service.rmfmpg.cn
+Date: Fri, 9 Dec 2022 15:48:54 +0800
+From: 楽天事務局 <ywzpftnzg[at]service.rmfmpg.cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Rakuten事務局からのご案内※アカウントのセキュリティの問題
+URL: https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://lingering-bird-8c8f.fectwyuz.workers.dev/
+ResponseCode: 400
+IPAddress: 142.251.42.174 (AS15169:GOOGLE)
+RedirectTo: https://lingering--bird--8c8f-fectwyuz-workers-dev.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/c5ebc0fe-1441-4869-a4ae-d27c55cb7868/
+URL: https://lingering-bird-8c8f.fectwyuz.workers.dev/
+ResponseCode: 200
+IPAddress: 172.67.154.230 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/1aebfc2c-5894-4428-9a96-9ae310e133a6/
+SenderIP: 181.215.78.42
+SenderDomain: hostinger.com
+SenderOrg: Hostinger Hosting
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<cedyna[at]kmeibgn.cn>
+Received: from kmeibgn.cn ([106.75.71.81])
+spf=pass
+dkim=none header.d=kmeibgn.cn header.b=;
+dmarc=none header.from=kmeibgn.cn
+From: cedynacard <cedyna[at]kmeibgn.cn>
+Date: Fri, 09 Dec 2022 17:51:15 +0800
+Subject: 【セディナカード】ご登録お客様情報の定期的な確認のお願いにつきまして
+URL: https://sfdghom.cn/member/login.php?aid=net-service
+ResponseCode: 200
+IPAddress: 172.67.216.156 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/360f46ee-f8db-4aff-9a4b-d81df3e569ec/
+SenderIP: 106.75.71.81
+SenderDomain: ucloud.cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<monatngn[at]shenmebuwu.com.cn>
+Received: from shenmebuwu.com.cn ([40.74.92.102])
+spf=pass
+dkim=pass header.d=shenmebuwu.com.cn header.b=S9AbMgaL;
+dmarc=none header.from=ml.etc-meisai.jp
+Date: Fri, 9 Dec 2022 10:51:58 +000
+From: ETC利用照会 <admin[at]ml.etc-meisai.jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: セキュリティステムを更新のお知らせと登録情報確認のお願につきまして
+URL: https://www.goo-link-etc.co.jp.myhomeair.com.cn/jp
+ResponseCode: 200
+IPAddress: 66.151.169.109 (AS13790:AS13790)
+urlscan.io: https://urlscan.io/result/94b84592-5a96-453b-8086-5f50711b527a/
+SenderIP: 40.74.92.102
+SenderDomain: microsoft.com
+SenderOrg: Microsoft Corporation
+AbuseConfidenceScore: 0 % 
+---

@@ -1,0 +1,176 @@
+MAIL FROM:<userida[at]aeon[.]org>
+Received: from AEON[.]org ([183.166.149.4])
+spf=fail
+dkim=none header.d=aeon[.]org header.b=;
+dmarc=fail header.from=AEON[.]org
+Date: Sat, 10 Dec 2022 02:08:58 +0800
+From: "AEON" <userida[at]AEON[.]org>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]collectorcarsusa[.]com/jp
+ResponseCode: -
+IPAddress: 204.44.99.236 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/search/#www[.]collectorcarsusa[.]com
+SenderIP: 183.166.149.4
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Anhui Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]okzxu[.]cn>
+Received: from service[.]okzxu[.]cn ([198.148.111.5])
+spf=pass
+dkim=pass header.d=service[.]okzxu[.]cn header.b=mf0q/NI2;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]okzxu[.]cn
+Date: Sat, 10 Dec 2022 04:44:03 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】amazen株式会社から緊急のご連絡
+URL: hxxps://mail[.]aclikou[.]com/
+ResponseCode: 200
+IPAddress: 34.146.239.134 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail[.]aclikou[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/5ffc557e-48ae-4809-9ef1-1d994c60e79d/
+SenderIP: 198.148.111.5
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]ilikesange[.]cn>
+Received: from ilikesange[.]cn ([106.75.168.235])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=ilikesange[.]cn
+dmarc=none header.from=ilikesange[.]cn
+From: 会員資格は取り消されます <amazon[at]ilikesange[.]cn>
+Date: Sat, 10 Dec 2022 05:33:46 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]dxfeg48[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/6fede3c0-1e7b-4534-a262-58cfcec4bba8/
+SenderIP: 106.75.168.235
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([49.79.10.85])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Sat, 10 Dec 2022 05:41:56 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: [最終確認]Amazon[.]co[.]jp にご登録のアカウント（名前、パスワード、その他個人情報）の確認
+URL: hxxps://rebrand[.]ly/nxe6wi5
+ResponseCode: 200
+IPAddress: 54.237.146.211 (AS14618:AMAZON-AES)
+RedirectTo: hxxps://egsgss[.]top/?t={snip}
+urlscan.io: https://urlscan.io/result/7926c058-3a61-4f06-92d9-58657bfc6c2a/
+URL: hxxps://egsgss[.]top/
+ResponseCode: 200
+IPAddress: 204.44.93.212 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/a7a9a061-6f27-4785-9f06-3629e158b046/
+SenderIP: 49.79.10.85
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<userida[at]aeon[.]net>
+Received: from AEON[.]net ([49.68.40.57])
+spf=none
+dkim=none header.d=aeon[.]net header.b=;
+dmarc=none header.from=AEON[.]net
+Date: Sat, 10 Dec 2022 06:15:13 +0800
+From: "AEON" <userida[at]AEON[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【緊急の連絡 】イオンカード ご利用確認のお願い
+URL: hxxps://www[.]infosec-consulting[.]com/jp
+ResponseCode: 200
+IPAddress: 204.44.99.236 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/8e18ac0b-9037-4d68-a58d-ada296b41738/
+SenderIP: 49.68.40.57
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Jiangsu Province Network
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mymkjxren[at]service[.]lwshbw[.]cn>
+Received: from service[.]gachaohu[.]cn ([181.215.78.87])
+spf=pass
+dkim=pass header.d=service[.]gachaohu[.]cn header.b=DwFGgbDO;
+dmarc=pass header.from=service[.]lwshbw[.]cn
+Date: Sat, 10 Dec 2022 06:33:37 +0800
+From: 楽天事務局 <mymkjxren[at]service[.]lwshbw[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Rakuten事務局からのご案内※アカウントのセキュリティの問題
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://sweet-frog-1edb[.]vrhbpyxz[.]workers[.]dev/
+ResponseCode: 400
+IPAddress: 172.217.175.110 (AS15169:GOOGLE)
+RedirectTo: hxxps://sweet--frog--1edb-vrhbpyxz-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/8bf1f6bc-7be2-46fb-8c25-0fde6eb17436/
+URL: hxxps://sweet-frog-1edb[.]vrhbpyxz[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.129.212 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/9b62ba2d-fd50-4412-88bb-226342b4d922/
+SenderIP: 181.215.78.87
+SenderDomain: hostinger[.]com
+SenderOrg: Hostinger Hosting
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<pngkqsg[at]service[.]pypyhp[.]cn>
+Received: from service[.]jengli[.]cn ([181.215.78.38])
+spf=pass
+dkim=pass header.d=service[.]jengli[.]cn header.b=SlWCO08t;
+dmarc=pass header.from=service[.]pypyhp[.]cn
+Date: Sat, 10 Dec 2022 10:12:19 +0800
+From: 楽天事務局 <pngkqsg[at]service[.]pypyhp[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Rakuten事務局からのご案内※アカウントのセキュリティの問題
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://sweet-frog-1edb[.]vrhbpyxz[.]workers[.]dev/
+ResponseCode: 400
+IPAddress: 172.217.31.174 (AS15169:GOOGLE)
+RedirectTo: hxxps://sweet--frog--1edb-vrhbpyxz-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/89b679a1-3192-4c13-acd0-b82626a89a1d/
+URL: hxxps://sweet-frog-1edb[.]vrhbpyxz[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.2.241 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/c9e2ca7e-99cf-4230-952d-32f8aaafe22a/
+SenderIP: 181.215.78.38
+SenderDomain: hostinger[.]com
+SenderOrg: Hostinger Hosting
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<admin[at]account-wmns[.]ga>
+Received: from mail[.]account-wmns[.]ga ([116.63.37.241])
+spf=pass
+dkim=pass header.d=account-wmns[.]ga header.i=admin[at]account-wmns[.]ga
+dmarc=pass header.from=account-wmns[.]ga
+From: えきねっと <admin[at]account-wmns[.]ga>
+Date: Sat, 10 Dec 2022 13:42:32 +0800
+Subject: 「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://eki-net[.]com[.]wwgi[.]cn/
+ResponseCode: 200
+IPAddress: 47.74.45.237 (AS45102:ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN)
+urlscan.io: https://urlscan.io/result/7057b503-8e2d-4833-aa1e-08081dfc190f/
+SenderIP: 116.63.37.241
+SenderDomain: huawei[.]com
+SenderOrg: Huawei Public Cloud Service
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]vbgfkfa[.]cn>
+Received: from vbgfkfa[.]cn ([106.75.67.233])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=vbgfkfa[.]cn
+dmarc=none
+From: 会員資格は取り消されます <amazon[at]vbgfkfa[.]cn>
+Date: Sat, 10 Dec 2022 14:40:13 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+URL: hxxps://www[.]lp4vg68[.]cn/
+ResponseCode: 200
+IPAddress: 204.44.83.230 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/2d834b71-57d2-4798-956f-74d45595aee5/
+SenderIP: 106.75.67.233
+SenderDomain: ucloud[.]cn
+SenderOrg: Shanghai UCloud Information Technology Company Limited
+AbuseConfidenceScore: 0 %
+---

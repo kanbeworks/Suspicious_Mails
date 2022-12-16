@@ -1,0 +1,243 @@
+MAIL FROM:<support[at]service[.]bowenshangyou[.]cn>
+Received: from service[.]bowenshangyou[.]cn ([96.43.86.189])
+spf=pass
+dkim=pass header.d=service[.]bowenshangyou[.]cn header.b=FOrNZv1r;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]bowenshangyou[.]cn
+Date: Thu, 15 Dec 2022 02:50:19 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】Amazen アカウントでの悪意のあるアクティビティを検出する
+URL: hxxps://mails[.]fshfh[.]com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mails[.]fshfh[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/8874cb0d-21ec-4531-87a7-13a6b530175b/
+SenderIP: 96.43.86.189
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<fuwu[at]epsocanceanrd[.]icu>
+Received: from epsocanceanrd[.]icu ([118.194.251.251])
+spf=pass
+dkim=none header.d=epsocanceanrd[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from nFw[.]amazon[.]co[.]jp (unknown [152.32.228.151])
+Sender: fuwu[at]epsocanceanrd[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+Date: Wed, 14 Dec 2022 21:26:37 +0300
+X-mailer: Wyare 7
+URL: hxxps://kakunin[.]azunoz-aooqihna[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/0b62a904-dbc1-42cb-9d81-c71d5208434d/
+SenderIP: 118.194.251.251
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.228.151
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([120.38.241.122])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Thu, 15 Dec 2022 07:00:53 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+Subject: [最終確認]Amazon[.]co[.]jp にご登録のアカウント（名前、パスワード、その他個人情報）の確認
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+URL: hxxps://rebrand[.]ly/90af4c
+ResponseCode: 301
+IPAddress: 54.237.146.211 (AS14618:AMAZON-AES)
+RedirectTo: hxxps://lihuibjk[.]top/jp
+URL: hxxps://lihuibjk[.]top/jp
+ResponseCode: 200
+IPAddress: 198.55.106.13 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/result/61091e11-bb1b-4eb9-95a2-113362ecee11/
+SenderIP: 120.38.241.122
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<kefu[at]mstacrueacc[.]icu>
+Received: from mstacrueacc[.]icu ([123.58.203.41])
+spf=pass
+dkim=none header.d=mstacrueacc[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from HQw[.]amazon[.]co[.]jp (unknown [107.155.48.7])
+Sender: kefu[at]mstacrueacc[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 14 Dec 2022 20:41:04 -0500
+X-mailer: Mkljsabx 4
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://kakunin[.]azunoz-argaona[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/bc83e99c-9fab-42ff-8181-64a58f155c7f/
+SenderIP: 123.58.203.41
+SenderDomain: ucloud[.]cn
+SenderOrg: UCloud Information Technology (HK) Limited
+AbuseConfidenceScore: 0 %
+SenderIP: 107.155.48.7
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<eki-net[at]tchathce[.]com>
+Received: from mail4[.]tchathce[.]com ([149.30.240.104])
+spf=pass
+dkim=pass header.d=tchathce[.]com header.i=eki-net[at]tchathce[.]com
+dmarc=pass header.from=tchathce[.]com
+From: えきねっと <eki-net[at]tchathce[.]com>
+Date: Thu, 15 Dec 2022 09:41:16 +0800
+Subject: 【重要なお知らせ】「新幹線eチケットサービス」えきねっとアカウントの自動退会処理について
+URL: hxxps://www[.]eki-net[.]yadaha[.]info/a2trMTExMTExP2hvZ2VAZXhhbXBsZS5jb20=
+ResponseCode: 200
+IPAddress: 198.55.122.115 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/fb525899-bd01-410c-8f79-455537e132cc/
+SenderIP: 149.30.240.104
+SenderDomain: hupohost[.]com
+SenderOrg: Hupo Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<msaiyoiwr[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([45.43.62.14])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+Sender: msaiyoiwr[at]orico[.]co[.]jp
+From: "ORICO CARD" <info[at]orico[.]co[.]jp>
+Date: Thu, 15 Dec 2022 03:52:20 +0100
+X-mailer: Bzhmmu 8
+Subject: 【重要】 ORICOアカウントは緊急に凍結されていますのでご注意ください
+URL: hxxps://s[.]orizsaseo-jp[.]icu/jp[.]php
+ResponseCode: 200
+IPAddress: 147.182.204.118 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/132eabdd-98a1-468f-a9d5-938315426a58/
+SenderIP: 45.43.62.14
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.157.230.182])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Thu, 15 Dec 2022 12:24:09 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: [最終警告]Amazonから緊急のご連絡、情報を更新してください。
+URL: hxxps://rebrand[.]ly/6a578e
+ResponseCode: 301
+IPAddress: 18.204.39.167 (AS14618:AMAZON-AES)
+RedirectTo: hxxps://vcbnhnrf[.]top/jp
+URL: hxxps://vcbnhnrf[.]top/jp
+ResponseCode: 200
+IPAddress: 198.55.106.13 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/result/11e46cc4-f763-4c13-8914-68eab9ce731b/
+SenderIP: 27.157.230.182
+SenderDomain: 163data[.]com[.]cn
+SenderOrg: Nanping MAN
+AbuseConfidenceScore: 2 % 
+---
+MAIL FROM:<lawhalrgx[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([107.150.108.213])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+Sender: lawhalrgx[at]orico[.]co[.]jp
+From: "e-Orico" <info[at]orico[.]co[.]jp>
+Date: Wed, 14 Dec 2022 20:37:32 -0800
+X-mailer: Chtpzklt 6
+Subject: 【重要】 ORICOアカウントは緊急に凍結されていますのでご注意ください
+URL: hxxps://s[.]oriacuenc-jp[.]icu/jp[.]php
+ResponseCode: -
+IPAddress: 137.184.4.193 (AS14061:DIGITALOCEAN-ASN, USnull:)
+urlscan.io: https://urlscan.io/result/f98e312c-80c5-4823-a977-e8189a579841/
+SenderIP: 107.150.108.213
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]mukhtarmart[.]com>
+Received: from mail2[.]mukhtarmart[.]com ([107.174.68.149])
+spf=pass
+dkim=pass header.d=mukhtarmart[.]com header.i=amazon[at]mukhtarmart[.]com
+dmarc=pass header.from=mukhtarmart[.]com
+Date: Thu, 15 Dec 2022 17:51:23 +0900
+From: Amazon <amazon[at]mukhtarmart[.]com>
+Subject: 【重要】Amazonプライムの自動更新設定を解除いたしました #368-{数字}
+URL: hxxps://www[.]anazom[.]co[.]jp[.]vfmlasxw[.]shop/a2trMTExMTExP2hvZ2VAZXhhbXBsZS5jb20=
+ResponseCode: 200
+IPAddress: 172.86.126.183 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/6cbac20d-0f01-4d99-a394-6cb7806d0ddd/
+SenderIP: 107.174.68.149
+SenderDomain: virmach[.]com
+SenderOrg: Virtual Machine Solutions LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vm{数字}.25ssd[.]had[.]wf> BODY=8BITMIME
+Received: from vm{数字}.25ssd[.]had[.]wf ([212.86.101.143])
+spf=none
+dkim=none
+dmarc=fail
+Received: by vm{数字}.25ssd[.]had[.]wf (Postfix, from userid 1000)
+Date: Thu, 15 Dec 2022 16:52:50 +0800
+From: えきねっと <member[at]eki-net[.]com>
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://moldweiki[.]ddns[.]net//D0RB92Y
+ResponseCode: 302
+IPAddress: 78.153.145.105 (AS210352:SERVER4-AS, RU)
+urlscan.io: https://urlscan.io/result/45eb8f36-5af8-4d62-946b-59dfd4c444cf/
+SenderIP: 212.86.101.143
+SenderDomain: novoserve[.]com
+SenderOrg: Zomro B.V.
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([117.29.92.99])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Thu, 15 Dec 2022 21:13:34 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: [最終警告]Amazonから緊急のご連絡、情報を更新してください。
+URL: hxxps://rebrand[.]ly/1ca5b4
+ResponseCode: 301
+IPAddress: 54.237.146.211 (AS14618:AMAZON-AES)
+RedirectTo: hxxps://erygrdhd[.]top/jp
+URL: hxxps://erygrdhd[.]top/jp
+ResponseCode: 200
+IPAddress: 198.55.106.13 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/efe46d42-d1ad-4947-9413-043537baaef5/
+SenderIP: 117.29.92.99
+SenderDomain: chinatelecom[.]com[.]cn
+SenderOrg: ChinaNet Fujian Province Network
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<awkqqhs[at]eki-net[.]com>
+Received: from eki-net[.]com ([104.218.165.22])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=fail header.from=eki-net[.]com
+Sender: awkqqhs[at]eki-net[.]com
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Thu, 15 Dec 2022 20:57:10 +000
+X-mailer: Tfxlg 6
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+URL: hxxps://s[.]eskus-ocsu[.]icu/jp[.]php
+ResponseCode: 200
+IPAddress: 204.44.85.121 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/4c7f14c0-39f6-4feb-8435-3fc14edf93eb/
+SenderIP: 104.218.165.22
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 % 
+---

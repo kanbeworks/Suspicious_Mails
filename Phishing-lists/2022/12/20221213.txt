@@ -1,0 +1,267 @@
+MAIL FROM:<gmlyvm[at]service[.]i88pd[.]cn>
+Received: from service[.]i88pd[.]cn ([45.91.171.14])
+spf=pass
+dkim=pass header.d=service[.]i88pd[.]cn header.b=ECiMd8tw;
+dmarc=pass header.from=service[.]i88pd[.]cn
+Date: Mon, 12 Dec 2022 23:22:47 +0800
+From: ETC利用照会サービス <gmlyvm[at]service[.]i88pd[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: {Username}様 【ETC利用照会サービス】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://plain-tooth-d33d[.]7a3r4ox5[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 142.251.42.206 (AS15169:GOOGLE)
+RedirectTo: hxxps://plain--tooth--d33d-7a3r4ox5-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/f875148a-acc6-452c-8c4c-f98a4672b383/
+URL: hxxps://plain-tooth-d33d[.]7a3r4ox5[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.211.226 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/b3f87c3f-ddf2-4e77-9424-8d76e9d8de0d/
+SenderIP: 45.91.171.14
+SenderDomain: omc[.]co[.]il
+SenderOrg: O.M.C. Computers & Communications Ltd
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<clyos[at]service[.]ddtmu[.]cn>
+Received: from service[.]ddtmu[.]cn ([83.229.74.141])
+spf=pass
+dkim=pass header.d=service[.]ddtmu[.]cn header.b=Lq5NAnjl;
+dmarc=pass header.from=service[.]ddtmu[.]cn
+Date: Tue, 13 Dec 2022 01:10:22 +0800
+From: ETC利用照会サービス <clyos[at]service[.]ddtmu[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: {Username}様 【ETC利用照会サービス】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+URL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://orange-scene-5ab4[.]jdysgqpj[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 142.251.42.206 (AS15169:GOOGLE)
+RedirectTo: hxxps://orange--scene--5ab4-jdysgqpj-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/989c6f4b-a1e7-4519-8f84-32b21242ef23/
+URL: hxxps://orange-scene-5ab4[.]jdysgqpj[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.10.97 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/7ea08538-e4a0-4020-b293-6dc11f32464b/
+SenderIP: 83.229.74.141
+SenderDomain: omc[.]co[.]il
+SenderOrg: O.M.C. Computers & Communications Ltd
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<qzubyetjh[at]service[.]vdnrtvq[.]cn>
+Received: from service[.]vdnrtvq[.]cn ([156.67.214.161])
+spf=pass
+dkim=pass header.d=service[.]vdnrtvq[.]cn header.b=UyysQbmn;
+dmarc=pass header.from=service[.]vdnrtvq[.]cn
+Date: Tue, 13 Dec 2022 02:05:41 +0800
+From: えきねっと <qzubyetjh[at]service[.]vdnrtvq[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 「えきねっと」アカウントの自動退会処理について
+ResponseCode: 200
+IPAddress: 142.250.206.206 (AS15169:GOOGLE)
+RedirectTo: hxxps://calm--recipe--5478-pdfxmrfj-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/abe30773-f607-4642-a7f5-56b39cf45481/
+URL: hxxps://calm-recipe-5478[.]pdfxmrfj[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.68.173 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/e6773ede-45bd-4694-b052-377e22cfc70e/
+SenderIP: 156.67.214.161
+SenderDomain: hosting24[.]com
+SenderOrg: Hostinger International Limited
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]waterzz[.]cn>
+Received: from service[.]waterzz[.]cn ([192.3.103.105])
+spf=pass
+dkim=pass header.d=service[.]waterzz[.]cn header.b=WC6wxWbl;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]waterzz[.]cn
+Date: Tue, 13 Dec 2022 03:21:39 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】Amazen アカウントでの悪意のあるアクティビティを検出する
+URL: hxxps://member[.]amzen[.]wxklm[.]com/
+ResponseCode: 200
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://member[.]amzen[.]wxklm[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/0e7248f4-d7a9-413c-8383-5e9f6a60e424/
+SenderIP: 192.3.103.105
+SenderDomain: racknerd[.]com
+SenderOrg: RackNerd LLC
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<service[at]milcasered[.]cyou>
+Received: from milcasered[.]cyou ([128.1.38.123])
+spf=pass
+dkim=none header.d=milcasered[.]cyou
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from yTv[.]amazon[.]co[.]jp (unknown [128.1.42.16])
+Sender: service[at]milcasered[.]cyou
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Tue, 13 Dec 2022 00:35:05 +0100
+X-mailer: Qfv 4
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]accwo-oazocn[.]icu/
+ResponseCode: 200
+IPAddress: 161.35.238.24 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/ab142e49-0d93-442d-a33a-6f34051a4d3d/
+SenderIP: 128.1.38.123
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 128.1.42.16
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.157.223.226])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Tue, 13 Dec 2022 09:33:06 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: [緊急の連絡] お客様のお支払い方法が承認されません
+URL: hxxps://rebrand[.]ly/fc5fa8
+ResponseCode: 301
+IPAddress: 18.204.39.167 (AS14618:AMAZON-AES, US)
+RedirectTo: hxxp://lkhgnio[.]top/jp
+urlscan.io: https://urlscan.io/result/74ca8d46-5d07-4531-9e8e-723ecdfd049f/
+URL: hxxp://lkhgnio[.]top/jp
+ResponseCode: -
+IPAddress: 204.44.95.226 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/search/#lkhgnio[.]top
+SenderIP: 27.157.223.226
+SenderDomain: 163data[.]com[.]cn
+SenderOrg: Nanping MAN
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<suport_1[at]news-apuls[.]com>
+Received: from smtp1[.]news-apuls[.]com ([198.148.118.13])
+spf=permerror
+dkim=pass header.d=news-apuls[.]com header.i=suport_1[at]news-apuls[.]com
+dmarc=pass header.from=news-apuls[.]com
+From: 株式会社アプラス <suport_1[at]news-apuls[.]com>
+Date: Tue, 13 Dec 2022 10:15:56 +0800
+Subject: 【NETstationAPLUS】アカウント情報を確認する
+URL: hxxps://netstation2[.]nets-aplus[.]com/
+ResponseCode: 200
+IPAddress: 205.185.121.174 (AS53667:PONYNET)
+RedirectTo: hxxps://netstation1[.]news-miicard[.]com/
+urlscan.io: https://urlscan.io/result/7397125e-069f-4b3a-a882-0fd7a263c8e7/
+URL: hxxps://netstation1[.]news-miicard[.]com/
+ResponseCode: 200
+IPAddress: 205.185.121.174 (AS53667:PONYNET, US)
+urlscan.io: https://urlscan.io/result/1c9b29c2-9e2c-4bc0-bfcb-7be5a0a70f80/
+SenderIP: 198.148.118.13
+SenderDomain: multacom[.]com
+SenderOrg: Multacom Corporation
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<noreply[at]smbs-crzad[.]icu>
+Received: from smbs-crzad[.]icu ([45.43.60.250])
+spf=pass
+dkim=none header.d=smbs-crzad[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from LAp[.]amazon[.]co[.]jp (unknown [23.236.125.99])
+Sender: noreply[at]smbs-crzad[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Mon, 12 Dec 2022 21:55:07 -0500
+X-mailer: Ibgrm 1
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+URL: hxxps://support[.]accwo-roqhanzn[.]icu/
+ResponseCode: 200
+IPAddress: 161.35.238.24 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/1bde48b5-368e-452c-bb57-64e44f2da770/
+SenderIP: 45.43.60.250
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+SenderIP: 23.236.125.99
+SenderDomain: zenlayer[.]com
+SenderOrg: Zenlayer Inc
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<postmaster[at]secure[.]vlisa-3d[.]com>
+Received: from mail[.]vlisa-3d[.]com ([65.108.19.231])
+spf=pass
+dkim=pass header.d=secure[.]vlisa-3d[.]com header.b=jKQdL18r;
+dmarc=pass header.from=secure[.]vlisa-3d[.]com
+Received: from mail[.]vlisa-3d[.]com (mail[.]vlisa-3d[.]com [127.0.0.1])
+dkim=pass (2048-bit key) reason="pass (just generated, assumed good)"
+Received: from mail[.]vlisa-3d[.]com ([127.0.0.1])
+Received: from mail[.]virsa-web[.]com (unknown [40.115.197.75])
+From: "VISA CARD" <postmaster[at]secure[.]vlisa-3d[.]com>
+Date: Tue, 13 Dec 2022 04:59:51 +000
+X-Mailer: Microsoft Outlook Express 6.77.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.77.2900.5512
+Subject: 【ご確認ください】 お客様のVISAカードの一部サービス停止のお知らせ (2022/12/13) [VISANET]
+URL: hxxps://digweb[.]vlisa-3d[.]com/
+ResponseCode: -
+IPAddress: 107.189.10.116 (AS53667:PONYNET, US)
+urlscan.io: https://urlscan.io/search/#digweb[.]vlisa-3d[.]com
+SenderIP: 65.108.19.231
+SenderDomain: hetzner[.]de
+SenderOrg: Hetzner Online GmbH
+AbuseConfidenceScore: 0 %
+SenderIP: 40.115.197.75
+SenderDomain: microsoft[.]com
+SenderOrg: Microsoft Corporation
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1099508[.]contaboserver[.]net>
+Received: from vmi1099508[.]contaboserver[.]net ([84.46.246.232])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1099508[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 13 Dec 2022 13:25:47 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]ysqrsv[.]top/
+ResponseCode: 200
+IPAddress: 107.150.4.55 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/141e87e2-a960-4880-8606-1dc889ae367c/
+SenderIP: 84.46.246.232
+SenderDomain: lrtc[.]lt
+SenderOrg: SC Lithuanian Radio and TV Center
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vmi1099507[.]contaboserver[.]net>
+Received: from vmi1099507[.]contaboserver[.]net ([84.46.246.231])
+spf=none
+dkim=none
+dmarc=fail header.from=viewsnet[.]jp
+Received: by vmi1099507[.]contaboserver[.]net (Postfix, from userid 1000)
+From: VIEW's NET <no-reply[at]viewsnet[.]jp>
+Date: Tue, 13 Dec 2022 13:24:54 +0800 (CST)
+Subject: 【重要】VIEW's NET アカウントの自動退会処理について
+URL: hxxps://viewsnet[.]jp[.]com[.]ysqrsv[.]top/
+ResponseCode: 200
+IPAddress: 107.150.4.55 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/247bbc6e-c39d-49bc-8114-d183d8bc1172/
+SenderIP: 84.46.246.231
+SenderDomain: lrtc[.]lt
+SenderOrg: SC Lithuanian Radio and TV Center
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<order-update[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([27.157.223.32])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Tue, 13 Dec 2022 13:56:39 +0800
+From: "Amazon[.]co[.]jp" <order-update[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Amazon[.]co[.]jp
+URL: hxxps://rebrand[.]ly/645799
+IPAddress: 54.237.146.211 (AS14618:AMAZON-AES, US)
+ResponseCode: 301
+RedirectTo: hxxp://iouknlig[.]top/jp
+urlscan.io: https://urlscan.io/result/cac8c0f4-a18b-4aff-bac8-2938f4b33712/
+URL: hxxp://iouknlig[.]top/jp
+IPAddress: 204.44.95.226 (AS64270:PACIFICRACK, US)
+ResponseCode: -
+urlscan.io: https://urlscan.io/search/#iouknlig[.]top
+SenderIP: 27.157.223.32
+SenderDomain: 163data[.]com[.]cn
+SenderOrg: Nanping MAN
+AbuseConfidenceScore: 6 %
+---
