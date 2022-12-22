@@ -1,0 +1,291 @@
+MAIL FROM:<mvsppq[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.13.22.99])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコ <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 05:11:40 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】オリコカード 本人確認のお知らせ
+PhishingSiteURL: hxxp://www[.]orico-co-jp[.]oricco[.]nuynyi[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orico-co-jp[.]oricco[.]nuynyi[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/591b8582-cc74-49fe-a7dc-cb8dc1a0e7d6/
+SenderIP: 106.13.22.99 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ygknn[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.13.86.146])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコカード  <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 05:27:46 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】オリコカード  ご利用確認のお願い
+PhishingSiteURL: hxxp://www[.]orieo-co-jp[.]oriceo[.]czemwj[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orieo-co-jp[.]oriceo[.]czemwj[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/ebe69860-e5d2-49c7-b501-2fee02df37cf/
+SenderIP: 106.13.86.146 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([114.235.149.127])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sat, 17 Dec 2022 05:46:32 +0800
+X-mailer: Ytoxopaln 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://www[.]prague-privateguide[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/3b4b03c1-adff-469e-8254-17247e5dbe66/
+SenderIP: 114.235.149.127 (ChinaNet Jiangsu Province Network)
+SenderDomain: chinatelecom[.]com[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<oelin[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([180.76.248.75])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコカード  <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 07:00:05 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】オリコカード  ご利用確認のお願い [メールコード Or{数字}]
+ResponseCode: 200
+PhishingSiteURL: hxxp://www[.]orieo-co-jp[.]oriceo[.]domhrf[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orieo-co-jp[.]oriceo[.]domhrf[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/6efcdf6f-2284-4d03-a54d-885dabae2531/
+SenderIP: 180.76.248.75 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]waterzz[.]cn>
+Received: from service[.]waterzz[.]cn ([192.3.103.105])
+spf=pass
+dkim=pass header.d=service[.]waterzz[.]cn header.b=EnHCqDV0;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]waterzz[.]cn
+Date: Sat, 17 Dec 2022 08:02:43 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】amazen株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mail-annz[.]ntcyun[.]com/
+ResponseCode: 200
+IPAddress: 34.146.239.134 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail-annz[.]ntcyun[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/d047b62f-e0f6-4c06-8c5a-993eb2bd5ba0/
+SenderIP: 192.3.103.105 (RackNerd LLC)
+SenderDomain: racknerd[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<br[at]yodobashi[.]com>
+Received: from yodobashi[.]com ([110.228.28.65])
+spf=fail
+dkim=none header.d=yodobashi[.]com header.b=;
+dmarc=fail header.from=yodobashi[.]com
+From: えきねっと <br[at]yodobashi[.]com>
+Date: Sat, 17 Dec 2022 07:47:36 +0800
+X-mailer: Qqycff 7
+Subject: 【えきねっと】重要なお知らせ
+PhishingSiteURL: hxxps://www[.]ekl--net[.]top/jp[.]php?Loginid={snip}&hoge@example[.]com
+ResponseCode: 200
+IPAddress: 192.161.164.163 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: urlscan.io: https://urlscan.io/result/6d7a705d-e107-4724-bc8b-8100f354c83b/
+SenderIP: 110.228.28.65 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<konukxv[at]eki-net[.]com>
+Received: from eki-net[.]com ([152.32.180.17])
+spf=softfail
+dkim=none header.d=eki-net[.]com header.b=;
+dmarc=fail header.from=eki-net[.]com
+Sender: konukxv[at]eki-net[.]com
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Sat, 17 Dec 2022 04:03:15 +0400
+X-mailer: Asuwnz 5
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+PhishingSiteURL: hxxps://s[.]eskus-reznu[.]icu/jp[.]php
+ResponseCode: 200
+IPAddress: 147.182.204.118 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/805f1a5a-5ab7-4c97-8d74-0a6e3ff986cd/
+SenderIP: 152.32.180.17 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]mazss[.]icu>
+Received: from mazss[.]icu ([152.32.220.141])
+spf=pass
+dkim=none header.d=mazss[.]icu header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from ukr[.]amazon[.]co[.]jp (unknown [123.58.192.11])
+Sender: noreply[at]mazss[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 17 Dec 2022 03:26:09 +0300
+X-mailer: Cqhjerwoaj 1
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://kakunin[.]aczua-iqu2gaan[.]icu/
+ResponseCode: 200
+IPAddress: 167.71.227.45 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/7bf95589-0ae8-4d41-bbd1-080d0556ef73/
+SenderIP: 152.32.220.141 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 123.58.192.11 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<vigk[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.13.216.166])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: Oricoカード <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 08:44:05 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【Oricoカード】重要なお知らせ
+PhishingSiteURL: hxxp://www[.]orico-co-jp[.]oricco[.]axoxqa[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orico-co-jp[.]oricco[.]axoxqa[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/9df8fc4a-7497-444b-908c-5172846c7f1c/
+SenderIP: 106.13.216.166 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<st[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.13.22.99])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: Oricoカード <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 10:02:17 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【最終警告】Oricoカード からの緊急の連絡 [メールコード Or{数字}]
+PhishingSiteURL: hxxp://www[.]orico-co-jp[.]oricco[.]aaamgb[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orico-co-jp[.]oricco[.]aaamgb[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/1a79fd23-91cc-4add-aeae-9cf06a106546/
+SenderIP: 106.13.22.99 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<hbq[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([106.13.86.146])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコ <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 10:47:36 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【Oricoカード】本人情報緊急確認
+PhishingSiteURL: hxxp://www[.]orico-co-jp[.]oricco[.]brvcan[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orico-co-jp[.]oricco[.]brvcan[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/d2174906-f61d-4909-a985-a1d26f01ff6e/
+SenderIP: 106.13.86.146 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<esk[at]orico[.]co[.]jp>
+Received: from orico[.]co[.]jp ([180.76.248.75])
+spf=softfail
+dkim=none header.d=orico[.]co[.]jp header.b=;
+dmarc=none header.from=orico[.]co[.]jp
+From: オリコカード  <info[at]orico[.]co[.]jp>
+Date: Sat, 17 Dec 2022 12:18:26 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】Oricoカード ご利用確認のお願い [メールコード Or{数字}]
+PhishingSiteURL: hxxp://www[.]orieo-co-jp[.]oriceo[.]dtrbft[.]top/
+ResponseCode: 200
+IPAddress: 198.55.122.253 (AS8100:ASN-QUADRANET-GLOBAL)
+RedirectTo: hxxps://www[.]orieo-co-jp[.]oriceo[.]dtrbft[.]top/jp[.]php
+urlscan.io: https://urlscan.io/result/1f292939-711d-4f69-976c-cb73cf2b9562/
+SenderIP: 180.76.248.75 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]mazss[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=fuwu[at]mazss[.]icu;
+Received: from mazss[.]icu (unknown [152.32.220.141])
+Received: from NHK[.]amazon[.]co[.]jp (unknown [152.32.197.187])
+Sender: fuwu[at]mazss[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+Date: Fri, 16 Dec 2022 18:26:31 -0300
+X-mailer: Ltm 3
+PhishingSiteURL: hxxps://kakunin[.]aczua-iqu2gaan[.]icu/
+ResponseCode: 200
+IPAddress: 167.71.227.45 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/7bf95589-0ae8-4d41-bbd1-080d0556ef73/
+SenderIP: 152.32.220.141 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.197.187 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<admin[at]aeno-sven[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=admin[at]aeno-sven[.]icu;
+Received: from aeno-sven[.]icu (unknown [123.58.198.151])
+Received: from EXU[.]amazon[.]co[.]jp (unknown [128.1.42.18])
+Sender: admin[at]aeno-sven[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: あなたのアカウントは停止されました、情報を更新してください
+Date: Fri, 16 Dec 2022 22:16:40 +0100
+X-mailer: Zvfysleohk 9
+PhishingSiteURL: hxxps://support[.]aczua-toaban[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/f112d1b4-32de-40e2-a7f6-12ee8f33f965/
+SenderIP: 123.58.198.151 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 128.1.42.18 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<kefu[at]aenosesu[.]icu>
+Received: from aenosesu[.]icu ([118.26.110.115])
+spf=pass
+dkim=none header.d=aenosesu[.]icu header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from HBn[.]amazon[.]co[.]jp (unknown [23.236.126.221])
+Sender: kefu[at]aenosesu[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 17 Dec 2022 01:41:47 -0300
+X-mailer: Rehj 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://kakunin[.]aczua-iqu2gaan[.]icu/
+ResponseCode: 200
+IPAddress: 167.71.227.45 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/7bf95589-0ae8-4d41-bbd1-080d0556ef73/
+SenderIP: 118.26.110.115 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 23.236.126.221 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+---

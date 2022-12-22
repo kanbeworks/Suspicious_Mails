@@ -1,0 +1,135 @@
+MAIL FROM:<support[at]service[.]bowenshangyou[.]cn>
+Received: from service[.]bowenshangyou[.]cn ([96.43.86.189])
+spf=pass
+dkim=pass header.d=service[.]bowenshangyou[.]cn header.b=B5j8Dxr0;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]bowenshangyou[.]cn
+Date: Sun, 18 Dec 2022 04:00:29 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mail-annz[.]ntcyun[.]com/
+ResponseCode: 200
+IPAddress: 34.146.239.134 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail-annz[.]ntcyun[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/deb040a3-c278-4adf-b90e-fe66d0452daa/
+SenderIP: 96.43.86.189 (Multacom Corporation)
+SenderDomain: multacom.com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<meikom[at]tincsohaza[.]icu>
+Received: from tincsohaza[.]icu ([106.75.247.132])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=tincsohaza[.]icu
+dmarc=none header.from=tincsohaza[.]icu
+From: アマゾン公式サイト <meikom[at]tincsohaza[.]icu>
+Date: Sun, 18 Dec 2022 05:36:31 +0800
+Subject: 注文とアカウントは停止されます
+PhishingSiteURL: hxxps://www-amazon-co-jp[.]prakoso[.]shop/ap/signin
+URL: hxxps://www-amazon-co-jp[.]prakoso[.]shop/ap/signin
+ResponseCode: 200
+IPAddress: 107.189.2.69 (AS53667:PONYNET, US)
+urlscan.io: https://urlscan.io/result/342f15b3-2d8a-46a1-8886-78b5d1cbb77a/
+SenderIP: 106.75.247.132 (Shanghai UCloud Information Technology Company Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 18 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([49.68.242.65])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sun, 18 Dec 2022 05:47:59 +0800
+X-mailer: Omoyifus 5
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://www[.]prague-privateguide[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/d6e4a028-55cd-45ca-9445-accacbbce431/
+SenderIP: 49.68.242.65 (ChinaNet Jiangsu Province Network)
+SenderDomain: chinatelecom.com.cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<idocwrs[at]service[.]iphbzq[.]cn>
+Received: from service[.]iphbzq[.]cn ([164.70.117.97])
+spf=pass
+dkim=pass header.d=service[.]iphbzq[.]cn header.b=DYkO1kB+;
+dmarc=pass header.from=service[.]iphbzq[.]cn
+Date: Sun, 18 Dec 2022 08:44:34 +0800
+From: ETC利用照会サービス <idocwrs[at]service[.]iphbzq[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: {Name}様 【ETC利用照会サービス】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+PhishingSiteURL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://patient-king-c87c[.]lok2g4hd37[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.217.26.238 (AS15169:GOOGLE)
+RedirectTo: hxxps://patient--king--c87c-lok2g4hd37-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/4ea185fb-b73e-4227-89e4-66a5b15a45f0/
+PhishingSiteURL: hxxps://patient-king-c87c[.]lok2g4hd37[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 104.21.34.217 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/d1a76c20-df76-40d0-853a-1a15039f90c1/
+SenderIP: 164.70.117.97 (Server Hosting Service)
+SenderDomain: suitepro.jp
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<yx[at]yodobashi[.]com>
+Received: from yodobashi[.]com ([101.24.254.82])
+spf=fail
+dkim=none header.d=yodobashi[.]com header.b=;
+dmarc=fail header.from=yodobashi[.]com
+From: えきねっと <yx[at]yodobashi[.]com>
+Date: Sun, 18 Dec 2022 20:51:50 +0800
+X-mailer: Nwpbihv 9
+Subject: 【えきねっと】重要なお知らせ
+PhishingSiteURL: hxxps://www[.]ekl--net[.]top/jp[.]php?Loginid=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&hoge@example[.]com
+ResponseCode: 200
+IPAddress: 192.161.164.163 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/b071e830-7536-406b-b178-73eac943a2ea/
+SenderIP: 101.24.254.82 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom.com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<service[at]eukl-peascoey[.]icu>
+Received: from eukl-peascoey[.]icu ([152.32.164.146])
+spf=pass
+dkim=none header.d=eukl-peascoey[.]icu
+dmarc=fail header.from=eki-net[.]com
+Received: from eki-net[.]com (unknown [118.193.65.118])
+Sender: service[at]eukl-peascoey[.]icu
+From: "eki-net" <contact[at]eki-net[.]com>
+Date: Sun, 18 Dec 2022 20:53:57 +000
+X-mailer: Yxbatkzmkq 9
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+PhishingSiteURL: hxxps://s[.]eskus-rczazu[.]icu/jp[.]php
+ResponseCode: -
+IPAddress: 143.198.97.230 (AS14061:DIGITALOCEAN-ASN, US)
+urlscan.io: https://urlscan.io/result/ea641caa-f3bb-45d1-bf2a-469b074d1df9/
+SenderIP: 152.32.164.146 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+SenderIP: 118.193.65.118 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]eakl-kanzt[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=fuwu[at]eakl-kanzt[.]icu;
+Received: from eakl-kanzt[.]icu (unknown [152.32.218.164])
+Received: from AGY[.]amazon[.]co[.]jp (unknown [152.32.157.231])
+Sender: fuwu[at]eakl-kanzt[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+Date: Sun, 18 Dec 2022 21:59:19 +000
+X-mailer: Gzymyqrhh 7
+PhishingSiteURL: hxxps://support[.]aczua-taotqaan[.]icu/
+ResponseCode: 200
+IPAddress: 167.71.35.160 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/1fd9375c-2927-4001-9212-22254397e6da/
+SenderIP: 152.32.218.164 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.157.231 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+---

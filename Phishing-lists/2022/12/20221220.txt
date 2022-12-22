@@ -1,0 +1,156 @@
+MAIL FROM:<noreply[at]aonecec[.]icu>
+Received: from aonecec[.]icu ([23.248.175.216])
+spf=pass
+dkim=none header.d=aonecec[.]icu header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from ZVE[.]amazon[.]co[.]jp (unknown [107.155.48.158])
+Sender: noreply[at]aonecec[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Mon, 19 Dec 2022 13:51:00 -0500
+X-mailer: Xiyxppzmcj 0
+Subject: 支払い方法を更新してください
+PhishingSiteURL: hxxps://support[.]azuoz-itwivan[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/10647453-acbc-4b1f-98d3-c70aea580666/
+SenderIP: 23.248.175.216 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+SenderIP: 107.155.48.158 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]hdaab[.]cn>
+Received: from service[.]hdaab[.]cn ([170.178.199.118])
+spf=pass
+dkim=pass header.d=service[.]hdaab[.]cn header.b=PEd7+vqq;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]hdaab[.]cn
+Date: Tue, 20 Dec 2022 04:34:45 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重 要】Amazen アカウントでの悪意のあるアクティビティを検出する
+PhishingSiteURL: hxxps://mail[.]beczero[.]com/
+ResponseCode: 200
+IPAddress: 34.84.159.41 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail[.]beczero[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/d5d2ff97-e540-4cbb-b6be-b62b0cc46d8b/
+SenderIP: 170.178.199.118 (Multacom Corporation)
+SenderDomain: multacom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<vsri[at]2q9euzk[.]cn>
+Received: from mail[.]sierujg[.]cn ([106.12.74.56])
+spf=pass
+dkim=none header.d=2q9euzk[.]cn header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from OYK[.]baidu[.]com (unknown [111.224.79.161])
+Sender: vsri[at]2q9euzk[.]cn
+From: "Amazon[.]co[.]jp" <amazon[at]amazon[.]co[.]jp>
+Date: Tue, 20 Dec 2022 01:55:50 +0800
+X-mailer: Fiuol 0
+Subject: ＜緊急通知＞支払い方法を更新してください
+PhishingSiteURL: hxxps://amezoon[.]morphision[.]com/jp[.]php
+ResponseCode: 200
+IPAddress: 172.86.125.184 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/7e68a83e-790c-4d51-a92f-82a518b15b1f/
+SenderIP: 106.12.74.56 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+SenderIP: 111.224.79.161 (ChinaNet Hebei Province Network)
+SenderDomain: chinatelecom[.]com[.]cn
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<amazon[at]zusingtts[.]shop>
+Received: from zusingtts[.]shop ([106.75.250.60])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=zusingtts[.]shop
+dmarc=none header.from=zusingtts[.]shop
+From: アマゾン公式サイト <amazon@zusingtts[.]shop>
+Date: Tue, 20 Dec 2022 07:11:55 +0800
+Subject: 【Amazon[.]co[.]jp】支�Bい方法を更新してください。{MailAddress}
+PhishingSiteURL: hxxps://www-amazon-co-jp[.]prakoso[.]shop/ap/signin
+ResponseCode: 200
+IPAddress: 107.189.2.69 (AS53667:PONYNET)
+urlscan.io: https://urlscan.io/result/7fd9bef0-10ab-41a3-b720-9cea2dfdcdf9/
+SenderIP: 106.75.250.60 (Shanghai UCloud Information Technology Company Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<fuwu[at]euapercnzd[.]icu>
+Received: from euapercnzd[.]icu ([103.72.147.47])
+spf=pass
+dkim=none header.d=euapercnzd[.]icu
+dmarc=fail header.from=eki-net[.]com
+Received: from eki-net[.]com (unknown [104.218.164.5])
+Sender: fuwu[at]euapercnzd[.]icu
+From: えきねっと <contact[at]eki-net[.]com>
+Date: Tue, 20 Dec 2022 00:23:36 +000
+X-mailer: Dkapajwabu 0
+Subject: 【重要】えきねっとアカウントの自動退会処理について
+PhishingSiteURL: hxxps://s[.]esku-rceae[.]icu/jp[.]php
+ResponseCode: -
+IPAddress: 143.198.97.230 (AS14061:DIGITALOCEAN-ASN, US)
+urlscan.io: https://urlscan.io/result/da4807be-cac7-477d-a297-301ac8686ff5/
+SenderIP: 103.72.147.47 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+SenderIP: 104.218.164.5 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]africanfund[.]cn>
+Received: from africanfund[.]cn ([106.75.33.99])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=africanfund[.]cn
+dmarc=none header.from=africanfund[.]cn
+From: 会員資格は取り消されます <amazon[at]africanfund[.]cn>
+Date: Tue, 20 Dec 2022 12:57:23 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+PhishingSiteURL: hxxps://www[.]gdiotzu[.]cn/
+ResponseCode: 200
+IPAddress: 155.94.129.58 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/ed461d03-41f3-45e0-ad84-1f4d9e7e828f/
+SenderIP: 106.75.33.99 (Shanghai UCloud Information Technology Company Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 18 %
+---
+MAIL FROM:<email_ml.etc-meisai[at]radiacaca[.]net>
+Received: from mail5[.]radiacaca[.]net ([107.174.70.87])
+spf=pass
+dkim=pass header.d=radiacaca[.]net header.i=email_ml.etc-meisai[at]radiacaca[.]net
+dmarc=none header.from=ml[.]smile-etc[.]jp
+Sender: email_ml.etc-meisai[at]radiacaca[.]net
+From: E T C サービス <admin[at]ml[.]smile-etc[.]jp>
+Date: Tue, 20 Dec 2022 14:55:08 +000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: ETCサービスご利用者様へ大切なお知らせ
+PhishingSiteURL: hxxps://etc-1[.]cvsauvzo[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.149.87 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/39202685-051b-48c6-8bf2-9a4fcb5347ed/
+SenderIP: 107.174.70.87 (Virtual Machine Solutions LLC)
+SenderDomain: virmach[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<service[at]epoecazorsnd[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=service[at]epoecazorsnd[.]icu;
+Received: from epoecazorsnd[.]icu (unknown [118.194.250.185])
+Received: from rPy[.]amazon[.]co[.]jp (unknown [152.32.227.116])
+Sender: service[at]epoecazorsnd[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: 支払い方法を更新してください
+Date: Mon, 19 Dec 2022 20:51:13 +0300
+X-mailer: Czdjpylmam 7
+PhishingSiteURL: hxxps://support[.]azuoz-itotuazn[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/ff34b8b6-0f3d-4524-80b7-927f10a60dc9/
+SenderIP: 118.194.250.185 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 100 %
+SenderIP: 152.32.227.116 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
