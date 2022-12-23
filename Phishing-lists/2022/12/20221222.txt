@@ -1,78 +1,78 @@
-MAIL FROM:<changeid[at]amazon.co.jp>
-Received: from amazon.co.jp ([117.69.189.245])
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([117.69.189.245])
 spf=fail
-dkim=none header.d=amazon.co.jp
-dmarc=fail header.from=amazon.co.jp
-From: "Amazon.co.jp" <changeid[at]amazon.co.jp>
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
 Date: Thu, 22 Dec 2022 04:49:35 +0800
 X-mailer: Edugc 3
 Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
-PhishingSiteURL: https://www.ballroomspirit.com/jp
+PhishingSiteURL: hxxps://www[.]ballroomspirit[.]com/jp
 ResponseCode: 200
 IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
 urlscan.io: https://urlscan.io/result/fa5184d4-7660-4304-a8b4-2ea8d445540f/
 SenderIP: 117.69.189.245 (ChinaNet Anhui Province Network)
-SenderDomain: chinatelecom.com.cn
+SenderDomain: chinatelecom[.]com[.]cn
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<support[at]service.hdaab.cn>
-Received: from service.hdaab.cn ([170.178.199.118])
+MAIL FROM:<support[at]service[.]hdaab[.]cn>
+Received: from service[.]hdaab[.]cn ([170.178.199.118])
 spf=pass
-dkim=pass header.d=service.hdaab.cn header.b=I5CEqhQW;
-dmarc=fail header.from=mail.amazon.co.jp
-Sender: support[at]service.hdaab.cn
+dkim=pass header.d=service[.]hdaab[.]cn header.b=I5CEqhQW;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]hdaab[.]cn
 Date: Thu, 22 Dec 2022 05:58:50 +0900
-From: "amazon.co.jp" <info[at]mail.amazon.co.jp>
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: 【重なら】Amazen株式会社から緊急のご連絡
-PhishingSiteURL: https://service.binancexa.com/
+PhishingSiteURL: hxxps://service[.]binancexa[.]com/
 ResponseCode: 200
 IPAddress: 34.84.159.41 (AS396982:GOOGLE-CLOUD-PLATFORM)
-RedirectTo: https://service.binancexa.com/ap/index.php?openid.pape.max_auth_age=0&openid.return_to={snip}
+RedirectTo: hxxps://service[.]binancexa[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
 urlscan.io: https://urlscan.io/result/69752fac-b679-4eef-ad89-e0db0555c3b2/
 SenderIP: 170.178.199.118 (Multacom Corporation)
-SenderDomain: multacom.com
+SenderDomain: multacom[.]com
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<mmxpnfg[at]service.znrssr.cn>
-Received: from service.znrssr.cn ([157.7.66.51])
+MAIL FROM:<mmxpnfg[at]service[.]znrssr[.]cn>
+Received: from service[.]znrssr[.]cn ([157.7.66.51])
 spf=pass
-dkim=pass header.d=service.znrssr.cn header.b=ZUg6iFfo;
-dmarc=pass header.from=service.znrssr.cn
+dkim=pass header.d=service[.]znrssr[.]cn header.b=ZUg6iFfo;
+dmarc=pass header.from=service[.]znrssr[.]cn
 Date: Thu, 22 Dec 2022 13:52:39 +0800
-From: えきねっと <mmxpnfg[at]service.znrssr.cn>
+From: えきねっと <mmxpnfg[at]service[.]znrssr[.]cn>
 X-mailer: Foxmail 6, 13, 102, 15 [cn]
 Subject: jinchou様 【えきねっと】ご案内※アカウントのセキュリティの問題メール番号：{数字}
-https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://frosty-bird-b9f6.ilrolo2jm5.workers.dev/
-PhishingSiteURL: https://translate.google.com/translate?sl=auto&tl=ja&hl=ja&u=https://frosty-bird-b9f6.ilrolo2jm5.workers.dev/
+hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://frosty-bird-b9f6[.]ilrolo2jm5[.]workers[.]dev/
+PhishingSiteURL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://frosty-bird-b9f6[.]ilrolo2jm5[.]workers[.]dev/
 ResponseCode: 200
 IPAddress: 142.251.42.174 (AS15169:GOOGLE)
-RedirectTo: https://frosty--bird--b9f6-ilrolo2jm5-workers-dev.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+RedirectTo: hxxps://frosty--bird--b9f6-ilrolo2jm5-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
 urlscan.io: https://urlscan.io/result/dc40cbdc-c9f2-404f-947a-bacf64baf408/
-PhishingSiteURL: https://frosty-bird-b9f6.ilrolo2jm5.workers.dev/
+PhishingSiteURL: hxxps://frosty-bird-b9f6[.]ilrolo2jm5[.]workers[.]dev/
 ResponseCode: 200
 IPAddress: 172.67.191.103 (AS13335:CLOUDFLARENET)
 urlscan.io: https://urlscan.io/result/f18d7af3-5ae9-4c63-b759-d878146d95af/
 SenderIP: 157.7.66.51 (GMO Internet Inc.)
-SenderDomain: gmo.jp
+SenderDomain: gmo[.]jp
 AbuseConfidenceScore: 0 %
 ---
-MAIL FROM:<info[at]sinrigaku-lovers.com>
-Received: from sv13471.xserver.jp (sv13471.xserver.jp. [162.43.118.152])
-spf=pass (google.com: domain of info[at]sinrigaku-lovers.com designates 162.43.118.152 as permitted sender) smtp.mailfrom=info[at]sinrigaku-lovers.com
-Received: from ezsgbpkpjk (sub{数字}.hmk-temp.com [153.122.113.55])
-From: 三井住友カード <info[at]sinrigaku-lovers.com>
+MAIL FROM:<info[at]sinrigaku-lovers[.]com>
+Received: from sv13471[.]xserver[.]jp (sv13471[.]xserver[.]jp. [162.43.118.152])
+spf=pass (google[.]com: domain of info[at]sinrigaku-lovers[.]com designates 162.43.118.152 as permitted sender) smtp[.]mailfrom=info[at]sinrigaku-lovers[.]com
+Received: from ezsgbpkpjk (sub{数字}.hmk-temp[.]com [153.122.113.55])
+From: 三井住友カード <info[at]sinrigaku-lovers[.]com>
 Subject: ご登録お客様情報の定期的な確認のお願いにつきまして
 Date: Thu, 22 Dec 2022 20:44:25 +0900 (JST)
-PhishingSiteURL: https://www.smbc-card.udspy.com/all/login.php
+PhishingSiteURL: hxxps://www[.]smbc-card[.]udspy[.]com/all/login[.]php
 ResponseCode: 200
 IPAddress: 173.254.231.158 (AS8100:ASN-QUADRANET-GLOBAL)
-RedirectTo: https://www.smbc-card.udspy.com/
+RedirectTo: hxxps://www[.]smbc-card[.]udspy[.]com/
 urlscan.io: https://urlscan.io/result/649fd845-9ccb-4c03-9787-3b5e31a402b8/
 SenderIP: 162.43.118.152 (XSERVER Inc.)
-SenderDomain: xserver.ne.jp
+SenderDomain: xserver[.]ne[.]jp
 AbuseConfidenceScore: 0 %
 SenderIP: 153.122.113.55 (DIX Co. Ltd.)
-SenderDomain: dix.jp
+SenderDomain: dix[.]jp
 AbuseConfidenceScore: 0 % 
 ---
