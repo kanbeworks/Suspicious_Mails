@@ -1,0 +1,174 @@
+MAIL FROM:<support[at]service[.]bowenshangyou[.]cn>
+Received: from service[.]bowenshangyou[.]cn ([96.43.86.189])
+spf=pass
+dkim=pass header.d=service[.]bowenshangyou[.]cn header.b=kKZpa4hQ;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]bowenshangyou[.]cn
+Date: Sat, 24 Dec 2022 04:08:16 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】Amazen株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mail-annz[.]ntcyun[.]com/
+ResponseCode: 200
+IPAddress: 34.146.239.134 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail-annz[.]ntcyun[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/cb7b50a3-5ecb-4d7c-afe0-6fc2d3469de1/
+SenderIP: 96.43.86.189 (Multacom Corporation)
+SenderDomain: multacom[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<www[at]vm4126253[.]1nvme[.]had[.]wf>
+Received: from vm4126253[.]1nvme[.]had[.]wf ([45.82.70.50])
+spf=none
+dkim=none
+dmarc=none header.from=vm4126253[.]1nvme[.]had[.]wf
+Received: by vm4126253[.]1nvme[.]had[.]wf (Postfix, from userid 1000)
+From: えきねっとサポートセンター <www[at]vm4126253[.]1nvme[.]had[.]wf>
+Date: Sat, 24 Dec 2022 03:33:59 +0800 (CST)
+Subject: 【重要】「えきねっと」アカウントの自動退会処理について 。メール番号:JR東2xxxx
+PhishingSiteURL: hxxps://jr-ekinet[.]3utilities[.]com/cv7tMBy
+ResponseCode: -
+IPAddress: 47.245.52.225 (AS45102:ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN)
+urlscan.io: https://urlscan.io/result/cdbbda5f-21b2-4116-945a-8e808e048e95/
+SenderIP: 45.82.70.50 (Zomro B.V.)
+SenderDomain: novoserve[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([114.234.100.53])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sat, 24 Dec 2022 05:53:32 +0800
+X-mailer: Ohhyzdeghi 6
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+PhishingSiteURL: hxxps://www[.]triple8cad[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/98223bbc-ff78-4f66-a7c3-e0be2a85bf36/
+SenderIP: 114.234.100.53 (ChinaNet Jiangsu Province Network)
+SenderDomain: chinatelecom[.]com[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<amazon[at]ofemtqr[.]cn>
+Received: from ofemtqr[.]cn ([106.75.224.130])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=ofemtqr[.]cn
+dmarc=none
+From: 会員資格は取り消されます <amazon[at]ofemtqr[.]cn>
+Date: Sat, 24 Dec 2022 13:44:58 +0800
+Subject: Amazonプライムの自動更新設定を解除いたしました！
+PhishingSiteURL: hxxps://www[.]evkpkn[.]top/
+ResponseCode: 200
+IPAddress: 155.94.143.237 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/52437e1d-2149-482d-8956-c509b7ae0247/
+SenderIP: 106.75.224.130 (Shanghai UCloud Information Technology Company Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 20 % 
+---
+MAIL FROM:<zh[at]plmxy[.]top>
+Received: from mail9[.]plmxy[.]top ([162.214.177.89])
+spf=pass
+dkim=pass header.d=plmxy[.]top header.i=zh[at]plmxy[.]top header.b=YxSX8TA1;
+dmarc=pass header.from=plmxy[.]top
+From: 最終警告 <zh[at]plmxy[.]top>
+Date: Fri, 23 Dec 2022 23:16:30 -0800
+Subject: 個々のオーソライズは適時に完了しなければならない
+PhishingSiteURL: hxxps://amzon-serve-jp[.]feitdt[.]icu/
+ResponseCode: null
+IPAddress: 173.254.231.226 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/86d95616-4400-4931-9066-8b1015435ac6/
+SenderIP: 162.214.177.89 (Unified Layer)
+SenderDomain: unifiedlayer[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<gpgmkmhzb[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([60.1.248.87])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+Date: Sat, 24 Dec 2022 16:13:42 +0800
+From: "Amazon" <gpgmkmhzb[at]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxp://amazoco[.]top/
+ResponseCode: -
+IPAddress: 158.51.96.80 (AS397270:NETINF-TRANSIT-AS)
+VirusTotal: https://www.virustotal.com/gui/domain/amazoco[.]top
+SenderIP: 60.1.248.87 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<succes-amazon[at]75tfs2[.]shop>
+Received: from 75tfs2[.]shop ([83.229.35.61])
+spf=pass
+dkim=pass header.d=75tfs2[.]shop header.b=JaJW6MJP;
+dmarc=pass header.from=75tfs2[.]shop
+Received: from bwhwvmoks (unknown [45.64.52.116])
+From: Amazon[.]co[.]jp <succes-amazon[at]75tfs2[.]shop>
+Date: Sat, 24 Dec 2022 18:08:24 +0800
+X-Mailer: Mjocrwqteyu 7
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://pvbtn2[.]shop/
+ResponseCode: 200
+IPAddress: 128.199.160.51 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/8e4018f7-45b9-4606-8e3f-edabe5057e42/
+SenderIP: 83.229.35.61 (Cloud Web Manage)
+SenderDomain: cloudwm[.]com
+AbuseConfidenceScore: 0 %
+SenderIP: 45.64.52.116 (Sun Network (Hong Kong) Limited)
+SenderDomain: sun[.]net[.]hk
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([175.150.72.220])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sat, 24 Dec 2022 21:06:59 +0800
+X-mailer: Hqwdhpw 0
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+PhishingSiteURL: hxxps://www[.]terassyifa[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/9a3a6e51-572b-4ff0-b4f8-56999f73d5b1/
+SenderIP: 175.150.72.220 (China Unicom Liaoning Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<feshdxgde[at]jovgrqu[.]cn>
+Received: from jovgrqu[.]cn ([20.89.239.220])
+spf=pass
+dkim=pass header.d=jovgrqu[.]cn header.b=ohKOO25R;
+dmarc=none header.from=ml[.]etc-meisai[.]jp
+Date: Sat, 24 Dec 2022 13:54:13 +000
+From: ETC利用照会 <admin[at]ml[.]etc-meisai[.]jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: ETC会員再確認のご知らせ
+PhishingSiteURL: hxxps://www[.]go-etac-fiands[.]olpic[.]club/jp
+ResponseCode: 200
+IPAddress: 47.87.141.232 (AS0:Not routed)
+urlscan.io: https://urlscan.io/result/13c633aa-261f-4837-94ab-78b6788f8253/
+SenderIP: 20.89.239.220 (Microsoft Corporation)
+SenderDomain: microsoft[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vm4126253[.]1nvme[.]had[.]wf>
+Received: from vm4126253[.]1nvme[.]had[.]wf ([45.82.70.50])
+spf=none
+dkim=none
+dmarc=none header.from=vm4126253[.]1nvme[.]had[.]wf
+Received: by vm4126253[.]1nvme[.]had[.]wf (Postfix, from userid 1000)
+From: えきねっとサポートセンター <www[at]vm4126253[.]1nvme[.]had[.]wf>
+Date: Sat, 24 Dec 2022 21:18:22 +0800 (CST)
+Subject: 【重要】「えきねっと」アカウントの自動退会処理について 。メール番号:JR東4xxxx
+PhishingSiteURL: hxxps://jr-ekinet[.]3utilities[.]com/cv7tMBy
+ResponseCode: -
+IPAddress: 47.245.52.225 (AS45102:ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN)
+urlscan.io: https://urlscan.io/result/cdbbda5f-21b2-4116-945a-8e808e048e95/
+SenderIP: 45.82.70.50 (Zomro B.V.)
+SenderDomain: novoserve[.]com
+AbuseConfidenceScore: 0 %
+---

@@ -1,0 +1,172 @@
+MAIL FROM:<mail[at]mstacsnuecc[.]icu>
+Received: from mstacsnuecc[.]icu ([128.14.230.128])
+spf=pass
+dkim=none header.d=mstacsnuecc[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from UHe[.]amazon[.]co[.]jp (unknown [152.32.151.202])
+Sender: mail[at]mstacsnuecc[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Sat, 24 Dec 2022 10:31:04 -0500
+X-mailer: Devtogqqaq 0
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://kakunin[.]aozizu-ailateon[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/fb68ff37-407e-4406-9a2a-842c96d1264d/
+SenderIP: 128.14.230.128 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.151.202 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<support[at]service[.]abssw[.]cn>
+Received: from service[.]abssw[.]cn ([107.175.134.49])
+spf=pass
+dkim=pass header.d=service[.]abssw[.]cn header.b=ArIz+Fpj;
+dmarc=pass header.from=service[.]abssw[.]cn
+Date: Sun, 25 Dec 2022 02:35:09 +0800
+From: "Amazon[.]co[.]jp" <support[at]service[.]abssw[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】Amazonの緊急連絡、情報を更新してください。メール番号:M{数字}
+PhishingSiteURL: hxxps://sup[.]kinddomain[.]com/
+ResponseCode: 200
+IPAddress: 34.85.101.215 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://sup[.]kinddomain[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/166efdc9-0ac3-4bc2-a603-d61801a24d3c/
+SenderIP: 107.175.134.49 (Global Cloud Line)
+SenderDomain: globalcloudline[.]com
+AbuseConfidenceScore: 31 %
+---
+MAIL FROM:<support[at]service[.]bowenshangyou[.]cn>
+Received: from service[.]bowenshangyou[.]cn ([96.43.86.189])
+spf=pass
+dkim=pass header.d=service[.]bowenshangyou[.]cn header.b=QFQecqDw;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]bowenshangyou[.]cn
+Date: Sun, 25 Dec 2022 03:41:56 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】Amazen株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mail-annz[.]ntcyun[.]com/
+ResponseCode: 200
+IPAddress: 34.146.239.134 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail-annz[.]ntcyun[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/8935ba06-b737-4045-8093-fc8e77b72178/
+SenderIP: 96.43.86.189 (Multacom Corporation)
+SenderDomain: multacom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.110.123.140])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Sun, 25 Dec 2022 05:17:01 +0800
+X-mailer: Chqqjxnp 5
+Subject: 【重要なお知らせ】Amazonプライムの自動更新設定を解除いたしました #2xx-{数字}
+PhishingSiteURL: hxxp://www[.]mywelchdesign[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.126.53 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/e488240f-e6a3-4190-b5c2-fd437ebfe96c/
+SenderIP: 106.110.123.140 (ChinaNet Guangdong Province Network)
+SenderDomain: chinatelecom[.]com[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<succes-amazon[at]souis10[.]shop>
+Received: from souis10[.]shop ([78.138.51.182])
+spf=softfail
+dkim=pass header.d=souis10[.]shop header.b=jdHZbGYk;
+dmarc=pass header.from=souis10[.]shop
+Received: from ybg (unknown [45.64.52.116])
+From: Amazon[.]co[.]jp <succes-amazon[at]souis10[.]shop>
+Date: Sun, 25 Dec 2022 08:41:52 +0800
+X-Mailer: Jsmdwt 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://pvbtn2[.]shop/
+ResponseCode: 200
+IPAddress: 128.199.160.51 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/e6806f0b-7b5c-4efc-b6d0-499009763606/
+SenderIP: 78.138.51.182 (Cloud Web Manage)
+SenderDomain: cloudwm[.]com
+AbuseConfidenceScore: 7 % 
+SenderIP: 45.64.52.116 (Sun Network (Hong Kong) Limited)
+SenderDomain: sun[.]net[.]hk
+AbuseConfidenceScore: 0 %
+SenderIP: 45.64.52.116 (Sun Network (Hong Kong) Limited)
+SenderDomain: sun[.]net[.]hk
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<gdilortg[at]ku[.]net>
+Received: from ku[.]net ([60.1.248.161])
+spf=fail
+dkim=none header.d=ku[.]net header.b=;
+dmarc=none header.from=ku[.]net
+Date: Sun, 25 Dec 2022 11:25:41 +0800
+From: "Amazon" <gdilortg[at]ku[.]net>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxp://amazaon-co-jp[.]top/
+ResponseCode: 200
+IPAddress: 104.223.4.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/47010175-0ec2-41b4-9813-e3c058b21598/
+SenderIP: 60.1.248.161 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<www[at]vm4126253[.]1nvme[.]had[.]wf>
+Received: from vm4126253[.]1nvme[.]had[.]wf ([45.82.70.50])
+spf=none
+dkim=none
+dmarc=none header.from=vm4126253[.]1nvme[.]had[.]wf
+Received: by vm4126253[.]1nvme[.]had[.]wf (Postfix, from userid 1000)
+From: えきねっとサポートセンター <www[at]vm4126253[.]1nvme[.]had[.]wf>
+Date: Sun, 25 Dec 2022 04:39:06 +0800 (CST)
+Subject: 【重要】「えきねっと」アカウントの自動退会処理について 。メール番号:JR東1xxxx
+PhishingSiteURL: hxxps://jr-ekinet[.]3utilities[.]com/cv7tMBy
+ResponseCode: -
+IPAddress: 47.245.52.225 (AS45102:ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN)
+urlscan.io: https://urlscan.io/result/450b18d1-ada3-4fbf-9785-f844b1b2b2a7/
+SenderIP: 45.82.70.50 (Zomro B.V.)
+SenderDomain: novoserve[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<admin[at]ml[.]etc-meisai[.]jp>
+Received: from ml[.]etc-meisai[.]jp ([101.24.251.151])
+spf=fail
+dkim=none header.d=ml[.]etc-meisai[.]jp
+dmarc=none header.from=ml[.]etc-meisai[.]jp
+From: ＥＴＣ利用照会サービス <admin[at]ml[.]etc-meisai[.]jp>
+Date: Sun, 25 Dec 2022 20:13:08 +0800
+X-mailer: Ute 3
+Subject: ETCサービスご利用者様へ大切なお知らせ
+PhishingSiteURL: hxxp://www2[.]etc-meisai[.]shop/jp[.]php
+ResponseCode: 200
+IPAddress: 104.21.23.179 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/6550d48a-6be5-4a3d-b66f-239a54bba093/
+SenderIP: 101.24.251.151 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]smbsrued[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=noreply[at]smbsrued[.]icu;
+Received: from smbsrued[.]icu (unknown [152.32.163.209])
+Received: from Mvc[.]amazon[.]co[.]jp (unknown [23.236.126.36])
+Sender: noreply[at]smbsrued[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+Date: Sat, 24 Dec 2022 17:03:32 -0300
+X-mailer: Vmndhpwzs 9
+PhishingSiteURL: hxxps://support[.]aozizu-ailateon[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/fd31ce38-1eb9-4791-8e74-c7c88dfe87d7/
+SenderIP: 152.32.163.209 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 23.236.126.36 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 %
+---

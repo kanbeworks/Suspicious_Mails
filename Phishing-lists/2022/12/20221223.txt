@@ -1,0 +1,97 @@
+MAIL FROM:<chjhxwnu[at]service[.]lx2skfm[.]cn>
+Received: from service[.]lx2skfm[.]cn ([91.149.221.143])
+spf=pass
+dkim=pass header.d=service[.]lx2skfm[.]cn header.b=JGerYHhr;
+dmarc=pass header.from=service[.]lx2skfm[.]cn
+Date: Fri, 23 Dec 2022 00:33:22 +0800
+From: "Amazon[.]co[.]jp" <chjhxwnu[at]service[.]lx2skfm[.]cn>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重要】異常ログイン通知。問題メール番号：{数字}
+PhishingSiteURL: hxxps://translate[.]google[.]com/translate?sl=auto&tl=ja&hl=ja&u=hxxps://cool-poetry-faf7[.]nfsphtwmg7[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 142.250.199.110 (AS15169:GOOGLE)
+RedirectTo: hxxps://cool--poetry--faf7-nfsphtwmg7-workers-dev[.]translate[.]goog/?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja
+urlscan.io: https://urlscan.io/result/071e3a0a-83a7-42d3-9917-b7e1bda6373a/
+PhishingSiteURL: hxxps://cool-poetry-faf7[.]nfsphtwmg7[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.218.34 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/7f5d2099-28e0-4943-b0dd-598dccb1b069/
+SenderIP: 91.149.221.143 (Marton Sp. z o.o.)
+SenderDomain: martonmedia.pl
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<support[at]service[.]hdaab[.]cn>
+Received: from service[.]hdaab[.]cn ([170.178.199.118])
+spf=pass
+dkim=pass header.d=service[.]hdaab[.]cn header.b=DtLzfC2Z;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]hdaab[.]cn
+Date: Fri, 23 Dec 2022 07:09:31 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】Amazen株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mails[.]fshfh[.]com/
+ResponseCode: -
+IPAddress: 34.97.61.80 (AS396982:GOOGLE-CLOUD-PLATFORM, US)
+urlscan.io: https://urlscan.io/search/#mails[.]fshfh[.]com
+SenderIP: 170.178.199.118 (Multacom Corporation)
+SenderDomain: multacom.com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<update-amazon[at]777amk[.]shop>
+Received: from 777amk[.]shop ([162.251.147.110])
+spf=pass
+dkim=pass header.d=777amk[.]shop header.b=mEP7zEpA;
+dmarc=pass header.from=777amk[.]shop
+Received: from zdno (unknown [45.64.52.116])
+From: Amazon[.]co[.]jp <update-amazon[at]777amk[.]shop>
+Date: Fri, 23 Dec 2022 17:12:47 +0800
+X-Mailer: Hpxvtkdstat 2
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://xc2gqq[.]shop/
+ResponseCode: 200
+IPAddress: 128.199.160.51 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/4e36e41c-5e25-4912-9a54-86e5c7068d9a/
+SenderIP: 162.251.147.110 (Kamatera Inc.)
+SenderDomain: kamatera.com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<www[at]vm4126253[.]1nvme[.]had[.]wf>
+Received: from vm4126253[.]1nvme[.]had[.]wf ([45.82.70.50])
+spf=none
+dkim=none
+dmarc=none header.from=vm4126253[.]1nvme[.]had[.]wf
+Received: by vm4126253[.]1nvme[.]had[.]wf (Postfix, from userid 1000)
+From: えきねっとサポートセンター <www[at]vm4126253[.]1nvme[.]had[.]wf>
+Date: Fri, 23 Dec 2022 21:39:30 +0800 (CST)
+Subject: 【重要】「えきねっと」アカウントの自動退会処理について 。メール番号:JR東7xxxx
+PhishingSiteURL: hxxp://eki-net[.]com[.]ebfqiti[.]cn/
+ResponseCode: 404
+IPAddress: 47.245.30.106 (AS45102:ALIBABA-CN-NET Alibaba US Technology Co., Ltd.)
+RedirectTo: hxxps://eki-net[.]com[.]ebfqiti[.]cn/Personal/member/Login/index[.]php?oneTimeAccessID={snip}
+urlscan.io: https://urlscan.io/result/32cbeef7-f217-4cd2-bd62-2df84bdef0c1/
+SenderIP: 45.64.52.116 (Sun Network (Hong Kong) Limited)
+SenderDomain: sun.net.hk
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<service[at]eklnaeunt[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=service[at]eklnaeunt[.]icu;
+Received: from mstacrueacc[.]com (unknown [152.32.139.250])
+Received: from TmY[.]amazon[.]co[.]jp (unknown [118.193.65.60])
+Sender: service[at]eklnaeunt[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: 支払い方法を更新してください
+Date: Fri, 23 Dec 2022 22:12:21 +000
+X-mailer: Wpmuypu 5
+PhishingSiteURL: hxxps://kakunin[.]aoizzr-oqaikn[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/6dfa21f2-4db9-4065-b6e9-843d2668dfff/
+SenderIP: 152.32.139.250 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+SenderIP: 118.193.65.60 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud.cn
+AbuseConfidenceScore: 0 %
+---
