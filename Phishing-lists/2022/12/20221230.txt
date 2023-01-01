@@ -1,0 +1,107 @@
+MAIL FROM:<changeid[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([49.81.89.117])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <changeid[at]amazon[.]co[.]jp>
+Date: Fri, 30 Dec 2022 05:44:51 +0800
+X-mailer: Xsabaaewa 6
+Subject: 【重なら】お客様のお支払い方法が承認されません。
+PhishingSiteURL: hxxps://www[.]madoka-ogitani[.]com/jp
+ResponseCode: 200
+IPAddress: 172.86.127.197 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/165703b6-6fb9-4e11-a4d8-29117b493f89/
+SenderIP: 49.81.89.117 (ChinaNet Jiangsu Province Network)
+SenderDomain: chinatelecom[.]com[.]cn
+AbuseConfidenceScore: 7 % 
+---
+MAIL FROM:<ovfvgc[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([60.1.255.244])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <From[at]amazon[.]co[.]jp>
+Date: Fri, 30 Dec 2022 08:24:26 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://amazaon-co-jp[.]top/
+ResponseCode: 200
+IPAddress: 104.223.4.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/451e3077-9a6f-4050-bdfb-454b7cc72352/
+SenderIP: 60.1.255.244 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<uqrxqnjb[at]buransd[.]com>
+Received: from buransd[.]com ([20.89.248.233])
+spf=pass
+dkim=pass header.d=buransd[.]com header.b=WBGRXvhV;
+dmarc=none header.from=ml[.]etc-meisai[.]jp
+Date: Fri, 30 Dec 2022 09:42:56 +000
+From: ＥＴＣ利用照会サービス事務局 <admin[at]ml[.]etc-meisai[.]jp>
+X-Mailer: Foxmail 7, 0, 1, 91[cn]
+Subject: セキュリティステムを更新のお知らせと登録情報確認のお願につきまして
+PhishingSiteURL: hxxps://www[.]go-etac-fiands[.]olpic[.]club/jp
+ResponseCode: 200
+IPAddress: 47.87.201.129 (AS0:Not routed)
+urlscan.io: https://urlscan.io/result/3a2b9463-b196-4b19-b6a6-9281816b6bb5/
+SenderIP: 20.89.248.233 (Microsoft Corporation)
+SenderDomain: microsoft[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<nkgkwhg[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([60.1.252.227])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <From[at]amazon[.]co[.]jp>
+Date: Fri, 30 Dec 2022 17:53:40 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://www[.]amazon-co-jp[.]info/ap/signin
+ResponseCode: 200
+IPAddress: 202.81.242.13 (AS4658:M2012LIMITED-AS 2012 Limited  Netfront)
+urlscan.io: https://urlscan.io/result/e2827689-f55c-489b-be3b-be3da6e908e5/
+SenderIP: 60.1.252.227 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<punnwfpa[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([60.1.253.228])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <From[at]amazon[.]co[.]jp>
+Date: Fri, 30 Dec 2022 18:00:47 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://www[.]amazon-co-jp[.]info/ap/signin
+ResponseCode: 200
+IPAddress: 202.81.242.13 (AS4658:M2012LIMITED-AS 2012 Limited  Netfront)
+urlscan.io: https://urlscan.io/result/e2827689-f55c-489b-be3b-be3da6e908e5/
+SenderIP: 60.1.253.228 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<mail[at]jenumrerns[.]icu>
+Received: from jenumrerns[.]icu ([118.193.56.170])
+spf=pass
+dkim=none header.d=jenumrerns[.]icu
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from iGG[.]amazon[.]co[.]jp (unknown [123.58.207.207])
+Sender: mail[at]jenumrerns[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Fri, 30 Dec 2022 23:53:06 +000
+X-mailer: Vqy 3
+Subject: {Name} 【Amazon】ご案内※アカウントのセキュリティの問題メール番号：{数字}
+PhishingSiteURL: hxxps://support[.]aczcca-oitwian[.]icu/
+ResponseCode: 200
+IPAddress: 188.166.251.116 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/6abf84b6-cd68-454b-b489-2f8b5427e488/
+SenderIP: 118.193.56.170 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 123.58.207.207 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---

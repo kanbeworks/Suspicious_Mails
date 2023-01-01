@@ -1,0 +1,170 @@
+MAIL FROM:<kefu[at]jacroecs[.]icu>
+Received: from jacroecs[.]icu ([118.194.239.33])
+spf=pass
+dkim=none header.d=jacroecs[.]icu header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from sGt[.]amazon[.]co[.]jp (unknown [128.14.234.177])
+Sender: kefu[at]jacroecs[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 28 Dec 2022 16:50:21 -0500
+X-mailer: Bqvcfc 3
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://kakunin[.]azizn-oasknvna[.]icu/
+ResponseCode: 200
+IPAddress: 161.35.238.24 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/a0baa772-2a79-4f73-98fe-5178c674b7d2/
+SenderIP: 118.194.239.33 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 128.14.234.177 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 100 %
+---
+MAIL FROM:<support[at]service[.]bowenshangyou[.]cn>
+Received: from service[.]bowenshangyou[.]cn ([96.43.86.189])
+spf=pass
+dkim=pass header.d=service[.]bowenshangyou[.]cn header.b=XM21oIl7;
+dmarc=fail header.from=mail[.]amazon[.]co[.]jp
+Sender: support[at]service[.]bowenshangyou[.]cn
+Date: Thu, 29 Dec 2022 06:52:11 +0900
+From: "amazon[.]co[.]jp" <info[at]mail[.]amazon[.]co[.]jp>
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Subject: 【重なら】amazen株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://mail[.]aclikou[.]com/
+ResponseCode: 200
+IPAddress: 34.84.159.41 (AS396982:GOOGLE-CLOUD-PLATFORM)
+RedirectTo: hxxps://mail[.]aclikou[.]com/ap/index[.]php?openid[.]pape[.]max_auth_age=0&openid[.]return_to={snip}
+urlscan.io: https://urlscan.io/result/887370d8-e79d-4c1f-8f7d-c0b596f882a8/
+SenderIP: 96.43.86.189 (Multacom Corporation)
+SenderDomain: multacom[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<ipm[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.211.17])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 07:08:47 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要なお知らせ】お客様のお支払い方法が承認されません
+PhishingSiteURL: hxxp://www[.]amazceon-co-jp[.]amazccen[.]vcuzut[.]top/
+ResponseCode: -
+IPAddress: 155.94.145.170 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/65725978-3ee8-4281-b03d-9aacf0db7bf1/
+SenderIP: 106.12.211.17 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<hgjy[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.23.20])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 07:31:08 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】異常な行為が検出
+PhishingSiteURL: hxxp://www[.]amazconn-co-jp[.]amazccne[.]eizava[.]top/
+ResponseCode: -
+IPAddress: 155.94.145.170 (AS8100:ASN-QUADRANET-GLOBAL, US)
+urlscan.io: https://urlscan.io/result/ecace913-89e0-43af-acfa-664c064a7605/
+SenderIP: 106.12.23.20 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<wkyczqjh[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([182.61.131.230])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 08:03:21 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonお支払い方法の情報を更新
+PhishingSiteURL: hxxp://www[.]amazconn-co-jp[.]amazccne[.]zjxjaj[.]top/
+ResponseCode: -
+IPAddress: 155.94.145.170 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/result/ffa09d81-353d-4ca3-865e-630d043c5800/
+SenderIP: 182.61.131.230 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<vjk[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.13.31.23])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon[.]co[.]jp" <info[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 08:32:58 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【重要】Amazonお支払い方法の情報を更新
+PhishingSiteURL: hxxp://www[.]amazconn-co-jp[.]amazccne[.]xbltcs[.]top/
+ResponseCode: -
+IPAddress: 155.94.145.170 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/result/eb5808b3-3ca2-4f54-b2ce-1fcdae6a340e/
+SenderIP: 106.13.31.23 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<noreply[at]aenorszn[.]icu>
+Received: from aenorszn[.]icu ([118.194.250.225])
+spf=pass
+dkim=none header.d=aenorszn[.]icu header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+Received: from sAa[.]amazon[.]co[.]jp (unknown [107.150.101.105])
+Sender: noreply[at]aenorszn[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Date: Wed, 28 Dec 2022 17:08:31 -0800
+X-mailer: Mnutfhext 6
+Subject: Amazon株式会社から緊急のご連絡メ-ル番号:{数字}
+PhishingSiteURL: hxxps://support[.]azizn-ooranvin[.]icu/
+ResponseCode: 200
+IPAddress: 161.35.238.24 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/b1609fa1-afa7-4e33-9c20-6bbbcdc98a69/
+SenderIP: 118.194.250.225 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 107.150.101.105 (Zenlayer Inc)
+SenderDomain: zenlayer[.]com
+AbuseConfidenceScore: 0 % 
+---
+MAIL FROM:<zhwh[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([106.12.2.129])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp header.b=;
+dmarc=fail header.from=amazon[.]co[.]jp
+From: "Amazon" <info[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 10:12:36 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.20348.1
+Subject: 【ご注意】お客様のお支払い方法が承認されません
+PhishingSiteURL: hxxp://www[.]amazconn-co-jp[.]amazccne[.]yvqepw[.]top/
+ResponseCode: -
+IPAddress: 155.94.145.170 (AS64270:PACIFICRACK, US)
+urlscan.io: https://urlscan.io/result/75e42308-de4a-4e64-8642-4f001b101c1a/
+SenderIP: 106.12.2.129 (Beijing Baidu Netcom Science and Technology Co. Ltd.)
+SenderDomain: baidu[.]com
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<jalynzka[at]amazon[.]co[.]jp>
+Received: from amazon[.]co[.]jp ([101.24.255.109])
+spf=fail
+dkim=none header.d=amazon[.]co[.]jp
+dmarc=fail header.from=amazon[.]co[.]jp
+From: Amazon <From[at]amazon[.]co[.]jp>
+Date: Thu, 29 Dec 2022 16:23:46 +0800
+X-Mailer: Supmailer 37.0.3
+Subject: Amazon株式会社から緊急のご連絡
+PhishingSiteURL: hxxps://amazaon-co-jp[.]top/
+ResponseCode: 200
+IPAddress: 104.223.4.247 (AS8100:ASN-QUADRANET-GLOBAL)
+urlscan.io: https://urlscan.io/result/351c9bed-4c73-4aa7-916a-a87f17fad1ea/
+SenderIP: 101.24.255.109 (China Unicom Hebei Province Network)
+SenderDomain: chinaunicom[.]com
+AbuseConfidenceScore: 0 % 
+---

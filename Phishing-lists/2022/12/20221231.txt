@@ -1,0 +1,55 @@
+MAIL FROM:<kuronekoyamato[at]tincsohaza[.]icu>
+Received: from tincsohaza[.]icu ([106.75.134.233])
+spf=pass
+dkim=fail (key DNS reply corrupt) header.d=tincsohaza[.]icu
+dmarc=none header.from=tincsohaza[.]icu
+From: YAMATO TRANSPORT <kuronekoyamato[at]tincsohaza[.]icu>
+Subject: 【クロネコメンバーズ】大至急❗️配達状況お問い合わせ。{MyMailAddress}
+Date: Sat, 31 Dec 2022 04:28:00 +0800
+PhishingSiteURL: hxxps://www-kuronekoyamato-co-jp[.]ciciherbal[.]shop/
+ResponseCode: 200
+IPAddress: 45.11.94.114 (AS56971:CLOUDBACKBONE, HK)
+urlscan.io: https://urlscan.io/result/e467e55e-3859-47c0-979c-59b083312ec2/
+SenderIP: 106.75.134.233 (Shanghai UCloud Information Technology Company Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<service[at]aenocuz[.]icu>
+dmarc=fail (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon[.]co[.]jp
+spf=pass smtp[.]mailfrom=service[at]aenocuz[.]icu;
+Received: from aenocuz[.]icu (unknown [123.58.199.58])
+Received: from EWq[.]amazon[.]co[.]jp (unknown [152.32.180.136])
+Sender: service[at]aenocuz[.]icu
+From: "Amazon[.]co[.]jp" <noreply[at]amazon[.]co[.]jp>
+Subject: 支払い方法を更新してください
+Date: Fri, 30 Dec 2022 19:59:04 +0400
+X-mailer: Cqtcsrr 9
+PhishingSiteURL: hxxps://kakunin[.]aczcca-opwehan[.]icu/
+ResponseCode: 200
+IPAddress: 167.71.227.45 (AS14061:DIGITALOCEAN-ASN)
+urlscan.io: https://urlscan.io/result/5f68fb72-d828-4e00-afd9-4184d85c8fb9/
+SenderIP: 123.58.199.58 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+SenderIP: 152.32.180.136 (UCloud Information Technology (HK) Limited)
+SenderDomain: ucloud[.]cn
+AbuseConfidenceScore: 0 %
+---
+MAIL FROM:<admin[at]ama-vxbxsds[.]cf>
+Received: from mail[.]ama-vxbxsds[.]cf ([114.116.197.249])
+spf=pass
+dkim=pass header.d=ama-vxbxsds[.]cf header.i=admin[at]ama-vxbxsds[.]cf
+dmarc=fail header.from=Amazon[.]jp
+Sender: admin[at]ama-vxbxsds[.]cf
+From: "Amazon" <in[at]Amazon[.]jp>
+Date: Sat, 31 Dec 2022 19:54:59 +000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Subject: Amazonアカウントが異常な状態になっています
+PhishingSiteURL: hxxps://amen[.]cvsauvzo[.]workers[.]dev/
+ResponseCode: 200
+IPAddress: 172.67.149.87 (AS13335:CLOUDFLARENET)
+urlscan.io: https://urlscan.io/result/7214eb81-4ae9-47eb-90e9-a947d1917c8c/
+SenderIP: 114.116.197.249 (Huawei Public Cloud Service)
+SenderDomain: huawei[.]com
+AbuseConfidenceScore: 0 %
+---
